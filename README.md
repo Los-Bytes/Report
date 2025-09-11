@@ -1,6 +1,6 @@
 <div align = "center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-  <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
+  <img style="height: 200px" src=/assets/UPC_logo_transparente.png>
   <h2 >Carrera: de Ingeniería de Software</h2>
   <h2 >Ciclo: 2025-02</h2>
   <br>
