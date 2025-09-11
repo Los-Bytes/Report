@@ -1,13 +1,14 @@
 <div align = "center">
+  <img style="height: 150px" src=/assets/UPC_logo_transparente.png alt="">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-  <img style="height: 200px" src=/assets/UPC_logo_transparente.png>
-  <h2 >Carrera: de Ingeniería de Software</h2>
-  <h2 >Ciclo: 2025-02</h2>
+  <h2>Carrera: de Ingeniería de Software</h2>
+  <h2>Ciclo: 2025-02</h2>
+  <h2>1ASI0730 - Aplicaciones Web </h2>
+  <h2>NRC: 7454</h2>
   <br>
-  <h2 >Curso: Desarrollo de Aplicaciones Web</h2>
-  <h2 >NRC: 7454</h2>
+  <h2>Profesor: Angel Augusto Velasquez Nuñez </h2>
+  <h2>Informe de Trabajo Final</h2>
   <br>
-  <h2 >Informe del TB1</h2>
   <h2 >Startup: ASSIDUOU SOFTWARE </h2>
   <h2 >Producto: LabIoT</h2>
   <br>
