@@ -31,12 +31,12 @@
 |---------|-------------|--------------------------------------------------|-----------------------------|
 | 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
 
+## Project Report Collaboration Insights
 | URL de la organización del proyecto |   URL del repositorio del reporte   |
 |:-----------------------------------:|:-----------------------------------:|
 |   https://github.com/Los-Bytes      | https://github.com/Los-Bytes/Report |
 
-
-## Tabla de contenidos
+## Contenido
 
 - [Student Outcome](#student-outcome)
 
