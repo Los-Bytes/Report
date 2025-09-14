@@ -159,3 +159,70 @@ del ABET – EAC - Student Outcome 5.
   </tr>
 
 </table>
+
+## Capítulo 1: Introducción
+### 1.1. Startup Profile
+#### 1.1.1. Descripción del Startup
+Somos Los Bytes, un grupo de estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) comprometidos con el desarrollo de soluciones tecnológicas innovadoras que aporten valor y eficiencia al sector científico. En el marco de nuestra formación académica, hemos emprendido la creación de una Startup enfocada en transformar la gestión de inventarios en laboratorios a través del uso de tecnologías inteligentes como el Internet de las Cosas (IoT), RFID y sensores inteligentes, combinando innovación, precisión y automatización. 
+
+Misión:</br>
+Nuestra misión es mejorar la gestión y seguridad en laboratorios de investigación y empresas proveedoras, facilitando el monitoreo proactivo y la eficiencia mediante tecnologías inteligentes como IoT, RFID y códigos QR. Queremos eliminar tareas tediosas y minimizar riesgos asociados al manejo de materiales críticos. 
+
+Visión:</br> 
+Nuestra visión es convertirnos en un startup referente en soluciones tecnológicas para gestión inteligente de inventarios en laboratorios, promoviendo entornos más seguros, eficientes y confiables para la investigación científica y la comercialización de insumos, tanto en Perú como en otros mercados emergentes. 
+
+#### 1.1.2. Perfiles de integrantes del equipo
+<table>
+  <tr>
+    <th colspan="2"> Alicia Avril Navarro Chang </th>
+  </tr>
+  <tr>
+    <td> <img src="assets/assets/chapter-1/Alicia.jpeg" width=300px> </td>
+    <td> Soy estudiante de Ingeniería de Software en la UPC, con conocimientos básicos en programación en C++ y Python, fundamentos en bases de datos, diseño y modelado de software utilizando UML y diagramas, así como algoritmos y estructuras de datos básicos. Además, poseo habilidades de empatía y comunicación efectiva que me permiten colaborar de manera eficiente en equipo, facilitando la comunicación clara y asertiva para contribuir a un entorno de trabajo productivo y colaborativo. </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Alexander Auden Aliaga Ocampo </th>
+  </tr>
+  <tr>
+    <td> <img > </td>
+    <td> Soy estudiante de ingeniería de software en la UPC, con conocimientos básicos en los lenguajes de programación como c++, python , css, html, javascript también conocimientos básicos en base de datos viendo Mongo DB y creando diagramas relaciones como no relacionales. Además poseo habilidades de empatía y buena comunicación con el equipo esto me permite ser productivo en el ámbito de grupos y en general. </td>
+  </tr>
+<tr>
+    <th colspan="2"> Poly Gabriel Alcántara Baldeon </th>
+  </tr>
+  <tr>
+    <td> <img > </td>
+    <td>Soy estudiante de Ingeniería de Software. Tengo conocimientos básicos en lenguajes de programación como C#, Java y Python. Me interesa el desarrollo de videojuegos y estoy buscando oportunidades para aprender y crecer en este campo. Además, poseo habilidades blandas como la capacidad de trabajar en equipo, la proactividad y la adaptabilidad, lo que me permite ser productivo en entornos colaborativos y enfrentar nuevos desafíos con entusiasmo. </td>
+  </tr>
+<tr>
+    <th colspan="2"> Cristhian Joel Huanca Zevallos </th>
+  </tr>
+  <tr>
+    <td> <img > </td>
+    <td> Soy estudiante de ingeniería de software en la UPC,  me considero una persona proactiva, organizada y responsable al momento de desarrollar un nuevo proyecto en mi vida. En un grupo de trabajo siempre trato de respetar las opiniones de los demás, trato de entender los demás puntos de vista y animo a estar en unión frente a un problema.  </td>
+  </tr>
+<tr>
+    <th colspan="2">Andre Pillaca Velasquez </th>
+  </tr>
+  <tr>
+    <td> <img > </td>
+    <td>Soy estudiante de la carrera de Ingeniería de Software. Tengo 22 años y entre mis cualidades están ser perseverante y responsable. Entre mis habilidades, tengo experiencia en los lenguajes de programación de C + +,Python y espero seguir aprendiendo para llegar a ser un profesional competente. </td>
+  </tr>
+ <tr>
+    <th colspan="2">  </th>
+  </tr>
+  <tr>
+    <td> <img > </td>
+    <td> </td>
+  </tr>
+</table>
+
+### 1.2. Solution Profile
+#### 1.2.1. Antecedentes y problemática 
+#### 1.2.2. Lean UX Process
+##### 1.2.2.1. Lean UX Problem Statements
+##### 1.2.2.2. Lean UX Assumptions
+##### 1.2.2.3. Lean UX Hyphotesis Statements
+##### 1.2.2.4. Lean UX Canvas
+### 1.3 Segmentos Objetivo 
+
