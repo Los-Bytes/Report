@@ -163,7 +163,16 @@ del ABET – EAC - Student Outcome 5.
 ## Capítulo 1: Introducción
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción del Startup
+Somos Los Bytes, un grupo de estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) comprometidos con el desarrollo de soluciones tecnológicas innovadoras que aporten valor y eficiencia al sector científico. En el marco de nuestra formación académica, hemos emprendido la creación de una Startup enfocada en transformar la gestión de inventarios en laboratorios a través del uso de tecnologías inteligentes como el Internet de las Cosas (IoT), RFID y sensores inteligentes, combinando innovación, precisión y automatización. 
+
+Misión:</br>
+Nuestra misión es mejorar la gestión y seguridad en laboratorios de investigación y empresas proveedoras, facilitando el monitoreo proactivo y la eficiencia mediante tecnologías inteligentes como IoT, RFID y códigos QR. Queremos eliminar tareas tediosas y minimizar riesgos asociados al manejo de materiales críticos. 
+
+Visión:</br> 
+Nuestra visión es convertirnos en un startup referente en soluciones tecnológicas para gestión inteligente de inventarios en laboratorios, promoviendo entornos más seguros, eficientes y confiables para la investigación científica y la comercialización de insumos, tanto en Perú como en otros mercados emergentes. 
+
 #### 1.1.2. Perfiles de integrantes del equipo
+
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática 
 #### 1.2.2. Lean UX Process
