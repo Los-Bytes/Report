@@ -240,6 +240,36 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 <img src="assets/assets/chapter-1/user-persona2.png" alt="">
 
 #### 2.3.2. User Task Matrix  
+### User Task Matrix: Responsable de Laboratorio de Investigación (Carlos Estrada)
+
+| Task                                                                 | Importance | Frequency |
+|---------------------------------------------------------------------|------------|-----------|
+| Supervisar el control y disponibilidad de insumos y equipos         | High       | Always    |
+| Actualizar el inventario (entradas, salidas, vencimientos)          | High       | Often     |
+| Verificar condiciones críticas (temperatura, humedad, etc.)         | High       | Often     |
+| Organizar el historial y reportes de uso de materiales              | Moderate   | Often     |
+| Atender consultas y coordinar con investigadores                    | Moderate   | Always    |
+| Gestionar alertas por materiales críticos o vencimientos            | High       | Often     |
+| Compartir información con el equipo y la dirección                  | Moderate   | Often     |
+| Realizar conteo manual cuando hay discrepancias                     | Low        | Rare      |
+| Solicitar reposición o compra de insumos                            | Moderate   | Often     |
+
+---
+
+### User Task Matrix: Supervisora de Compras en Empresa Proveedora (Paula Benítez)
+
+| Task                                                                | Importance | Frequency |
+|---------------------------------------------------------------------|------------|-----------|
+| Gestionar inventario de productos y verificar stock disponible      | High       | Often     |
+| Coordinar envíos y entregas con laboratorios clientes               | High       | Often     |
+| Procesar cotizaciones y atender solicitudes de compra               | High       | Always    |
+| Supervisar calidad de productos recibidos                           | High       | Often     |
+| Actualizar catálogo de productos y precios                          | Moderate   | Often     |
+| Resolver incidencias con pedidos y facturación                      | Moderate   | Rare      |
+| Mantener comunicación proactiva con clientes                        | High       | Always    |
+| Analizar patrones de compra para anticipar necesidades              | Moderate   | Rare      |
+| Crear promociones y descuentos para clientes frecuentes             | Low        | Rare      |
+
 #### 2.3.3. User Journey Mapping  
 #### 2.3.4. Empathy Mapping  
 
