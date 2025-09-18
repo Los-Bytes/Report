@@ -235,7 +235,10 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 #### 2.2.3. Análisis de entrevistas  
 
 ### 2.3. Needfinding  
-#### 2.3.1. User Personas  
+#### 2.3.1. User Personas
+<img src="assets/assets/chapter-1/user-persona1.png" alt="">
+<img src="assets/assets/chapter-1/user-persona2.png" alt="">
+
 #### 2.3.2. User Task Matrix  
 #### 2.3.3. User Journey Mapping  
 #### 2.3.4. Empathy Mapping  
