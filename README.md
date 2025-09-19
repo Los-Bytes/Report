@@ -271,6 +271,9 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 | Crear promociones y descuentos para clientes frecuentes             | Low        | Rare      |
 
 #### 2.3.3. User Journey Mapping  
+<img src="assets/assets/chapter-1/user-journey-mapping-1.png" alt="">
+<img src="assets/assets/chapter-1/user-journey-mapping-2.png" alt="">
+
 #### 2.3.4. Empathy Mapping  
 
 ### 2.4. Big Picture EventStorming  
