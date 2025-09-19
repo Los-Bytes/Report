@@ -274,6 +274,10 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 #### 2.3.4. Empathy Mapping  
 
 ### 2.4. Big Picture EventStorming  
+<img src="assets/assets/chapter-1/step1-event-storming.jpg" alt="">
+<img src="assets/assets/chapter-1/step2-event-storming.jpg" alt="">
+<img src="assets/assets/chapter-1/step3-event-storming.jpg" alt="">
+<img src="assets/assets/chapter-1/step4-event-storming.jpg" alt="">
 
 ### 2.5. Ubiquitous Language  
 
