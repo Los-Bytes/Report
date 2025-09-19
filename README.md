@@ -256,7 +256,59 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
+##### Competidores directos: 
+- **Labguru**: plataforma de gestión de inventario y datos de laboratorio, con módulos para trazabilidad. 
+- **Quartzy**: software de gestión de inventario y pedidos para laboratorios de investigación. 
+- **LabCollector**: sistema modular que gestiona inventarios, muestras y equipos de laboratorio. 
+
+##### Competidores indirectos: 
+- **ERP tradicionales** como SAP o Odoo, que incluyen módulos de inventario, pero no especializados en laboratorios. 
+- **Sistemas de monitoreo IoT genéricos**, que no están centrados en laboratorios, pero pueden adaptarse. 
+- **Excel u hojas de cálculo** (competencia informal, pero todavía muy utilizada en laboratorios pequeños). 
+
+<img src="assets/assets/chapter-1/competidores_cuadro.png" width=max>
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
+**Perfil**
+
+El análisis competitivo permitió identificar que los principales competidores (Labguru, Quartzy y LabCollector) ofrecen soluciones sólidas de gestión de inventarios, pero carecen de integración con tecnologías IoT y monitoreo en tiempo real.  
+
+Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas: 
+
+**Estrategias**
+
+1. **Diferenciación tecnológica**
+
+- Potenciar la integración de IoT (sensores, RFID, QR) para garantizar monitoreo en tiempo real y trazabilidad completa. 
+- Incorporar alertas automáticas y registros auditables que los competidores no ofrecen. 
+
+2. **Especialización de nicho**
+
+- Foco exclusivo en laboratorios de investigación, universidades y proveedores de insumos. 
+- Cumplir y superar normativas de seguridad y trazabilidad propias del sector científico. 
+
+3. **Accesibilidad y escalabilidad**
+
+- Ofrecer versiones básicas a laboratorios pequeños y módulos premium a grandes instituciones. 
+- Implementar una estrategia de precios competitiva frente a plataformas internacionales. 
+
+4. **Alianzas estratégicas con proveedores**
+
+- Crear sinergias con distribuidores de insumos para incluir la trazabilidad desde el origen hasta la entrega. 
+- Posicionarse como un puente de confianza entre proveedor y cliente. 
+
+5. **Posicionamiento de marca**
+
+- Consolidar a LabIoT como un “laboratorio inteligente y seguro” que combina innovación, eficiencia y seguridad. 
+
+**Tácticas**
+
+- Implementar pilotos gratuitos en laboratorios pequeños para validar el valor agregado y generar casos de éxito. 
+- Desarrollar módulos personalizables (inventario básico, monitoreo avanzado, reportes de auditoría, integración ERP). 
+- Aplicar estrategias de marketing digital enfocadas en beneficios medibles (ahorro de tiempo, reducción de errores, cumplimiento normativo). 
+- Establecer alianzas B2B con proveedores de insumos, integrando QR/RFID en la cadena de suministro. 
+- Mantener precios competitivos con planes accesibles y escalables. 
+- Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
 #### 2.2.2. Registro de entrevistas
@@ -301,7 +353,14 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 <img src="assets/assets/chapter-1/user-journey-mapping-1.png" alt="">
 <img src="assets/assets/chapter-1/user-journey-mapping-2.png" alt="">
 
-#### 2.3.4. Empathy Mapping  
+#### 2.3.4. Empathy Mapping 
+**Laboratorios**
+
+<img src="assets/assets/chapter-2/empathy_map_lab.png" width=max>
+
+**Suppliers**
+
+<img src="assets/assets/chapter-2/empathy_map_supplier.png" width=max>
 
 ### 2.4. Big Picture EventStorming  
 <img src="assets/assets/chapter-1/step1-event-storming.jpg" alt="">
@@ -508,56 +567,3 @@ documento [docs/database-diagram.puml](docs/database-diagram.puml).
 ## Conclusiones
 ## Bibliografía
 ## Anexos
-
-#### 2.1.2 Estrategias y tácticas frente a competidores 
-
-**Perfil**
-
-El análisis competitivo permitió identificar que los principales competidores (Labguru, Quartzy y LabCollector) ofrecen soluciones sólidas de gestión de inventarios, pero carecen de integración con tecnologías IoT y monitoreo en tiempo real.  
-
-Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas: 
-
-**Estrategias**
-
-1. **Diferenciación tecnológica**
-
-- Potenciar la integración de IoT (sensores, RFID, QR) para garantizar monitoreo en tiempo real y trazabilidad completa. 
-- Incorporar alertas automáticas y registros auditables que los competidores no ofrecen. 
-
-2. **Especialización de nicho**
-
-- Foco exclusivo en laboratorios de investigación, universidades y proveedores de insumos. 
-- Cumplir y superar normativas de seguridad y trazabilidad propias del sector científico. 
-
-3. **Accesibilidad y escalabilidad**
-
-- Ofrecer versiones básicas a laboratorios pequeños y módulos premium a grandes instituciones. 
-- Implementar una estrategia de precios competitiva frente a plataformas internacionales. 
-
-4. **Alianzas estratégicas con proveedores**
-
-- Crear sinergias con distribuidores de insumos para incluir la trazabilidad desde el origen hasta la entrega. 
-- Posicionarse como un puente de confianza entre proveedor y cliente. 
-
-5. **Posicionamiento de marca**
-
-- Consolidar a LabIoT como un “laboratorio inteligente y seguro” que combina innovación, eficiencia y seguridad. 
-
-**Tácticas**
-
-- Implementar pilotos gratuitos en laboratorios pequeños para validar el valor agregado y generar casos de éxito. 
-- Desarrollar módulos personalizables (inventario básico, monitoreo avanzado, reportes de auditoría, integración ERP). 
-- Aplicar estrategias de marketing digital enfocadas en beneficios medibles (ahorro de tiempo, reducción de errores, cumplimiento normativo). 
-- Establecer alianzas B2B con proveedores de insumos, integrando QR/RFID en la cadena de suministro. 
-- Mantener precios competitivos con planes accesibles y escalables. 
-- Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
-
-#### 2.3.4 Empathy Mapping
-
-**Laboratorios**
-
-<img src="assets/assets/chapter-2/empathy_map_lab.png" width=max>
-
-**Suppliers**
-
-<img src="assets/assets/chapter-2/empathy_map_supplier.png" width=max>
