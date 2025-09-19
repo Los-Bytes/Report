@@ -222,10 +222,37 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
+###### Supuestos sobre los usuarios de la aplicación: 
+
+- Los responsables de laboratorios necesitan llevar un control y una constante actualización del inventario de materiales. 
+- Los responsables de compras y proveedores de insumos requieren trazabilidad y seguridad en la entrega de materiales para evitar reclamos o pérdidas. 
+- Los usuarios necesitan interfaces simples que muestren de forma clara la información mostrada del estado del inventario y las alertas críticas. 
+- Los usuarios están dispuestos a adoptar tecnología IoT (sensores, RFID, QR) siempre que el retorno de inversión sea claro. 
+
+###### Supuestos sobre necesidades 
+
+- El conteo manual de insumos en laboratorios es un proceso tedioso y propenso a errores. 
+- Existen riesgos asociados a la pérdida, caducidad o mal almacenamiento de productos (temperatura, humedad). 
+- Una solución que automatice y genere alertas en tiempo real resolverá estos problemas de seguridad y control. 
+- La integración con sistemas de gestión ya existentes (ERP, software de compras) es un requerimiento importante. 
+
+###### Supuestos sobre la solución 
+
+- El uso de RFID y códigos QR facilita la identificación de insumos de manera rápida y confiable. 
+- Los sensores inteligentes permiten monitorear condiciones críticas (ej. temperatura de reactivos) y evitar pérdidas. 
+- Una plataforma centralizada basada en web permitirá a los laboratorios controlar en tiempo real su inventario desde cualquier lugar. 
+- El sistema puede escalarse desde un pequeño laboratorio hasta grandes instalaciones de investigación o distribución. 
+
+###### Supuestos sobre el impacto 
+
+- La solución reducirá el tiempo destinado a tareas de inventario manual. 
+- Disminuirá la pérdida de insumos por mal almacenamiento o caducidad. 
+- Mejorará la seguridad y trazabilidad, cumpliendo normativas de laboratorios certificados. 
+- Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
+
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3 Segmentos Objetivo 
-
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
@@ -481,3 +508,56 @@ documento [docs/database-diagram.puml](docs/database-diagram.puml).
 ## Conclusiones
 ## Bibliografía
 ## Anexos
+
+#### 2.1.2 Estrategias y tácticas frente a competidores 
+
+**Perfil**
+
+El análisis competitivo permitió identificar que los principales competidores (Labguru, Quartzy y LabCollector) ofrecen soluciones sólidas de gestión de inventarios, pero carecen de integración con tecnologías IoT y monitoreo en tiempo real.  
+
+Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas: 
+
+**Estrategias**
+
+1. **Diferenciación tecnológica**
+
+- Potenciar la integración de IoT (sensores, RFID, QR) para garantizar monitoreo en tiempo real y trazabilidad completa. 
+- Incorporar alertas automáticas y registros auditables que los competidores no ofrecen. 
+
+2. **Especialización de nicho**
+
+- Foco exclusivo en laboratorios de investigación, universidades y proveedores de insumos. 
+- Cumplir y superar normativas de seguridad y trazabilidad propias del sector científico. 
+
+3. **Accesibilidad y escalabilidad**
+
+- Ofrecer versiones básicas a laboratorios pequeños y módulos premium a grandes instituciones. 
+- Implementar una estrategia de precios competitiva frente a plataformas internacionales. 
+
+4. **Alianzas estratégicas con proveedores**
+
+- Crear sinergias con distribuidores de insumos para incluir la trazabilidad desde el origen hasta la entrega. 
+- Posicionarse como un puente de confianza entre proveedor y cliente. 
+
+5. **Posicionamiento de marca**
+
+- Consolidar a LabIoT como un “laboratorio inteligente y seguro” que combina innovación, eficiencia y seguridad. 
+
+**Tácticas**
+
+- Implementar pilotos gratuitos en laboratorios pequeños para validar el valor agregado y generar casos de éxito. 
+- Desarrollar módulos personalizables (inventario básico, monitoreo avanzado, reportes de auditoría, integración ERP). 
+- Aplicar estrategias de marketing digital enfocadas en beneficios medibles (ahorro de tiempo, reducción de errores, cumplimiento normativo). 
+- Establecer alianzas B2B con proveedores de insumos, integrando QR/RFID en la cadena de suministro. 
+- Mantener precios competitivos con planes accesibles y escalables. 
+- Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
+
+#### 2.3.4 Empathy Mapping
+
+**Laboratorios**
+
+<img src="assets/assets/chapter-2/empathy_map_lab.png" width=max>
+
+**Suppliers**
+
+<img src="assets/assets/chapter-2/empathy_map_supplier.png" width=max>
