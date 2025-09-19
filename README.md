@@ -279,6 +279,8 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 <img src="assets/assets/chapter-1/step3-event-storming.jpg" alt="">
 <img src="assets/assets/chapter-1/step4-event-storming.jpg" alt="">
 
+Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
+
 ### 2.5. Ubiquitous Language  
 
 ### 3.1. User Stories  
