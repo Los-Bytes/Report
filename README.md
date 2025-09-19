@@ -338,5 +338,63 @@ visual definida en las guías generales.
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 ### 4.8. Database Design
+
+La base de datos constituye el núcleo de la solución LabIoT, ya que concentra la información que permite la gestión eficiente de 
+inventarios en laboratorios. Su diseño se orienta a garantizar integridad, trazabilidad y confiabilidad de los datos, elementos 
+indispensables en entornos donde la precisión es crítica para el éxito de las operaciones.
+
+El modelo propuesto responde a los siguientes objetivos:
+
+1. Trazabilidad completa: registrar el recorrido de cada insumo desde su proveedor hasta su consumo o descarte en el laboratorio.
+
+2. Reducción de errores humanos: reemplazar registros manuales con procesos automatizados que fortalezcan la exactitud en auditorías.
+
+3. Monitoreo en tiempo real: almacenar lecturas de sensores IoT para asegurar condiciones óptimas (temperatura, humedad).
+
+4. Gestión proactiva de riesgos: generar alertas sobre caducidad, stock bajo o condiciones fuera de rango.
+
+5. Cumplimiento normativo: mantener evidencia auditable de todos los movimientos y condiciones de almacenamiento.
+
 #### 4.8.1. Database Diagram
+
+Tablas principales
+
+- **Usuarios**
+Contiene los datos de los distintos actores del sistema (investigadores, técnicos, administradores, proveedores). Permite asociar 
+cada movimiento o acción a un responsable, reforzando la trazabilidad y la seguridad del sistema.
+
+- **Laboratorios**
+Identifica cada laboratorio o sede en la que se gestionan insumos. Esta separación facilita la organización de inventarios 
+distribuidos y el análisis independiente por unidad.
+
+- **Proveedores**
+Registra los datos de las empresas que abastecen insumos, vinculando la cadena de suministro al laboratorio. Esta entidad asegura 
+transparencia y control en las relaciones comerciales.
+
+- **Insumos**
+Representa el catálogo central de materiales de laboratorio. Incluye atributos como nombre, tipo, lote y fecha de vencimiento. 
+Es la tabla principal del sistema, ya que conecta con movimientos, condiciones y alertas.
+
+- **Condiciones**
+Almacena las lecturas de sensores IoT relacionadas a insumos (temperatura, humedad). Proporciona un historial verificable que 
+respalda auditorías y certificaciones.
+
+- **Movimientos**
+Registra entradas, salidas y transferencias de insumos. Cada operación queda asociada a un usuario y a un momento específico en 
+el tiempo, lo que permite reconstruir el historial de un insumo.
+
+- **Alertas**
+Centraliza las notificaciones relacionadas con riesgos operativos: caducidad próxima, condiciones fuera de rango o stock bajo. 
+Permite a los responsables actuar de manera preventiva y mantener la continuidad de las operaciones.
+
+
+Diagrama de Base de datos
+
+<p align="center">
+<img src="/assets/assets/chapter-4/database-design/databasediagram.png" alt="accesibilidad" style="height:500px;">
+</p>
+
+El diagrama de clases para este proyecto se puede encontrar en el 
+documento [docs/database-diagram.puml](docs/database-diagram.puml).
+
 
