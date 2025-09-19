@@ -209,11 +209,11 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <td>Soy estudiante de la carrera de Ingeniería de Software. Tengo 22 años y entre mis cualidades están ser perseverante y responsable. Entre mis habilidades, tengo experiencia en los lenguajes de programación de C + +,Python y espero seguir aprendiendo para llegar a ser un profesional competente. </td>
   </tr>
  <tr>
-    <th colspan="2">  </th>
+    <th colspan="2">Marcelo Alessandro Mazuelos Callirgos</th>
   </tr>
   <tr>
-    <td> <img > </td>
-    <td> </td>
+    <td> <img src="https://files.catbox.moe/y8qpju.jpg" alt="marcelo image" width="300">
+    <td> Soy estudiante de Ingeniería de Software, interesado en el desarrollo de aplicaciones y en la creación de soluciones tecnológicas innovadoras. Me caracterizo por mi interés en el aprendizaje continuo con el objetivo de seguir creciendo profesionalmente y aportar valor en el área de la tecnología.</td>
   </tr>
 </table>
 
