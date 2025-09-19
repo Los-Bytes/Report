@@ -1,0 +1,57 @@
+@startuml
+title Database Diagram - LabIoT
+
+hide circle
+skinparam linetype ortho
+
+' Entidades
+entity "Usuarios" as usuarios {
+  *id_usuario : <<PK>>
+  --
+}
+
+entity "Laboratorios" as laboratorios {
+  *id_laboratorio : <<PK>>
+  --
+}
+
+entity "Proveedores" as proveedores {
+  *id_proveedor : <<PK>>
+  --
+}
+
+entity "Insumos" as insumos {
+  *id_insumo : <<PK>>
+  *id_laboratorio : <<FK>>
+  *id_proveedor : <<FK>>
+  --
+}
+
+entity "Condiciones" as condiciones {
+  *id_condiciones : <<PK>>
+  *id_insumo : <<FK>>
+  --
+}
+
+entity "Movimientos" as movimientos {
+  *id_movimiento : <<PK>>
+  *id_usuario : <<FK>>
+  *id_insumo : <<FK>>
+  --
+}
+
+entity "Alertas" as alertas {
+  *id_alerta : <<PK>>
+  *id_movimiento : <<FK>>
+  --
+}
+
+
+' Relaciones y cardinalidades
+usuarios ||--o{ movimientos : "1 a N"
+movimientos }o--|| insumos : "N a 1"
+movimientos ||--o{ alertas : "1 a N"
+insumos ||--o{ condiciones : "1 a N"
+laboratorios ||--o{ insumos : "1 a N"
+proveedores ||--o{ insumos : "1 a N"
+@enduml

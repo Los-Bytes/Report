@@ -226,6 +226,29 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3 Segmentos Objetivo 
 
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores
+#### 2.1.1. Análisis competitivo
+#### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.2. Entrevistas
+#### 2.2.1. Diseño de entrevistas
+#### 2.2.2. Registro de entrevistas
+#### 2.2.3. Análisis de entrevistas
+### 2.3. Needfinding
+#### 2.3.1. User Personas
+#### 2.3.2. User Task Matrix
+#### 2.3.3. User Journey Mapping
+#### 2.3.4. Empathy Mapping
+### 2.4. Big Picture EventStorming
+### 2.5. Ubiquitous Language
+
+
+
+## Capítulo III: Requirements Specification
+### 3.1. User Stories
+### 3.2. Impact Mapping
+### 3.3. Product Backlog
+
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
@@ -338,5 +361,82 @@ visual definida en las guías generales.
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 ### 4.8. Database Design
+
+La base de datos constituye el núcleo de la solución LabIoT, ya que concentra la información que permite la gestión eficiente de 
+inventarios en laboratorios. Su diseño se orienta a garantizar integridad, trazabilidad y confiabilidad de los datos, elementos 
+indispensables en entornos donde la precisión es crítica para el éxito de las operaciones.
+
+El modelo propuesto responde a los siguientes objetivos:
+
+1. Trazabilidad completa: registrar el recorrido de cada insumo desde su proveedor hasta su consumo o descarte en el laboratorio.
+
+2. Reducción de errores humanos: reemplazar registros manuales con procesos automatizados que fortalezcan la exactitud en auditorías.
+
+3. Monitoreo en tiempo real: almacenar lecturas de sensores IoT para asegurar condiciones óptimas (temperatura, humedad).
+
+4. Gestión proactiva de riesgos: generar alertas sobre caducidad, stock bajo o condiciones fuera de rango.
+
+5. Cumplimiento normativo: mantener evidencia auditable de todos los movimientos y condiciones de almacenamiento.
+
 #### 4.8.1. Database Diagram
 
+Tablas principales
+
+- **Usuarios**
+Contiene los datos de los distintos actores del sistema (investigadores, técnicos, administradores, proveedores). Permite asociar 
+cada movimiento o acción a un responsable, reforzando la trazabilidad y la seguridad del sistema.
+
+- **Laboratorios**
+Identifica cada laboratorio o sede en la que se gestionan insumos. Esta separación facilita la organización de inventarios 
+distribuidos y el análisis independiente por unidad.
+
+- **Proveedores**
+Registra los datos de las empresas que abastecen insumos, vinculando la cadena de suministro al laboratorio. Esta entidad asegura 
+transparencia y control en las relaciones comerciales.
+
+- **Insumos**
+Representa el catálogo central de materiales de laboratorio. Incluye atributos como nombre, tipo, lote y fecha de vencimiento. 
+Es la tabla principal del sistema, ya que conecta con movimientos, condiciones y alertas.
+
+- **Condiciones**
+Almacena las lecturas de sensores IoT relacionadas a insumos (temperatura, humedad). Proporciona un historial verificable que 
+respalda auditorías y certificaciones.
+
+- **Movimientos**
+Registra entradas, salidas y transferencias de insumos. Cada operación queda asociada a un usuario y a un momento específico en 
+el tiempo, lo que permite reconstruir el historial de un insumo.
+
+- **Alertas**
+Centraliza las notificaciones relacionadas con riesgos operativos: caducidad próxima, condiciones fuera de rango o stock bajo. 
+Permite a los responsables actuar de manera preventiva y mantener la continuidad de las operaciones.
+
+
+Diagrama de Base de datos
+
+<p align="center">
+<img src="/assets/assets/chapter-4/database-design/databasediagram.png" alt="accesibilidad" style="height:500px;">
+</p>
+
+El diagrama de clases para este proyecto se puede encontrar en el 
+documento [docs/database-diagram.puml](docs/database-diagram.puml).
+
+## Capítulo V: Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+#### 5.1.2. Source Code Management
+#### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.4. Software Deployment Configuration
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+##### 5.2.1.2. Aspect Leaders and Collaborators
+##### 5.2.1.3. Sprint Backlog 1
+##### 5.2.1.4. Development Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## Conclusiones
+## Bibliografía
+## Anexos
