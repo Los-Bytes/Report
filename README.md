@@ -441,8 +441,6 @@ Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 ### 3.1. User Stories
 ## Epics
 
-## Epics
-
 | Epic ID | Title                               | Descripción                                                                                         |
 |---------|-----------------------------------|---------------------------------------------------------------------------------------------------|
 | EP01    | User Management                   | Como usuario quiero crear y gestionar mi cuenta para acceder y usar el sistema adecuadamente.     |
