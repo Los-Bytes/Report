@@ -219,6 +219,62 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática 
+
+A. **Who**
+
+Los principales actores son los laboratorios de investigación, los técnicos de laboratorio, investigadores, oficiales de seguridad, 
+así como las empresas proveedoras de insumos científicos. Todos ellos enfrentan dificultades en la gestión de inventarios por 
+depender de procesos manuales y poco confiables.
+
+B. **What**
+
+Actualmente, la gestión de inventarios en los laboratorios se realiza mediante conteos manuales y registros dispersos, lo que 
+genera errores, pérdida de materiales, incumplimiento de normativas de seguridad, interrupciones en experimentos y mayores costos 
+operativos. Además, no existen mecanismos de monitoreo en tiempo real para verificar condiciones críticas como temperatura, 
+humedad o caducidad de insumos.
+
+C. **When**
+
+Estos problemas se presentan en el día a día de las operaciones de los laboratorios y proveedores, desde el registro de entrada 
+y salida de materiales hasta la preparación de pedidos, auditorías, y ejecución de experimentos. Los riesgos aumentan en 
+momentos críticos como inspecciones, ensayos experimentales y entregas de insumos sensibles.
+
+D. **Where**
+
+La problemática ocurre tanto dentro de los laboratorios de investigación y universidades como en las empresas proveedoras y 
+almacenes de insumos científicos. En ambos entornos, los procesos carecen de visibilidad, trazabilidad y control automatizado.
+
+E. **Why**
+
+Porque la ausencia de automatización y monitoreo genera:
+
+- Pérdida de trazabilidad de insumos críticos.
+
+- Mayor riesgo de accidentes o incumplimiento normativo.
+
+- Errores en entregas y devoluciones entre proveedores y clientes.
+
+- Desperdicio de tiempo y recursos humanos en tareas repetitivas.
+Esto impacta directamente en la seguridad, la confiabilidad de los experimentos y la eficiencia operativa.
+
+F. **How**
+
+Muchos laboratorios utilizan hojas de cálculo, sistemas ERP genéricos o plataformas de gestión básica. Sin embargo, estas 
+soluciones no ofrecen integración con IoT (RFID, QR, sensores inteligentes) ni un monitoreo automatizado en tiempo real, 
+por lo que los problemas persisten.
+
+G. **How much**
+
+El impacto se refleja en:
+
+- Más del 70% del tiempo de los responsables de inventarios invertido en tareas manuales.
+
+- Errores superiores al 30–40% en registros y control de stock.
+
+- Pérdida económica significativa por caducidad o mal almacenamiento de insumos sensibles.
+
+- Alta fricción comercial entre proveedores y laboratorios debido a errores en entregas y devoluciones.
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
