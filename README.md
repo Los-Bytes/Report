@@ -900,7 +900,13 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 | Mazuelos Callirgos, Marcelo Alessandro | MarceloMazuelos | L |
 
 ##### 5.2.1.3. Sprint Backlog 1
-
+En relación al EP-02 de la interacción con la Landing Page
+| **Sprint #** | **User Story ID** | **User Story Description** | **Task Assigned** |
+|--------------|-------------------|----------------------------|-------------------|
+| 1 | US-05 | Como usuario quiero poder entrar a la Landing Page y visualizarla correctamente | Marcelo Mazuelos |
+| 1 | US-06 | Como usuario quiero entrar a la Landing Page y poder leer todo su contenido e información general sobre el producto | Marcelo Mazuelos |
+| 1 | US-07 | Como usuario quiero poder encontrar la manera de realizar la acción deseada y ofrecida por el producto, en este caso, encontrar el botón que me llevará al registro o uso del aplicativo sin mayor esfuerzo | Marcelo Mazuelos |
+| 1 | YUS-08 | Como usuario quiero poder ver traducida la página web según necesite | Marcelo Mazuelos |
 ##### 5.2.1.4. Development Evidence for Sprint Review
 Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de BookMe, cumpliendo con los objetivos de presentar de manera clara y atractiva los servicios de la plataforma. A continuación, se detalla la evidencia del desarrollo:
 
