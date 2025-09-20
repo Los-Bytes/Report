@@ -473,6 +473,50 @@ visual definida en las guías generales.
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
+#### Objetivos
+- Facilitar organización y filtrado de contenido (ej. artículos, productos, laboratorios, insumos).
+- Mantener consistencia en nombres y jerarquía.
+- Mejorar la experiencia de búsqueda y SEO (etiquetas bien diseñadas ayudan a generar URLs y meta datos coherentes).
+
+#### Estructura recomendada
+- **Estructura**: Categoría principal → Subcategoría → Etiquetas.
+    - Ejemplo: `Equipos > Microscopios > Fluorescencia`
+- **Tipos de etiquetas**:
+    - `category` (1 por ítem)
+    - `tags` (0..n, keywords de libre asociación)
+    - `attributes` (pares clave:valor para filtros: `brand=Sigma`, `status=new`)
+
+#### Convenciones (formato)
+- Minúsculas, `kebab-case` para URLs y slug: `microscopios-fluorescencia`
+- Human-readable en UI: `Microscopios de fluorescencia`
+- Longitud: etiquetas entre 2 y 5 palabras preferible.
+
+#### Modelo de datos (ejemplo JSON)
+```json
+{
+  "id": "lbl_0001",
+  "type": "category",
+  "slug": "microscopios-fluorescencia",
+  "name": "Microscopios de fluorescencia",
+  "parent_id": "lbl_000",
+  "created_at": "2025-09-19T00:00:00Z"
+}
+```
+
+#### Interfaz de gestión
+- CRUD de etiquetas con permisos (admin/editor)
+- Vista previa de cómo afectaría al contenido (p. ej. URL y breadcrumbs)
+- Historial de cambios (auditoría)
+
+#### Reglas y validaciones
+- No duplicados (slug único por tipo)
+- Validar reutilización: sugerir etiquetas existentes al crear nuevas (autocomplete)
+
+#### Ejemplos de uso en URLs
+- `/categoria/microscopios-fluorescencia/` (landing de categoría)
+- `/buscar?q=microscopios+fluorescencia&brand=Sigma`
+
+
 #### 4.2.3. SEO Tags and Meta Tags
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
