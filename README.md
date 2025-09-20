@@ -626,5 +626,27 @@ documento [docs/database-diagram.puml](docs/database-diagram.puml).
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
+
+El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y 
+metodologías de diseño centradas en el usuario al contexto de aplicaciones web modernas. A través de la definición de 
+antecedentes y problemática, el diseño de la guía de estilos, la construcción del modelo de base de datos y la 
+elaboración de Impact Mapping, se logró estructurar una solución orientada a la trazabilidad, seguridad y eficiencia 
+en la gestión de inventarios de laboratorio.
+
+La utilización del framework Vue junto con lineamientos de Material Design y componentes de PrimeVue garantiza no solo 
+la consistencia visual, sino también la escalabilidad y mantenibilidad de la aplicación. Asimismo, la incorporación 
+de prácticas como el Needfinding, User Personas e Impact Mapping permitió vincular los objetivos de negocio con las 
+necesidades reales de los usuarios, asegurando que la propuesta tecnológica responda a un entorno colaborativo, 
+inclusivo y alineado con los criterios de calidad de software.
+
+En este sentido, el proyecto no solo refuerza las competencias técnicas de construcción de aplicaciones web, 
+sino que también fomenta la capacidad de planificar, liderar y colaborar en equipo bajo una perspectiva académica 
+y profesional.
+
 ## Bibliografía
+
+Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner’s Approach (9th ed.). McGraw-Hill Education.
+
+Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vuejs.org
+
 ## Anexos
