@@ -663,8 +663,36 @@ En esta seccion se mostrara los diferrentes wireframes desarrollados en software
 Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
 
 #### 4.3.2. Landing Page Mock-up
+
+En esta seccion mostraremos los mockups realizados para el landing page con los respectivos estilos establecidos en los puntos anteriores.
+
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up1.png" alt="">
+En este mockup del inicio del landing page se aprecia el inicio de aplicativo con una frase haciendo referencia al negocio asi como las imagenes respectivas. Ademas de un boton de accion que permitira al usuario redirigirlo a la aplicacion web.
+
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up2.png" alt="">
+En este mockup de los beneficios mostrara los beneficios.
+
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up3.png" alt="">
+En este mockup de los planes se muestra cards con los diferentes planes que tendra la aplicacion web.
+
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up4.png" alt="">
+En esta mockup mostrara el uso en tres pasos.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up5.png" alt="">
+En esta mockup se mostrara las preguntas precuentes.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up6.png" alt="">
+En esta seccion mostraremos al equipo detras del desarrollo del aplicativo web.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up7.png" alt="">
+En esta mockup se mostrara las caracteristcas claves.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up8.png" alt="">
+Y en esta mockup se podra contactar con el equipo.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up9.png" alt="">
+En este mockup se puede ver el footer donde tendra una pequeña descripcion con nuestras respectivas redes.
+
+Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.4. Web Applications User Flow Diagrams
