@@ -19,6 +19,7 @@
       <li><h3>Andre Pillaca Velasquez - U202022056</h3></li>
       <li><h3>Mazuelos Callirgos Marcelo Alessandro – u201916143</h3></li>
       <li><h3>Huanca Zevallos, Cristhian Joel - u20201b914</h3></li>
+      <li><h3>Alcantara Baldeonn, Poly Gabriel - u202418250</h3></li>
   </ul>
   <br>
   <h4>Septiembre del 2025</h4>
@@ -252,6 +253,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
 ##### 1.2.2.4. Lean UX Canvas
+<img src="assets/assets/chapter-1/Lean UX Canvas.jpg" alt="Lean UX Canvas" width="1000">
 ### 1.3 Segmentos Objetivo 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
