@@ -155,8 +155,8 @@ del ABET – EAC - Student Outcome 5.
     el impact mapping, guiando al equipo hacia un estándar común y una visión compartida. 
     <br><br>
     Gabriel Alcantara Baldeon  
-    <br> TB1: Añadí y desarrollé la sección 1.2.2.4 Lean UX Canvas, la 2.1.2 Estrategias y tácticas frente a competidores, 
-    y las secciones 4.2.2 Labeling Systems, 4.2.3 SEO Tags and Meta Tags, y 4.2.4 Searching Systems, asegurando coherencia y estandarización con el resto del documento.
+    <br> TB1: Añadí y desarrollé la sección  Lean UX Canvas, la  Estrategias y tácticas frente a competidores, 
+    y las secciones  Labeling Systems,  SEO Tags and Meta Tags, y  Searching Systems, asegurando coherencia y estandarización con el resto del documento.
     </td>
     <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.  
     <br><br>
