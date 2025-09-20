@@ -19,6 +19,7 @@
       <li><h3>Andre Pillaca Velasquez - U202022056</h3></li>
       <li><h3>Mazuelos Callirgos Marcelo Alessandro – u201916143</h3></li>
       <li><h3>Huanca Zevallos, Cristhian Joel - u20201b914</h3></li>
+      <li><h3>Alcantara Baldeonn, Poly Gabriel - u202418250</h3></li>
   </ul>
   <br>
   <h4>Septiembre del 2025</h4>
@@ -196,7 +197,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2"> Poly Gabriel Alcántara Baldeon </th>
   </tr>
   <tr>
-    <td> <img > </td>
+    <td> <img src="assets/assets/chapter-1/GabrielAlcantara.jpg" > </td>
     <td>Soy estudiante de Ingeniería de Software. Tengo conocimientos básicos en lenguajes de programación como C#, Java y Python. Me interesa el desarrollo de videojuegos y estoy buscando oportunidades para aprender y crecer en este campo. Además, poseo habilidades blandas como la capacidad de trabajar en equipo, la proactividad y la adaptabilidad, lo que me permite ser productivo en entornos colaborativos y enfrentar nuevos desafíos con entusiasmo. </td>
   </tr>
 <tr>
@@ -312,7 +313,11 @@ El impacto se refleja en:
 - Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
 
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
+
 ##### 1.2.2.4. Lean UX Canvas
+
+<img src="assets/assets/chapter-1/Lean UX Canvas.jpg" alt="Lean UX Canvas" width="1000">
+
 ### 1.3 Segmentos Objetivo 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
@@ -529,8 +534,145 @@ visual definida en las guías generales.
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
+#### Objetivos
+- Facilitar organización y filtrado de contenido (ej. artículos, productos, laboratorios, insumos).
+- Mantener consistencia en nombres y jerarquía.
+- Mejorar la experiencia de búsqueda y SEO (etiquetas bien diseñadas ayudan a generar URLs y meta datos coherentes).
+
+#### Estructura recomendada
+- **Estructura**: Categoría principal → Subcategoría → Etiquetas.
+    - Ejemplo: `Equipos > Microscopios > Fluorescencia`
+- **Tipos de etiquetas**:
+    - `category` (1 por ítem)
+    - `tags` (0..n, keywords de libre asociación)
+    - `attributes` (pares clave:valor para filtros: `brand=Sigma`, `status=new`)
+
+#### Convenciones (formato)
+- Minúsculas, `kebab-case` para URLs y slug: `microscopios-fluorescencia`
+- Human-readable en UI: `Microscopios de fluorescencia`
+- Longitud: etiquetas entre 2 y 5 palabras preferible.
+
+#### Modelo de datos (ejemplo JSON)
+```json
+{
+  "id": "lbl_0001",
+  "type": "category",
+  "slug": "microscopios-fluorescencia",
+  "name": "Microscopios de fluorescencia",
+  "parent_id": "lbl_000",
+  "created_at": "2025-09-19T00:00:00Z"
+}
+```
+
+#### Interfaz de gestión
+- CRUD de etiquetas con permisos (admin/editor)
+- Vista previa de cómo afectaría al contenido (p. ej. URL y breadcrumbs)
+- Historial de cambios (auditoría)
+
+#### Reglas y validaciones
+- No duplicados (slug único por tipo)
+- Validar reutilización: sugerir etiquetas existentes al crear nuevas (autocomplete)
+
+#### Ejemplos de uso en URLs
+- `/categoria/microscopios-fluorescencia/` (landing de categoría)
+- `/buscar?q=microscopios+fluorescencia&brand=Sigma`
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+#### Objetivos
+- Mejora del CTR en SERPs (títulos y descripciones atractivas)
+- Control de indexación (robots/meta)
+- Enriquecer previews en redes sociales (Open Graph / Twitter Cards)
+- Añadir datos estructurados (Schema.org / JSON-LD)
+
+#### Meta tags clave (plantilla)
+```html
+<title>{{page_title}} | {{site_name}}</title>
+<meta name="description" content="{{meta_description}}" />
+<link rel="canonical" href="{{canonical_url}}" />
+<meta name="robots" content="index, follow" />
+<!-- Open Graph -->
+<meta property="og:title" content="{{og_title}}" />
+<meta property="og:description" content="{{og_description}}" />
+<meta property="og:image" content="{{og_image}}" />
+<meta property="og:url" content="{{canonical_url}}" />
+<meta property="og:type" content="article" />
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{twitter_title}}" />
+<meta name="twitter:description" content="{{twitter_description}}" />
+<meta name="twitter:image" content="{{twitter_image}}" />
+```
+
+#### Reglas prácticas
+- **Title**: 50–60 caracteres (incluye site name). Priorizar keywords al inicio.
+- **Meta description**: 120–160 caracteres, llamada a la acción si aplica.
+- **Canonical**: siempre presente en páginas con parámetros.
+- **Meta robots**: `noindex` en páginas duplicadas, `index` en content principal.
+
+#### JSON-LD (ejemplo para un artículo)
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{title}}",
+  "image": ["{{og_image}}"],
+  "datePublished": "{{published_at}}",
+  "author": [{"@type":"Person","name":"{{author_name}}"}],
+  "publisher": {"@type":"Organization","name":"{{site_name}}","logo":{"@type":"ImageObject","url":"{{site_logo}}"}}
+}
+</script>
+```
+
+#### Renderizado (server vs client)
+- **Server-side rendering (SSR)** o prerender es preferible para SEO: meta tags deben estar en HTML inicial.
+- Si SPA (client-side), usar prerendering o soluciones como Next.js/Remix o servidor que inyecte meta tags.
+
+#### Sitemaps y robots.txt
+- `sitemap.xml` automático (URLs con prioridad y `lastmod`).
+- `robots.txt` con ruta a sitemap y reglas públicas.
+
+---
+
 #### 4.2.4. Searching Systems
+
+#### Requerimientos funcionales
+- Búsqueda por texto (título, descripción, etiquetas)
+- Autocomplete / sugerencias (typeahead)
+- Fuzzy search (tolerancia a typos)
+- Facetas / filtros (categoría, brand, status, rango de fechas)
+- Paginación / infinite scroll
+- Highlight/snippets en resultados
+- Orden por relevancia, fecha, popularidad
+
+#### Opciones de tecnología (comparativa rápida)
+- **Postgres Full-Text Search**
+    - Pros: integrado, sencillo, bajo costo.
+    - Contras: menos poderoso en ranking, menor escalabilidad en features avanzadas.
+- **Elasticsearch / OpenSearch**
+    - Pros: relevancia avanzada, faceting, alta performance, análisis lingüístico.
+    - Contras: infra adicional, operaciones de mantenimiento.
+- **Algolia (SaaS)**
+    - Pros: experiencias de búsqueda ultrarrápidas, buena UX out-of-the-box.
+    - Contras: coste, datos en terceros.
+
+#### Esquema de índice (ejemplo para Elastic)
+```json
+{
+  "mappings": {
+    "properties": {
+      "id": { "type": "keyword" },
+      "title": { "type": "text", "analyzer": "standard" },
+      "description": { "type": "text", "analyzer": "standard" },
+      "tags": { "type": "keyword" },
+      "category": { "type": "keyword" },
+      "published_at": { "type": "date" },
+      "popularity": { "type": "integer" }
+    }
+  }
+}
+```
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
