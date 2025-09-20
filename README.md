@@ -367,7 +367,40 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 - Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+Se desarrollaron las siguientes preguntas para cada segmento objetivo:
+
+**Segmento 1: Laboratorios de Investigación**
+
+1.  **Gestión Actual:** ¿Cómo gestionan actualmente el inventario de insumos y materiales en su laboratorio?
+2.  **Dificultades Operativas:** ¿Qué dificultades o inconvenientes enfrentan con el conteo manual o el control manual del inventario?
+3.  **Impacto de los Errores:** ¿Cuáles son los riesgos o problemas más significativos asociados a errores en el manejo del inventario (pérdida de reactivos, retrasos experimentales, etc.)?
+4.  **Materiales Críticos:** ¿Qué tipo de artículos o materiales requieren monitoreo especial debido a sus condiciones críticas (por ejemplo, temperatura, humedad, luz, caducidad)?
+5.  **Valor de la Automatización:** ¿Qué importancia tiene para ustedes la automatización y el monitoreo en tiempo real del inventario? ¿Cómo impactaría en su operación?
+6.  **Experiencia Tecnológica Prevía:** ¿Han utilizado o evaluado antes tecnologías como RFID, códigos QR, códigos de barras o sensores inteligentes en su gestión de inventarios?
+7.  **Funcionalidades Clave:** Desde su perspectiva, ¿qué funcionalidades considerarían imprescindibles en una plataforma de gestión como LabioT?
+8.  **Sistema de Alertas:** ¿Qué tipo de alertas o notificaciones automáticas (por ejemplo, por stock bajo, caducidad próxima, desviación de temperatura) serían más útiles para un monitoreo eficiente y proactivo?
+9.  **Marco Normativo:** ¿Cuáles son las normativas, protocolos o medidas de seguridad (bioseguridad, ISO, etc.) que deben cumplir y cómo afectan estos requisitos a su gestión de inventarios?
+10. **Expectativas IoT:** ¿Qué expectativas o preocupaciones tienen sobre la posible integración de tecnologías IoT en su flujo de trabajo diario?
 #### 2.2.2. Registro de entrevistas
+### Entrevista 1: Laboratorios de investigación
+
+<img src="assets/assets/chapter-2/entrevista1.png" alt="">
+
+**Nombre y apellido:** Luana Huayanay  
+**Edad:** 24  
+**Ocupación:** Practicante  
+**Duración:** 7:56 minutos
+
+#### Resumen:
+Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan.
+
+También nos comentan las funciones que son necesarias para una plataforma como Labiot son tener un registró automático de entradas y salidas, tener un monitoreo de temperaturas, tener un historial de cada material. además, nos cuenta los tipos de notificaciones que necesita para tener un mayor control y monitoreo es saber la fecha de vencimiento de sus reactivos o medicamentos, también tener alertas ante cualquier variación en la temperatura parar sus congeladores, tener alertas para recordar revisar su inventario, saber con qué insumos están trabajando y para ver cuáles son los insumos que quedan disponibles, además de un aviso por si un refrigerador se abre fuera del horario autorizado.
+
+Luana comento que las normativas que cumple es registrar todo los equipos y insumos, asegurar la conservación adecuada de sus materiales.
+
+Luana resalta que las tecnologías IoT podrían facilitar su trabajo al permitir visualizar rápidamente datos clave como conocer el stock de sus medicamentos, conocer el estado de los refrigeradores o si es que se venció algún reactivo que utilizan para sus experimentos, además ayudaría a reducir los errores humanos que tenemos y con la facilidad de poder organizar y tener todo más seguro.
+
+**Link:** [Entrevista 1_ app web ‐ Hecho con Clipchamp.mp4](aquí_va_el_link_del_video)
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding  
 #### 2.3.1. User Personas
