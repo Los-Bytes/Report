@@ -520,6 +520,28 @@ El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso desta
 
 Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 ### 2.5. Ubiquitous Language
+1. Stakeholders & Roles
+Lab Manager (Responsable de Laboratorio): Persona encargada de supervisar el inventario, la seguridad y las operaciones del laboratorio. Toma decisiones sobre la adquisición y el uso de insumos.  
+Procurement Supervisor (Supervisor de Compras): Responsable de coordinar las solicitudes de materiales y mantener la relación con proveedores de insumos de laboratorio.  
+Researcher (Investigador): Usuario que trabaja dentro del laboratorio y utiliza los insumos inventariados para proyectos específicos.  
+Supplier (Proveedor): Empresa o entidad que abastece al laboratorio con materiales, insumos y equipos especializados.  
+
+2. Funcionalidades de la Plataforma
+Register Item (Registro de Ítem): Proceso en el que cada material, reactivo o equipo del laboratorio es identificado en el sistema mediante etiquetas RFID o códigos QR.  
+Track Inventory (Seguimiento de Inventario): Funcionalidad para monitorear en tiempo real los niveles de stock de insumos dentro del laboratorio.  
+Condition Monitoring (Monitoreo de Condiciones): Proceso en el que sensores inteligentes registran parámetros críticos (ejemplo: temperatura de reactivos sensibles).  
+Alert Generation (Generación de Alertas): Notificaciones automáticas enviadas cuando se detecta un nivel bajo de stock o una condición anómala en los insumos (ejemplo: refrigerador con aumento de temperatura).  
+Access Control (Control de Acceso): Gestión de permisos que define qué usuarios pueden registrar, modificar o consumir ítems específicos.  
+Inventory Report (Reporte de Inventario): Generación de informes automáticos sobre niveles de existencia, historial de consumos y estado de los insumos.  
+
+3. Otros conceptos del dominio
+Smart Tag (Etiqueta Inteligente): Identificador en forma de RFID o código QR que permite el reconocimiento único de cada ítem dentro del sistema.  
+Stock Level (Nivel de Stock): Cantidad disponible de un insumo en el inventario, monitoreada de forma automática.  
+Expiration Date (Fecha de Vencimiento): Registro de la fecha límite de uso de reactivos o insumos, clave para garantizar la seguridad en proyectos de investigación.  
+Critical Condition (Condición Crítica): Estado detectado por sensores (ejemplo: pérdida de frío en congelador o variación brusca de temperatura) que puede comprometer la utilidad de los materiales.  
+Consumption Log (Registro de Consumo): Historial de movimientos de inventario que refleja qué insumo fue consumido, por quién y en qué fecha.  
+Supply Request (Solicitud de Insumo): Proceso mediante el cual un miembro del laboratorio solicita al responsable o supervisor la compra o reposición de materiales.  
+Audit Trail (Trazabilidad de Auditoría): Conjunto de registros que muestran todas las acciones realizadas sobre el inventario para fines de control y seguridad.  
 
 ## Capítulo III: Requirements Specification
 ### 3.1. User Stories
