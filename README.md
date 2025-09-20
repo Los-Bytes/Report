@@ -722,6 +722,9 @@ En esta pantalla se muestra el inicio de sesion con el respectivo formulario par
 Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
 
 #### 4.4.4. Web Applications User Flow Diagrams
+<img src="assets/assets/chapter-4/WebApplicationsUserFlowDiagrams/WebApplicationsUserFlowDiagrams.png" alt="">
+
+Link para ver Web Applications User Flow Diagrams: https://miro.com/welcomeonboard/ZDF5b0hKTlhzTUlaUTRsZTV5dkdzQUZxTEZnZWhOTTZHZVNHenBleGNhS09DMXVSQTNuU0hTZEtQaDdQUGRQbWFYVmZNK1BVM1E5SkxoWmdGeTN3dE9RNGZobjJMbmh4Z0xPdzZKRjVDamhUVUNpTjlKUzlITHZkTVZQVi8rcDJzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=575139599232
 
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
