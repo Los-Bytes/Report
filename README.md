@@ -184,7 +184,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2"> Alexander Auden Aliaga Ocampo </th>
   </tr>
   <tr>
-    <td> <img > </td>
+    <td> <img src="assets/assets/chapter-1/alexanderaliaga.jpg" width=300px> </td>
     <td> Soy estudiante de ingeniería de software en la UPC, con conocimientos básicos en los lenguajes de programación como c++, python , css, html, javascript también conocimientos básicos en base de datos viendo Mongo DB y creando diagramas relaciones como no relacionales. Además poseo habilidades de empatía y buena comunicación con el equipo esto me permite ser productivo en el ámbito de grupos y en general. </td>
   </tr>
 <tr>
@@ -277,6 +277,26 @@ El impacto se refleja en:
 
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
+### Segmento — Investigadores Líderes / Responsables de Laboratorios de Investigación
+
+**Contexto:** Dirigen proyectos, supervisan equipos y toman decisiones sobre la compra y uso de insumos especializados; necesitan garantizar continuidad experimental y cumplimiento normativo.
+
+**Observación:** La gestión actual de insumos y condiciones de almacenamiento (temperatura, humedad, fechas de caducidad) suele ser manual y fragmentada (hojas, registros locales), lo que provoca pérdidas de reactivos, retrasos en ensayos y decisiones de compra reactivas.
+
+**Problema:** No existe una herramienta que ofrezca visibilidad en tiempo real, trazabilidad y alertas accionables adaptadas al flujo de trabajo de un laboratorio de investigación sin añadir carga administrativa al equipo.
+
+**Pregunta clave:** ¿Cómo diseñar una solución (QR/RFID + sensores + panel operativo) que permita a los investigadores líderes monitorear el estado de insumos y condiciones ambientales, recibir alertas priorizadas y generar evidencia auditable para toma de decisiones y compras oportunas?
+
+
+### Segmento — Supervisores Comerciales / Jefes de Compras en Empresas Proveedoras de Insumos
+
+**Contexto:** Coordinan ventas y logística, mantienen la relación con laboratorios y responden a incidencias en entregas; buscan reducir reclamaciones y optimizar la cadena de suministro.
+
+**Observación:** La falta de un flujo estandarizado de identificación y registro (etiquetado, estado en tránsito, verificación a la recepción) genera errores, devoluciones y fricción comercial que aumentan costos operativos.
+
+**Problema:** No hay un mecanismo compartido, sencillo y confiable entre proveedor y laboratorio que permita verificar condiciones de transporte, estado del pedido y recepción confirmada en tiempo real.
+
+**Pregunta clave:** ¿Cómo implementar un flujo de trazabilidad colaborativo (etiquetas QR/RFID, eventos de transporte y notificaciones integradas) que permita a supervisores comerciales y jefes de compras reducir errores, acelerar validaciones y mejorar la experiencia de entrega para los laboratorios?
 ##### 1.2.2.2. Lean UX Assumptions
 ###### Supuestos sobre los usuarios de la aplicación: 
 
