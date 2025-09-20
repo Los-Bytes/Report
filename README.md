@@ -311,8 +311,92 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 - Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+##### Primer segmento objetivo: Investigadores líderes o responsables de laboratorios de investigación
+
+¿Cómo gestionan actualmente el inventario de insumos y materiales en su laboratorio? 
+¿Qué dificultades enfrentan con el conteo manual o el control manual del inventario? 
+¿Cuáles son los riesgos o problemas asociados a errores en el manejo del inventario? 
+¿Qué tipo de artículos o materiales requieren monitoreo especial (p.ej. temperatura, humedad)? 
+¿Qué importancia tiene para ustedes la automatización y el monitoreo en tiempo real del inventario? 
+¿Han utilizado antes tecnologías como RFID, códigos QR o sensores inteligentes en su gestión? 
+¿Qué funcionalidades considerarían imprescindibles en una plataforma como LabioT? 
+¿Qué tipo de alertas o notificaciones serían útiles para un monitoreo eficiente? 
+¿Cuáles son las normativas o medidas de seguridad que deben cumplir y cómo afectan su gestión de inventarios? 
+¿Qué expectativas tienen sobre la integración de tecnologías IoT en su flujo de trabajo diario? 
+
+##### Segundo segmento objetivo: Supervisores comerciales o jefes de compras en empresas proveedoras de insumos
+
+¿Cómo gestionan actualmente el inventario de insumos y materiales en su laboratorio? 
+¿Qué dificultades enfrentan con el conteo manual o el control manual del inventario? 
+¿Cuáles son los riesgos o problemas asociados a errores en el manejo del inventario? 
+¿Qué tipo de artículos o materiales requieren monitoreo especial (p.ej. temperatura, humedad)? 
+¿Qué importancia tiene para ustedes la automatización y el monitoreo en tiempo real del inventario? 
+¿Han utilizado antes tecnologías como RFID, códigos QR o sensores inteligentes en su gestión? 
+¿Qué funcionalidades considerarían imprescindibles en una plataforma como LabioT? 
+¿Qué tipo de alertas o notificaciones serían útiles para un monitoreo eficiente? 
+¿Cuáles son las normativas o medidas de seguridad que deben cumplir y cómo afectan su gestión de inventarios? 
+¿Qué expectativas tienen sobre la integración de tecnologías IoT en su flujo de trabajo diario? 
+
 #### 2.2.2. Registro de entrevistas
+En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
+##### Segemento 1: Investigadores responsables de laboratorios  
+Nombre: Alfonso Chang 
+Ocupación: Investigador jefe retirado de laboratorio de SENASA
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv
+<img src="assets/assets/chapter-2/entrevista-1.png" alt="">
+Instante en el que inicia: 0:00
+Duración: 10:04 minutos
+Resumen: El investigador, con amplia experiencia en laboratorios de investigación agrícola, valora la integración de tecnologías IoT para modernizar la gestión de laboratorios. Destaca cómo el uso de códigos QR, sensores y dispositivos IoT permite monitorizar en tiempo real condiciones ambientales y procesos dentro del laboratorio, facilitando un control más preciso y confiable. Resalta que un sistema web centralizado para manejar estas tecnologías mejora la eficiencia operativa, reduce errores manuales y agiliza la toma de decisiones. También nos comenta que en su trabajo la mayoría de tareas que tengan que ver con gestión de inventarios o monitoreos generalmente siempre se hacían con herramientas básicas de ofimatica como excel y que los insumos siempre tienen que cumplir con estrictas medidas y reglas para controlar su calidad y evitar alteraciones en su composición.
+
+Nombre: Luana Huayanay 
+Ocupación: Practicante 
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022056_upc_edu_pe/Eb8fFz2LR-VNjSDP6nntOxABrDLRIlGw_tdoKzbSowi-Eg?e=9ag9Ea
+<img src="assets/assets/chapter-2/entrevista-2.png" alt="">
+Instante en el que inicia: 0:00
+Duración: 7:56 minutos
+Resumen: Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan. También nos comentan las funciones que son necesarias para una plataforma como Labiot son tener un registró automático de entradas y salidas, tener un monitoreo de temperaturas, tener un historial de cada material. además, nos cuenta los tipos de notificaciones que necesita para tener un mayor control y monitoreo es saber la fecha de vencimiento de sus reactivos o medicamentos, también tener alertas ante cualquier variación en la temperatura parar sus congeladores, tener alertas para recordar revisar su inventario, saber con qué insumos están trabajando y para ver cuáles son los insumos que quedan disponibles, además de un aviso por si un refrigerador se abre fuera del horario autorizado. Luana comento que las normativas que cumple es registrar todo los equipos y insumos, asegurar la conservación adecuada de sus materiales. Luana resalta que las tecnologías  IoT podrían facilitar su trabajo al permitir visualizar rápidamente datos clave como conocer el stock de sus medicamentos, conocer el estado de los refrigeradores o si es que se venció algún reactivo que utilizan para sus experimentos, además ayudaría a reducir los errores humanos que tenemos y con la facilidad de poder organizar y tener todo más seguro. 
+
+##### Segemento 2: Supervisores de empresas
+
 #### 2.2.3. Análisis de entrevistas
+
+El análisis de entrevistas para el Segmento 1: Investigadores responsables de laboratorios muestra que comparten patrones claros en cuanto al uso de herramientas actuales, las limitaciones de estas, y las expectativas hacia una solución tecnológica como LabIoT. A continuación, se presentan las características objetivas y subjetivas del segmento, sustentadas en los hallazgos de las entrevistas realizadas.
+
+##### Características objetivas
+Uso de herramientas tradicionales (Excel y ofimática):
+El 100% de los entrevistados (Alfonso y Luana) mencionaron que actualmente utilizan principalmente Excel para el control de inventarios y registros de insumos. Se considera un método limitado que consume tiempo y genera errores.
+
+Tiempo invertido y errores frecuentes:
+El 100% señaló demoras y fallas en el registro manual, ya sea por olvido (Luana) o por dependencia en tareas repetitivas (Alfonso).
+
+Necesidad de cumplir normativas de calidad:
+El 100% resaltó la importancia del cumplimiento de protocolos y normativas de conservación de insumos y materiales, asegurando condiciones óptimas (temperatura, caducidad) para evitar la alteración de los productos.
+
+Requerimientos de monitoreo en tiempo real:
+El 100% expresó la necesidad de contar con un sistema de monitoreo constante en aspectos críticos como temperatura, stock y vencimientos.
+
+Duración y frecuencia en el uso de materiales:
+Ambos entrevistados señalaron que la operación en laboratorios implica un alto volumen de insumos, lo que hace indispensable un sistema de control automatizado en tiempo real.
+
+##### Características subjetivas
+Percepción sobre la tecnología IoT:
+El 100% mostró una actitud positiva hacia la implementación de dispositivos IoT y automatización en la gestión de inventarios. Alfonso lo valora como un medio de modernización y mejora de la confiabilidad; Luana lo percibe como una solución que le simplificará el trabajo y minimizará errores humanos.
+
+Sensibilidad hacia la seguridad y el control:
+El 100% expresó preocupación por la seguridad y conservación de insumos. Luana resaltó la importancia de contar con alertas inmediatas (apertura de refrigeradores, vencimiento de reactivos), mientras Alfonso enfatizó la confiabilidad en la calidad de materiales bajo normas estrictas.
+
+Valoración de la eficiencia operativa:
+El 100% consideró que una plataforma como LabIoT incrementaría significativamente la eficiencia al reducir errores manuales, optimizar el tiempo y agilizar la toma de decisiones.
+
+Preferencia por automatización y centralización:
+El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso destacó el impacto positivo a nivel estratégico y de gestión, mientras Luana valoró las funciones a nivel operativo (alertas, historial de insumos, control de stock).
+
+##### Principales patrones comunes (datos cruzados)
+100% utiliza Excel actualmente para registros.
+100% sufre problemas de retrasos, pérdida de datos y errores por la gestión manual.
+100% considera que IoT es útil y necesario en laboratorios.
+100% percibe como vital el cumplimiento de normativas de conservación para insumos.
+100% desea una solución que centralice la información e incluya alertas automáticas y monitoreo en tiempo real.
 ### 2.3. Needfinding  
 #### 2.3.1. User Personas
 <img src="assets/assets/chapter-1/user-persona1.png" alt="">
