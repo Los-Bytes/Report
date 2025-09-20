@@ -252,8 +252,11 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 - Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
 
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
+
 ##### 1.2.2.4. Lean UX Canvas
+
 <img src="assets/assets/chapter-1/Lean UX Canvas.jpg" alt="Lean UX Canvas" width="1000">
+
 ### 1.3 Segmentos Objetivo 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
