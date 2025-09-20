@@ -761,6 +761,40 @@ visual definida en las guías generales.
 
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
+#### 4.2.1. Organization Systems
+1. Organization Scheme (Esquema de organización)
+- Temático/Funcional: la información se organiza según las funciones principales del sistema:
+  - Gestión de usuarios (registro, login, perfil, documentos).
+  - Gestión de inventario (registro, stock, alertas).
+  - Inspecciones de calidad (subida, revisión, aprobación).
+  - Landing Page (información y promoción del producto).
+  - Reportes y analítica.
+
+2. Organization Structure (Estructura de organización)
+
+- Jerárquica (Árbol): desde la Landing Page como entrada, se navega a módulos principales.
+- Lineal: en procesos como registro de cuenta o inspección, los pasos siguen una secuencia.
+- Matriz: en búsquedas/filtrados, por ejemplo inventario que puede organizarse por fecha, tipo de insumo, laboratorio.
+
+3. Organization System (Sistema de organización aplicado)
+- Global navigation (menú principal en el header): acceso a
+  - Home (Landing Page)
+  - Inventario
+  - Inspecciones
+  - Perfil
+  - Reportes
+  - Contacto
+- Local navigation (submenús dentro de cada sección):
+  - Perfil → Crear, Editar, Documentos.
+  - Inventario → Registrar, Stock, Historial.
+  - Inspecciones → Pendientes, Aprobados, Rechazados.
+Contextual navigation (botones de acción dentro de un flujo):
+“Cargar documento”, “Enviar a inspección”, “Generar reporte”.
+
+<p align="center">
+<img src="/assets/assets/chapter-4/database-design/lab-iot-organization-diagram.png" alt="organization structure" style="height:300px;">
+</p>
+
 #### 4.2.2. Labeling Systems
 #### Objetivos
 - Facilitar organización y filtrado de contenido (ej. artículos, productos, laboratorios, insumos).
@@ -920,56 +954,43 @@ esto enviame en condigo para agregarle a mi documento.
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+El wireframe de la landing page presenta una estructura clara con hero section, value proposition, features, benefits, FAQs, contact y call-to-actions estratégicos.
+- Inicio: En la parte superior se ubica nuestro logo principal atractivo y barra de navegación con las secciones de nuestra landing page. Incluye un botón de “Comienza gratis” como CTA destacado.
 
-En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page.
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hero-wf.jpg" alt="hero wireframe" width="600"> </p>
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe.png" alt="">
+- ¿Cómo funciona?: En esta sección se describe el proceso de funcionamiento de nuestro producto en 3 simples pasos.
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe2.png" alt="">
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hdiw-wf.jpg" alt="hdiw wireframe" width="600"> </p>
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe3.png" alt="">
+- Caracteristicas: Se presentan las funcionalidades principales de la plataforma en bloques simples con descripciones breves, permitiendo que el usuario entienda rápidamente lo que ofrecemos.
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe5.png" alt="">
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/features-wf.jpg" alt="features wireframe" width="600"> </p>
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe6.png" alt="">
+- Beneficios y FAQs: Sección dedicada a mostrar el valor agregado de la solución, resaltando las ventajas competitivas y diferenciales con respecto a alternativas existentes en el mercado, además de la sección de FAQs para minimizar dudas generales de los consumidores.
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe7.png" alt="">
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/benefits-&-faqs-wf.jpg" alt="benefits faqs wireframe" width="600"> </p>
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe8.png" alt="">
+- Contacto y Footer: Sección final con un formulario de contacto y un footer con enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
 
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe9.png" alt="">
-
-<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe4.png" alt="">
-
-Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/contact-&-footer-wf.png" alt="contact y footer wireframe" width="600"> </p>
 
 #### 4.3.2. Landing Page Mock-up
+El mock-up refleja la identidad de marca con los colores aplicados, algunos no reflejan el producto final ya que hay degradados entre 2 colores que Figma no permite representar. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
 
-En esta seccion mostraremos los mockups realizados para el landing page con los respectivos estilos establecidos en los puntos anteriores.
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hero-mu.jpg" alt="hero mock up" width="600"> </p>
 
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up1.png" alt="">
-En este mockup del inicio del landing page se aprecia el inicio de aplicativo con una frase haciendo referencia al negocio asi como las imagenes respectivas. Ademas de un boton de accion que permitira al usuario redirigirlo a la aplicacion web.
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hdiw-mu.png" alt="hdiw mock up" width="600"> </p>
 
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up2.png" alt="">
-En este mockup de los beneficios mostrara los beneficios.
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/features-mu.png" alt="features mock up" width="600"> </p>
 
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up3.png" alt="">
-En este mockup de los planes se muestra cards con los diferentes planes que tendra la aplicacion web.
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/benefits-mu.png" alt="benefits mock up" width="600"> </p>
 
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up4.png" alt="">
-En esta mockup mostrara el uso en tres pasos.
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up5.png" alt="">
-En esta mockup se mostrara las preguntas precuentes.
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up6.png" alt="">
-En esta seccion mostraremos al equipo detras del desarrollo del aplicativo web.
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up7.png" alt="">
-En esta mockup se mostrara las caracteristcas claves.
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up8.png" alt="">
-Y en esta mockup se podra contactar con el equipo.
-<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up9.png" alt="">
-En este mockup se puede ver el footer donde tendra una pequeña descripcion con nuestras respectivas redes.
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/faqs-mu.png" alt="faqs mock up" width="600"> </p>
 
-Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/contact-mu.png" alt="contact mock up" width="600"> </p>
+
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/footer-mu.png" alt="footer mock up" width="600"> </p>
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
