@@ -406,20 +406,20 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 #### 2.2.2. Registro de entrevistas
 En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
 ##### Segemento 1: Investigadores responsables de laboratorios  
-Nombre: Alfonso Chang 
-Ocupación: Investigador jefe retirado de laboratorio de SENASA
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv
+Nombre: Alfonso Chang <br>
+Ocupación: Investigador jefe retirado de laboratorio de SENASA <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv <br>
 <img src="assets/assets/chapter-2/entrevista-1.png" alt="">
-Instante en el que inicia: 0:00
-Duración: 10:04 minutos
+Instante en el que inicia: 0:00 <br>
+Duración: 10:04 minutos<br>
 Resumen: El investigador, con amplia experiencia en laboratorios de investigación agrícola, valora la integración de tecnologías IoT para modernizar la gestión de laboratorios. Destaca cómo el uso de códigos QR, sensores y dispositivos IoT permite monitorizar en tiempo real condiciones ambientales y procesos dentro del laboratorio, facilitando un control más preciso y confiable. Resalta que un sistema web centralizado para manejar estas tecnologías mejora la eficiencia operativa, reduce errores manuales y agiliza la toma de decisiones. También nos comenta que en su trabajo la mayoría de tareas que tengan que ver con gestión de inventarios o monitoreos generalmente siempre se hacían con herramientas básicas de ofimatica como excel y que los insumos siempre tienen que cumplir con estrictas medidas y reglas para controlar su calidad y evitar alteraciones en su composición.
 
-Nombre: Luana Huayanay 
-Ocupación: Practicante 
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022056_upc_edu_pe/Eb8fFz2LR-VNjSDP6nntOxABrDLRIlGw_tdoKzbSowi-Eg?e=9ag9Ea
+Nombre: Luana Huayanay <br>
+Ocupación: Practicante <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022056_upc_edu_pe/Eb8fFz2LR-VNjSDP6nntOxABrDLRIlGw_tdoKzbSowi-Eg?e=9ag9Ea<br>
 <img src="assets/assets/chapter-2/entrevista-2.png" alt="">
-Instante en el que inicia: 0:00
-Duración: 7:56 minutos
+Instante en el que inicia: 0:00<br>
+Duración: 7:56 minutos<br>
 Resumen: Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan. También nos comentan las funciones que son necesarias para una plataforma como Labiot son tener un registró automático de entradas y salidas, tener un monitoreo de temperaturas, tener un historial de cada material. además, nos cuenta los tipos de notificaciones que necesita para tener un mayor control y monitoreo es saber la fecha de vencimiento de sus reactivos o medicamentos, también tener alertas ante cualquier variación en la temperatura parar sus congeladores, tener alertas para recordar revisar su inventario, saber con qué insumos están trabajando y para ver cuáles son los insumos que quedan disponibles, además de un aviso por si un refrigerador se abre fuera del horario autorizado. Luana comento que las normativas que cumple es registrar todo los equipos y insumos, asegurar la conservación adecuada de sus materiales. Luana resalta que las tecnologías  IoT podrían facilitar su trabajo al permitir visualizar rápidamente datos clave como conocer el stock de sus medicamentos, conocer el estado de los refrigeradores o si es que se venció algún reactivo que utilizan para sus experimentos, además ayudaría a reducir los errores humanos que tenemos y con la facilidad de poder organizar y tener todo más seguro. 
 
 ##### Segemento 2: Supervisores de empresas
