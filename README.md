@@ -205,7 +205,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2">Andre Pillaca Velasquez </th>
   </tr>
   <tr>
-    <td> <img > </td>
+    <td> <img src="assets/assets/chapter-1/AndrePillaca.jpg" width=300px> </td>
     <td>Soy estudiante de la carrera de Ingeniería de Software. Tengo 22 años y entre mis cualidades están ser perseverante y responsable. Entre mis habilidades, tengo experiencia en los lenguajes de programación de C + +,Python y espero seguir aprendiendo para llegar a ser un profesional competente. </td>
   </tr>
  <tr>
@@ -307,7 +307,30 @@ El impacto se refleja en:
 - Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
 
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
+
+#### Hipótesis 1
+**Creemos que** al implementar una solución de gestión de inventarios basada en IoT, RFID y códigos QR, los laboratorios podrán monitorear en tiempo real sus materiales e insumos de manera más eficiente y segura.
+
+**Sabremos que el objetivo se ha logrado de manera satisfactoria** cuando el 70% de los usuarios indiquen que la plataforma ha reducido significativamente el tiempo y esfuerzo invertido en la gestión manual de inventarios.
+
+---
+
+#### Hipótesis 2
+**Creemos que** al automatizar el registro de entrada y salida de materiales mediante sensores y RFID, reduciremos los errores y pérdidas de insumos críticos.
+
+**Sabremos que el objetivo se ha logrado de manera satisfactoria** cuando los laboratorios experimenten una disminución de al menos el 40% en incidencias relacionadas con pérdida o mal registro de insumos en un periodo de 3 meses.
+
+---
+
+#### Hipótesis 3
+**Creemos que** al proporcionar alertas y reportes inteligentes sobre el estado y stock de los insumos, los laboratorios podrán anticiparse a desabastecimientos y manejar de forma proactiva su inventario.
+
+**Sabremos que el objetivo se ha logrado de manera satisfactoria** cuando al menos el 65% de los usuarios confirme que la solución les ha permitido anticipar y resolver a tiempo necesidades de reposición de materiales.
+
 ##### 1.2.2.4. Lean UX Canvas
+
+
+
 ### 1.3 Segmentos Objetivo 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
