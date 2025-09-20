@@ -541,7 +541,7 @@ Permite a los responsables actuar de manera preventiva y mantener la continuidad
 Diagrama de Base de datos
 
 <p align="center">
-<img src="/assets/assets/chapter-4/database-design/databasediagram.png" alt="accesibilidad" style="height:500px;">
+<img src="/assets/assets/chapter-4/database-design/databasediagram.png" alt="database-diagram" style="height:500px;">
 </p>
 
 El diagrama de clases para este proyecto se puede encontrar en el 
@@ -550,8 +550,62 @@ documento [docs/database-diagram.puml](docs/database-diagram.puml).
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+**Project Management**
+**Discord** funciona como la herramienta principal de comunicación en tiempo real entre los integrantes del equipo. Gracias a sus canales estructurados por temas y roles, permite llevar a cabo reuniones, coordinar las actividades diarias y brindar soporte inmediato a lo largo de todo el proceso de desarrollo. <br>
+Ruta de referencia: [Discord](https://discord.com)
+**Diseño UX/UI de Producto**
+
+**Figma** se emplea como la herramienta principal para crear interfaces gráficas (UI) y definir la experiencia de usuario (UX). Facilita la colaboración en tiempo real entre varios miembros del equipo para elaborar prototipos interactivos, maquetas visuales y pruebas de diseño. <br>
+Ruta de referencia: [Figma](https://www.figma.com)
+
+**UXPressia** refuerza el proceso de UX al ofrecer recursos para generar y documentar User Personas, Customer Journey Maps y Empathy Maps. Esto permite comprender mejor a los usuarios finales y orientar las decisiones de diseño en función de sus necesidades. <br>
+Ruta de referencia: [UXpressia](https://uxpressia.com)
+
+**Trello** contribuye a la organización del trabajo de UX mediante tableros, listas y tarjetas, lo que facilita la gestión visual de tareas, ideas y flujos. Ayuda a que los equipos de diseño y desarrollo colaboren de manera ágil, prioricen funcionalidades centradas en el usuario y hagan seguimiento al avance de los proyectos. <br>
+Ruta de referencia: [Trello](https://trello.com)
+
+**Software Development**
+
+**Visual Studio Code (VS Code)** es el editor de código principal utilizado en el desarrollo. Ofrece un entorno ligero y altamente personalizable que integra soporte para múltiples lenguajes de programación, extensiones y herramientas de depuración. Gracias a sus funciones de control de versiones y compatibilidad con Git, facilita el trabajo colaborativo y eficiente en los proyectos de software. <br>
+Referencia: [Visual Studio Code](https://code.visualstudio.com/)
+
+**Software Deployment**
+
+**Git** se emplea como sistema de control de versiones para administrar el historial de cambios en el código fuente. Permite la colaboración simultánea de varios desarrolladores con control sobre ramas, fusiones y diferentes versiones del proyecto. <br>
+Referencia: [Git](https://git-scm.com/)
+
+**GitHub** es la plataforma en línea donde se alojan y gestionan los repositorios del proyecto. Ofrece herramientas para la colaboración, control de versiones, gestión de issues y pull requests, lo que asegura una integración ordenada y segura de los cambios en el software. <br>
+Referencia: [GitHub](https://github.com/)
+
+**GitHub Pages** se emplea como plataforma de alojamiento para desplegar la interfaz frontend de la aplicación. Al estar integrada con los repositorios de GitHub, posibilita la publicación de sitios web estáticos de manera rápida, automatizada y gratuita. <br>
+Referencia: [GitHub Pages](https://docs.github.com/es/pages)
 #### 5.1.2. Source Code Management
+El proyecto adoptará las convenciones del modelo GitFlow como esquema principal de control de versiones, empleando GitHub como plataforma de gestión. A continuación, se describe la aplicación de GitFlow como flujo de trabajo de versionado y se incluyen los enlaces a los repositorios correspondientes al producto Landing Page:
+
+**Repositorios de GitHub:**
+- Organización en GitHub: [Los-Bytes](https://github.com/Los-Bytes)
+
+- Repositorio de la Landing Page: [Landing Page LabIoT](https://github.com/MarceloMazuelos/LabIoT-Landing-Page/)
+
+**Flujo de trabajo GitFlow:**
+Para el desarrollo del proyecto se seguirá el modelo de ramas propuesto por Vincent Driessen en “A successful Git branching model”.
+**Estructura de ramas**
+1. **Rama principal (Main branch):**
+Corresponde al núcleo del proyecto y almacenará únicamente versiones estables y definitivas de la aplicación. Los cambios que lleguen a esta rama deberán haber sido previamente probados y validados en ramas de desarrollo o prueba.
+
+2. **Rama de desarrollo (Development branch):**
+Será el espacio destinado a concentrar los avances colectivos del equipo, manteniendo los archivos centrales del desarrollo en curso. Apartir de esta rama se crearán otras ramas para desarrollo individual para posterior merge.
 #### 5.1.3. Source Code Style Guide & Conventions
+- Estructura de Archivos
+Usa la convención kebab-case para nombres de archivos y carpetas (my-component.vue).
+Mantén los componentes en la carpeta src/components.
+Archivos principales: App.vue, main.js, index.html.
+- Sintaxis Vue
+Usa la sintaxis <script setup> para componentes Vue 3. Un solo componente por archivo .vue. Orden de secciones: <template>, <script>, <style>.
+- Estilo de Código JavaScript
+Usa const y let en vez de var. Usa arrow functions cuando sea posible. Indentación de 2 espacios. Punto y coma al final de cada sentencia. Nombres de variables y funciones en camelCase.
+- Estilo de Código CSS/Tailwind
+Usa clases utilitarias de TailwindCSS en el template. Para estilos personalizados, usa <style scoped> en los componentes. Prefiere clases sobre estilos en línea.
 #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
@@ -567,3 +621,21 @@ documento [docs/database-diagram.puml](docs/database-diagram.puml).
 ## Conclusiones
 ## Bibliografía
 ## Anexos
+
+**Repositorio en GitHub - BookMe (Prisma) - Documento:**<br>
+
+https://github.com/Los-Bytes/Report
+
+**Repositorio en GitHub - BookMe (Prisma) - Landing Page**<br>
+
+https://github.com/MarceloMazuelos/LabIoT-Landing-Page/
+
+**Url Deployment Github Pages - BookMe (Prisma) - Landing Page**<br>
+
+https://marcelomazuelos.github.io/LabIoT-Landing-Page/
+
+**Url Video Exposicion TB1:**
+
+**Cuentas de GitHub de los Integrantes:**<br>
+
+Marcelo Mazuelos - @MarceloMazuelos
