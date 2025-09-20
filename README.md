@@ -377,92 +377,8 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 - Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
-##### Primer segmento objetivo: Investigadores líderes o responsables de laboratorios de investigación
-
-¿Cómo gestionan actualmente el inventario de insumos y materiales en su laboratorio? 
-¿Qué dificultades enfrentan con el conteo manual o el control manual del inventario? 
-¿Cuáles son los riesgos o problemas asociados a errores en el manejo del inventario? 
-¿Qué tipo de artículos o materiales requieren monitoreo especial (p.ej. temperatura, humedad)? 
-¿Qué importancia tiene para ustedes la automatización y el monitoreo en tiempo real del inventario? 
-¿Han utilizado antes tecnologías como RFID, códigos QR o sensores inteligentes en su gestión? 
-¿Qué funcionalidades considerarían imprescindibles en una plataforma como LabioT? 
-¿Qué tipo de alertas o notificaciones serían útiles para un monitoreo eficiente? 
-¿Cuáles son las normativas o medidas de seguridad que deben cumplir y cómo afectan su gestión de inventarios? 
-¿Qué expectativas tienen sobre la integración de tecnologías IoT en su flujo de trabajo diario? 
-
-##### Segundo segmento objetivo: Supervisores comerciales o jefes de compras en empresas proveedoras de insumos
-
-¿Cómo gestionan actualmente el inventario de insumos y materiales en su laboratorio? 
-¿Qué dificultades enfrentan con el conteo manual o el control manual del inventario? 
-¿Cuáles son los riesgos o problemas asociados a errores en el manejo del inventario? 
-¿Qué tipo de artículos o materiales requieren monitoreo especial (p.ej. temperatura, humedad)? 
-¿Qué importancia tiene para ustedes la automatización y el monitoreo en tiempo real del inventario? 
-¿Han utilizado antes tecnologías como RFID, códigos QR o sensores inteligentes en su gestión? 
-¿Qué funcionalidades considerarían imprescindibles en una plataforma como LabioT? 
-¿Qué tipo de alertas o notificaciones serían útiles para un monitoreo eficiente? 
-¿Cuáles son las normativas o medidas de seguridad que deben cumplir y cómo afectan su gestión de inventarios? 
-¿Qué expectativas tienen sobre la integración de tecnologías IoT en su flujo de trabajo diario? 
-
 #### 2.2.2. Registro de entrevistas
-En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
-##### Segemento 1: Investigadores responsables de laboratorios  
-Nombre: Alfonso Chang <br>
-Ocupación: Investigador jefe retirado de laboratorio de SENASA <br>
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv <br>
-<img src="assets/assets/chapter-2/entrevista-1.png" alt="">
-Instante en el que inicia: 0:00 <br>
-Duración: 10:04 minutos<br>
-Resumen: El investigador, con amplia experiencia en laboratorios de investigación agrícola, valora la integración de tecnologías IoT para modernizar la gestión de laboratorios. Destaca cómo el uso de códigos QR, sensores y dispositivos IoT permite monitorizar en tiempo real condiciones ambientales y procesos dentro del laboratorio, facilitando un control más preciso y confiable. Resalta que un sistema web centralizado para manejar estas tecnologías mejora la eficiencia operativa, reduce errores manuales y agiliza la toma de decisiones. También nos comenta que en su trabajo la mayoría de tareas que tengan que ver con gestión de inventarios o monitoreos generalmente siempre se hacían con herramientas básicas de ofimatica como excel y que los insumos siempre tienen que cumplir con estrictas medidas y reglas para controlar su calidad y evitar alteraciones en su composición.
-
-Nombre: Luana Huayanay <br>
-Ocupación: Practicante <br>
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022056_upc_edu_pe/Eb8fFz2LR-VNjSDP6nntOxABrDLRIlGw_tdoKzbSowi-Eg?e=9ag9Ea<br>
-<img src="assets/assets/chapter-2/entrevista-2.png" alt="">
-Instante en el que inicia: 0:00<br>
-Duración: 7:56 minutos<br>
-Resumen: Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan. También nos comentan las funciones que son necesarias para una plataforma como Labiot son tener un registró automático de entradas y salidas, tener un monitoreo de temperaturas, tener un historial de cada material. además, nos cuenta los tipos de notificaciones que necesita para tener un mayor control y monitoreo es saber la fecha de vencimiento de sus reactivos o medicamentos, también tener alertas ante cualquier variación en la temperatura parar sus congeladores, tener alertas para recordar revisar su inventario, saber con qué insumos están trabajando y para ver cuáles son los insumos que quedan disponibles, además de un aviso por si un refrigerador se abre fuera del horario autorizado. Luana comento que las normativas que cumple es registrar todo los equipos y insumos, asegurar la conservación adecuada de sus materiales. Luana resalta que las tecnologías  IoT podrían facilitar su trabajo al permitir visualizar rápidamente datos clave como conocer el stock de sus medicamentos, conocer el estado de los refrigeradores o si es que se venció algún reactivo que utilizan para sus experimentos, además ayudaría a reducir los errores humanos que tenemos y con la facilidad de poder organizar y tener todo más seguro. 
-
-##### Segemento 2: Supervisores de empresas
-
 #### 2.2.3. Análisis de entrevistas
-
-El análisis de entrevistas para el Segmento 1: Investigadores responsables de laboratorios muestra que comparten patrones claros en cuanto al uso de herramientas actuales, las limitaciones de estas, y las expectativas hacia una solución tecnológica como LabIoT. A continuación, se presentan las características objetivas y subjetivas del segmento, sustentadas en los hallazgos de las entrevistas realizadas.
-
-##### Características objetivas
-Uso de herramientas tradicionales (Excel y ofimática):
-El 100% de los entrevistados (Alfonso y Luana) mencionaron que actualmente utilizan principalmente Excel para el control de inventarios y registros de insumos. Se considera un método limitado que consume tiempo y genera errores.
-
-Tiempo invertido y errores frecuentes:
-El 100% señaló demoras y fallas en el registro manual, ya sea por olvido (Luana) o por dependencia en tareas repetitivas (Alfonso).
-
-Necesidad de cumplir normativas de calidad:
-El 100% resaltó la importancia del cumplimiento de protocolos y normativas de conservación de insumos y materiales, asegurando condiciones óptimas (temperatura, caducidad) para evitar la alteración de los productos.
-
-Requerimientos de monitoreo en tiempo real:
-El 100% expresó la necesidad de contar con un sistema de monitoreo constante en aspectos críticos como temperatura, stock y vencimientos.
-
-Duración y frecuencia en el uso de materiales:
-Ambos entrevistados señalaron que la operación en laboratorios implica un alto volumen de insumos, lo que hace indispensable un sistema de control automatizado en tiempo real.
-
-##### Características subjetivas
-Percepción sobre la tecnología IoT:
-El 100% mostró una actitud positiva hacia la implementación de dispositivos IoT y automatización en la gestión de inventarios. Alfonso lo valora como un medio de modernización y mejora de la confiabilidad; Luana lo percibe como una solución que le simplificará el trabajo y minimizará errores humanos.
-
-Sensibilidad hacia la seguridad y el control:
-El 100% expresó preocupación por la seguridad y conservación de insumos. Luana resaltó la importancia de contar con alertas inmediatas (apertura de refrigeradores, vencimiento de reactivos), mientras Alfonso enfatizó la confiabilidad en la calidad de materiales bajo normas estrictas.
-
-Valoración de la eficiencia operativa:
-El 100% consideró que una plataforma como LabIoT incrementaría significativamente la eficiencia al reducir errores manuales, optimizar el tiempo y agilizar la toma de decisiones.
-
-Preferencia por automatización y centralización:
-El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso destacó el impacto positivo a nivel estratégico y de gestión, mientras Luana valoró las funciones a nivel operativo (alertas, historial de insumos, control de stock).
-
-##### Principales patrones comunes (datos cruzados)
-100% utiliza Excel actualmente para registros.
-100% sufre problemas de retrasos, pérdida de datos y errores por la gestión manual.
-100% considera que IoT es útil y necesario en laboratorios.
-100% percibe como vital el cumplimiento de normativas de conservación para insumos.
-100% desea una solución que centralice la información e incluya alertas automáticas y monitoreo en tiempo real.
 ### 2.3. Needfinding  
 #### 2.3.1. User Personas
 <img src="assets/assets/chapter-1/user-persona1.png" alt="">
@@ -520,121 +436,9 @@ El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso desta
 
 Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 ### 2.5. Ubiquitous Language
-1. Stakeholders & Roles
-Lab Manager (Responsable de Laboratorio): Persona encargada de supervisar el inventario, la seguridad y las operaciones del laboratorio. Toma decisiones sobre la adquisición y el uso de insumos.  
-Procurement Supervisor (Supervisor de Compras): Responsable de coordinar las solicitudes de materiales y mantener la relación con proveedores de insumos de laboratorio.  
-Researcher (Investigador): Usuario que trabaja dentro del laboratorio y utiliza los insumos inventariados para proyectos específicos.  
-Supplier (Proveedor): Empresa o entidad que abastece al laboratorio con materiales, insumos y equipos especializados.  
-
-2. Funcionalidades de la Plataforma
-Register Item (Registro de Ítem): Proceso en el que cada material, reactivo o equipo del laboratorio es identificado en el sistema mediante etiquetas RFID o códigos QR.  
-Track Inventory (Seguimiento de Inventario): Funcionalidad para monitorear en tiempo real los niveles de stock de insumos dentro del laboratorio.  
-Condition Monitoring (Monitoreo de Condiciones): Proceso en el que sensores inteligentes registran parámetros críticos (ejemplo: temperatura de reactivos sensibles).  
-Alert Generation (Generación de Alertas): Notificaciones automáticas enviadas cuando se detecta un nivel bajo de stock o una condición anómala en los insumos (ejemplo: refrigerador con aumento de temperatura).  
-Access Control (Control de Acceso): Gestión de permisos que define qué usuarios pueden registrar, modificar o consumir ítems específicos.  
-Inventory Report (Reporte de Inventario): Generación de informes automáticos sobre niveles de existencia, historial de consumos y estado de los insumos.  
-
-3. Otros conceptos del dominio
-Smart Tag (Etiqueta Inteligente): Identificador en forma de RFID o código QR que permite el reconocimiento único de cada ítem dentro del sistema.  
-Stock Level (Nivel de Stock): Cantidad disponible de un insumo en el inventario, monitoreada de forma automática.  
-Expiration Date (Fecha de Vencimiento): Registro de la fecha límite de uso de reactivos o insumos, clave para garantizar la seguridad en proyectos de investigación.  
-Critical Condition (Condición Crítica): Estado detectado por sensores (ejemplo: pérdida de frío en congelador o variación brusca de temperatura) que puede comprometer la utilidad de los materiales.  
-Consumption Log (Registro de Consumo): Historial de movimientos de inventario que refleja qué insumo fue consumido, por quién y en qué fecha.  
-Supply Request (Solicitud de Insumo): Proceso mediante el cual un miembro del laboratorio solicita al responsable o supervisor la compra o reposición de materiales.  
-Audit Trail (Trazabilidad de Auditoría): Conjunto de registros que muestran todas las acciones realizadas sobre el inventario para fines de control y seguridad.  
 
 ## Capítulo III: Requirements Specification
 ### 3.1. User Stories
-## Epics
-
-## Epics
-
-| Epic ID | Title                               | Descripción                                                                                         |
-|---------|-----------------------------------|---------------------------------------------------------------------------------------------------|
-| EP01    | User Management                   | Como usuario quiero crear y gestionar mi cuenta para acceder y usar el sistema adecuadamente.     |
-| EP02    | Laboratory Inventory Management   | Como usuario quiero gestionar el inventario del laboratorio para mantener un control actualizado. |
-| EP03    | Subscription Management           | Como usuario quiero administrar mi perfil y suscripciones para personalizar mi experiencia.       |
-| EP04    | Supplier Quality Control          | Como usuario quiero recibir alertas y gestionar notificaciones para mantener la calidad.          |
-| EP05    | Alerts and Notifications Manager  | Como administrador quiero generar reportes y dashboards para supervisar el estado del laboratorio.|
-| EP06    | Laboratory Management             | Como inspector quiero gestionar la recepción y aprobación de productos para mantener control.     |
-
-## User Stories
-| User Story ID | Título               | Descripción                                                            | Criterios de aceptación                                                                                                    | Épica |
-|---------------|----------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------|
-| US-01         | Registro de Usuario   | Como usuario quiero registrarme en la plataforma para acceder a sus funcionalidades. | Escenario 1: Dado que estoy en la página de registro, cuando ingreso datos válidos, entonces la cuenta se crea exitosamente.  
-Escenario 2: Dado que ingreso datos incompletos, cuando envío el formulario, entonces el sistema muestra mensajes de error solicitando corrección.  
-Escenario 3: Dado que ingreso un correo ya registrado, cuando envío, entonces el sistema muestra mensaje de correo duplicado. | EP01  |
-| US-02         | Inicio de Sesión      | Como usuario quiero iniciar sesión para acceder a mi cuenta.           | Escenario 1: Dado que ingreso credenciales válidas, cuando inicio sesión, entonces ingreso exitosamente.  
-Escenario 2: Dado que ingreso credenciales inválidas, cuando intento ingresar, entonces recibo un mensaje de error.  
-Escenario 3: Dado que dejo campos vacíos, cuando intento ingresar, entonces recibo alertas de campos obligatorios. | EP01  |
-| US-03         | Cierre de Sesión      | Como usuario quiero cerrar sesión para proteger mi cuenta.             | Escenario 1: Dado que estoy autenticado, cuando selecciono cerrar sesión, entonces la sesión termina y redirige a la página principal.  
-Escenario 2: Dado que la sesión expira, cuando intento realizar acción, entonces me solicita iniciar sesión nuevamente. | EP01  |
-| US-04         | Recuperación de Contraseña | Como usuario quiero recuperar mi contraseña en caso de olvido.      | Escenario 1: Dado que ingreso un correo registrado, cuando solicito recuperación, entonces recibo un enlace para restablecer contraseña.  
-Escenario 2: Dado que ingreso un correo no registrado, cuando solicito recuperación, entonces recibo mensaje de error.  
-Escenario 3: Dado que el enlace está expirado, cuando intento usarlo, entonces recibo indicación para solicitar uno nuevo. | EP01  |
-| US-05         | Acceso a Landing Page | Como usuario quiero entrar a la Landing Page y visualizarla correctamente. | Escenario 1: Dado que ingreso a la URL, cuando la página carga, entonces visualizo todo el contenido sin errores visuales.  
-Escenario 2: Dado que accedo desde diferentes dispositivos, cuando ingreso, entonces la página es responsiva y accesible. | EP02  |
-| US-06         | Ver Información General | Como usuario quiero leer toda la información general en la Landing Page. | Escenario 1: Dado que estoy en la Landing Page, cuando navego, entonces puedo leer claramente toda la información existente.  
-Escenario 2: Dado que cambio de sección a sección, cuando regreso, entonces la información continúa accesible sin recarga. | EP02  |
-| US-07         | Botón de Acción       | Como usuario quiero encontrar el botón que me lleve al registro o uso.  | Escenario 1: Dado que estoy en la Landing Page, cuando busco acción principal, entonces encuentro el botón visible y funcional.  
-Escenario 2: Dado que accedo desde móvil, cuando busco el botón, entonces es accesible y funciona correctamente. | EP02  |
-| US-08         | Traducción Landing Page | Como usuario quiero ver la página web traducida según mis necesidades. | Escenario 1: Dado que cambio el idioma, cuando selecciono otro, entonces toda la página se actualiza y muestra en ese idioma.  
-Escenario 2: Dado que guardo contenido para lectura offline, cuando cargo la copia, entonces mantiene la lengua seleccionada. | EP02  |
-| US-09         | Pestaña de Perfil     | Como usuario quiero acceder a un perfil para ingresar información y documentos. | Escenario 1: Dado que accedo a "Mi Perfil" sin información previa, cuando ingreso, entonces puedo crear un nuevo perfil.  
-Escenario 2: Dado que tengo perfil creado, cuando entro, entonces puedo modificar la información.  
-Escenario 3: Dado que estoy en otra sección, cuando clic en "Mi Perfil", entonces me lleva directamente a la pestaña. | EP03  |
-| US-10         | Crear Perfil          | Como usuario quiero crear un perfil con información personal.         | Escenario 1: Dado que accedo a crear perfil, cuando lleno todos los campos requeridos correctamente, entonces el perfil se crea.  
-Escenario 2: Dado que dejo campos vacíos, cuando intento guardar, entonces el sistema solicita completar la información.  
-Escenario 3: Dado que ingreso datos en formato incorrecto, cuando envío, entonces recibo aviso para corregir. | EP03  |
-| US-11         | Modificar Perfil         | Como usuario quiero modificar la información de mi perfil.                | Escenario 1: Dado que el perfil existe validado, cuando edito campos con datos válidos, entonces se actualiza correctamente.  
-Escenario 2: Dado que los datos son inválidos, cuando intento guardar, entonces se muestran mensajes de error.  
-Escenario 3: Dado que doy cancelación, cuando confirmo, entonces no se actualizan los datos.                                                                                      | EP03  |
-| US-12         | Cargar Documentos        | Como usuario quiero cargar documentos personales en mi perfil para consulta.| Escenario 1: Dado que estoy en la pestaña perfil, cuando subo documentos válidos, entonces se guardan exitosamente.  
-Escenario 2: Dado que sustituyo documentos existentes, cuando confirmo, entonces se reemplazan correctamente.  
-Escenario 3: Dado que intento subir documentos inválidos, cuando envío, entonces se muestra error y se rechaza la carga.                                                        | EP03  |
-| US-13         | Registrar Ítem con QR/RFID| Como usuario quiero registrar ítems con etiquetas QR o RFID para identificarlos.| Escenario 1: Dado que tengo producto físico con etiqueta, cuando escaneo QR/RFID, entonces el sistema registra el ítem con éxito.  
-Escenario 2: Dado que la etiqueta está dañada o ilegible, cuando escaneo, entonces se muestra error y no se registra el ítem.  
-Escenario 3: Dado que el ítem ya está registrado, cuando intento registrar, entonces se notifica duplicidad.                                                                      | EP02  |
-| US-14         | Escanear Entrada/Salida  | Como usuario quiero escanear ítems al ser usados para actualizar inventario.| Escenario 1: Dado que el ítem está en inventario, cuando escaneo para salida, entonces el stock se actualiza descontando la unidad usada.  
-Escenario 2: Dado que el ítem no está registrado, cuando intento escanear, entonces se deniega la operación y se notifica error.  
-Escenario 3: Dado que ingreso múltiples ítems, cuando los escaneo, entonces se actualiza stock en lote sin errores.                                                              | EP02  |
-| US-15         | Actualización Automática  | Como sistema quiero actualizar stock tras movimientos para mantener precisión.| Escenario 1: Dado que se registra una venta, cuando se procesa, entonces el stock disminuye automáticamente.  
-Escenario 2: Dado que se procesa una devolución válida, cuando se registra, entonces el stock aumenta automáticamente.  
-Escenario 3: Dado que ocurre error de sincronización, cuando hay inconsistencia, entonces se genera alerta al administrador.                                                  | EP02  |
-| US-16         | Generar Historial de Uso  | Como usuario quiero consultar historial de uso para auditorías.            | Escenario 1: Dado que selecciono un insumo, cuando solicito historial, entonces visualizo todas las transacciones registradas.  
-Escenario 2: Dado que aplico filtros de fechas, cuando filtro, entonces se muestran resultados restringidos.  
-Escenario 3: Dado que no hay movimientos, cuando solicito historial, entonces recibo un mensaje indicando inexistencia de movimientos.                                   | EP02  |
-| US-21         | Recibir Alerta de Temperatura| Como usuario quiero recibir alertas si la temperatura está fuera de rango.| Escenario 1: Dado que sensores monitorean temperatura, cuando detectan fuera del rango, entonces se envían alertas inmediatas.  
-Escenario 2: Dado que la alerta fue falsamente disparada, cuando se verifica, entonces se elimina la alerta y se notifica corrección.  
-Escenario 3: Dado que el usuario desactiva alertas, cuando cambia configuración, entonces deja de recibir notificiaciones.                                          | EP04  |
-| US-22         | Alerta de Insumos Próximos a Vencer | Como usuario quiero recibir notificaciones para insumos próximos a vencer.| Escenario 1: Dado que un insumo está próximo a su fecha de vencimiento, cuando la fecha se acerca, entonces se genera notificación automática.  
-Escenario 2: Dado que el insumo es retirado antes de vencer, cuando se retira, entonces se cancela la alerta.  
-Escenario 3: Dado que se genera alerta para múltiples productos, cuando se supera el umbral, entonces se envía alerta grupal.                                             | EP04  |
-| US-23         | Alerta de Bajo Stock     | Como usuario quiero recibir alertas cuando el stock esté bajo para reposición.| Escenario 1: Dado que el nivel de stock alcanza el mínimo, cuando se detecta, entonces se envía alerta automática.  
-Escenario 2: Dado que el usuario ajusta el umbral de alerta, cuando lo cambia, entonces se ajustan las notificaciones según nuevo umbral.  
-Escenario 3: Dado que se producen alertas reiteradas, cuando se analiza, entonces se propone optimización del sistema de alertas.                                   | EP04  |
-| US-24         | Configurar Tipos y Canales de Alerta| Como usuario quiero configurar qué alertas recibir y por qué canal.  | Escenario 1: Dado que el usuario accede a configuración, cuando selecciona preferencias, entonces se guardan exitosamente.  
-Escenario 2: Dado que elige diferentes canales, cuando cambia configuración, entonces recibe alertas por dichos canales.  
-Escenario 3: Dado que desea suspender alertas, cuando las desactiva, entonces deja de recibir notificaciones.                                                    | EP04  |
-| US-25         | Programación Entrega               | Como usuario, quiero seleccionar franja de entrega conveniente para coordinar retiro. | Escenario 1: Dado que existe orden lista para entrega, cuando selecciono franja, entonces la agenda se actualiza.  
-Escenario 2: Dado que hay cambio de fecha, cuando admin propone nueva franja, entonces confirmo y se notifica. | EP14  |
-| US-26         | Pago Completo                     | Como dueño de usuario, quiero pagar el monto total de mi subscripción.           | Escenario 1: Dado monto aprobado, cuando autorizo pago, entonces se registra y cambia estado.  
-Escenario 2: Dado pago rechazado, cuando intento nuevo pago, entonces sistema muestra motivo y permite reintentar. | EP14  |
-| US-27         | Encuesta de Satisfacción          | Como usuario, quiero responder encuesta para mejorar servicio.                           | Escenario 1: Dado orden entregada, cuando accedo encuesta, entonces puedo responder y enviar.  
-Escenario 2: Dado puntuación baja, cuando envío encuesta, entonces sistema alerta internamente para seguimiento. | EP14  |
-| US-28         | Registro de Trabajador             | Como usuario, quiero registrar datos de trabajador para mostrar al cliente.       | Escenario 1: Dado formulario completo, cuando guardo, entonces trabajador se registra.  
-Escenario 2: Dado campos incompletos, cuando intento guardar, entonces sistema indica errores. | EP10  |
-| US-29         | Selección de laboratorio           | Como usuario, quiero seleccionar laboratorio en lista para registro e inspección.      | Escenario 1: Dado lista con opciones, cuando selecciono laboratorio, entonces puedo continuar.  
-Escenario 2: Dado lista vacía, cuando intento seleccionar, entonces sistema informa no disponibilidad y ofrece notificar. | EP06  |
-| US-30         | Subir Producto                   | Como usuario, quiero registrar producto en laboratorio para inspección.                | Escenario 1: Dado formulario completo y correcto, cuando envío, entonces producto queda registrado con estado pendiente.  
-Escenario 2: Dado campos faltantes, cuando envío, entonces se muestra validación y no avanza. | EP06  |
-| US-31         | Inspección de Producto             | Como usuario, quiero realizar inspección y registrar resultados para aprobar, corregir o rechazar. | Escenario 1: Dado producto cumple, cuando apruebo, entonces estado cambia a aprobado, queda registrado.  
-Escenario 2: Dado defecto leve, cuando registro incidencia, entonces producto queda en corrección y se notifica.  
-Escenario 3: Dado falla grave, cuando rechazo y adjunto evidencias, entonces producto queda rechazado y se notifica. | EP06  |
-| US-32         | Aprobar Producto                  | Como ususario, quiero aprobar productos para utilizarlos en el laboratorio.           | Escenario 1: Dado producto aprobado y sin incidencias, cuando confirmo, entonces status cambia a aprobado y responsable es notificado.  
-Escenario 2: Dado producto corregido tras fallas, cuando valido y apruebo, entonces estado cambia y se notifica.  
-Escenario 3: Dado producto no apto, cuando rechazo, entonces producto queda marcado y se notifica el motivo. | EP06  |
-
 ### 3.2. Impact Mapping
 ### 3.3. Product Backlog
 
@@ -729,6 +533,39 @@ visual definida en las guías generales.
 
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
+1. Organization Scheme (Esquema de organización)
+- Temático/Funcional: la información se organiza según las funciones principales del sistema:
+  - Gestión de usuarios (registro, login, perfil, documentos).
+  - Gestión de inventario (registro, stock, alertas).
+  - Inspecciones de calidad (subida, revisión, aprobación).
+  - Landing Page (información y promoción del producto).
+  - Reportes y analítica.
+
+2. Organization Structure (Estructura de organización)
+
+- Jerárquica (Árbol): desde la Landing Page como entrada, se navega a módulos principales.
+- Lineal: en procesos como registro de cuenta o inspección, los pasos siguen una secuencia.
+- Matriz: en búsquedas/filtrados, por ejemplo inventario que puede organizarse por fecha, tipo de insumo, laboratorio.
+
+3. Organization System (Sistema de organización aplicado)
+- Global navigation (menú principal en el header): acceso a
+  - Home (Landing Page)
+  - Inventario
+  - Inspecciones
+  - Perfil
+  - Reportes
+  - Contacto
+- Local navigation (submenús dentro de cada sección):
+  - Perfil → Crear, Editar, Documentos.
+  - Inventario → Registrar, Stock, Historial.
+  - Inspecciones → Pendientes, Aprobados, Rechazados.
+Contextual navigation (botones de acción dentro de un flujo):
+“Cargar documento”, “Enviar a inspección”, “Generar reporte”.
+
+<p align="center">
+<img src="/assets/assets/chapter-4/database-design/lab-iot-organization-diagram.png" alt="organization structure" style="height:300px;">
+</p>
+
 #### 4.2.2. Labeling Systems
 #### Objetivos
 - Facilitar organización y filtrado de contenido (ej. artículos, productos, laboratorios, insumos).
@@ -872,7 +709,30 @@ visual definida en las guías generales.
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+El wireframe de la landing page presenta una estructura clara con hero section, value proposition, features, benefits, FAQs, contact y call-to-actions estratégicos.
+- Inicio: En la parte superior se ubica nuestro logo principal atractivo y barra de navegación con las secciones de nuestra landing page. Incluye un botón de “Comienza gratis” como CTA destacado.
+
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hero-wf.jpg" alt="hero wireframe" width="600"> </p>
+
+- ¿Cómo funciona?: En esta sección se describe el proceso de funcionamiento de nuestro producto en 3 simples pasos.
+
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hdiw-wf.jpg" alt="hdiw wireframe" width="600"> </p>
+
+- Caracteristicas: Se presentan las funcionalidades principales de la plataforma en bloques simples con descripciones breves, permitiendo que el usuario entienda rápidamente lo que ofrecemos.
+
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/features-wf.jpg" alt="features wireframe" width="600"> </p>
+
+- Beneficios y FAQs: Sección dedicada a mostrar el valor agregado de la solución, resaltando las ventajas competitivas y diferenciales con respecto a alternativas existentes en el mercado, además de la sección de FAQs para minimizar dudas generales de los consumidores.
+
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/benefits-&-faqs-wf.jpg" alt="benefits faqs wireframe" width="600"> </p>
+
+- Contacto y Footer: Sección final con un formulario de contacto y un footer con enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
+
+<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/contact-&-footer-wf.png" alt="contact y footer wireframe" width="600"> </p>
+
 #### 4.3.2. Landing Page Mock-up
+El mock-up refleja la identidad de marca con los colores aplicados, algunos no reflejan el producto final ya que hay degradados entre 2 colores que Figma no permite representar. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams
