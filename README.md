@@ -692,10 +692,37 @@ Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCn
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes.png" alt="">
+En esta pantalla se muestra el inicio de sesion con el respectivo formulario para poder iniciar en el aplicativo web.
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes2.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes3.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes4.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes5.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes6.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes7.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes8.png" alt="">
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups1.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups2.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups3.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups4.png" alt="">
+
+Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Design-Level EventStorming
