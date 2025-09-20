@@ -494,7 +494,7 @@ El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso desta
 100% considera que IoT es útil y necesario en laboratorios.
 100% percibe como vital el cumplimiento de normativas de conservación para insumos.
 100% desea una solución que centralice la información e incluya alertas automáticas y monitoreo en tiempo real.
->>>>>>> andre_Pillaca
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 <img src="assets/assets/chapter-1/user-persona1.png" alt="">
