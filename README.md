@@ -27,9 +27,9 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                            | Descripción de modificación |
-|---------|-------------|--------------------------------------------------|-----------------------------|
-| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| Versión | Fecha      | Autor                                            | Descripción de modificación |
+|---------|------------|--------------------------------------------------|-----------------------------|
+| 0.1     | 21/09/2025 | Todos los integrantes                            | Primer sprint TB1           |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |   URL del repositorio del reporte   |
@@ -149,13 +149,18 @@ del ABET – EAC - Student Outcome 5.
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td> </td>
-    <td></td>
+    <td> Crsthian Joel Huanca Zevallos  
+    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
+    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida. </td>
+    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td></td>
-    <td></td>
+    <td>Crsthian Joel Huanca Zevallos  
+    <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, 
+    estableciendo metas claras y fomentando la participación.</td>
+    <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo 
+    y organizado.</td>
   </tr>
 
 </table>
