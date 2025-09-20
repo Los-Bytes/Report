@@ -19,6 +19,7 @@
       <li><h3>Andre Pillaca Velasquez - U202022056</h3></li>
       <li><h3>Mazuelos Callirgos Marcelo Alessandro – u201916143</h3></li>
       <li><h3>Huanca Zevallos, Cristhian Joel - u20201b914</h3></li>
+      <li><h3>Alcantara Baldeonn, Poly Gabriel - u202418250</h3></li>
   </ul>
   <br>
   <h4>Septiembre del 2025</h4>
@@ -27,9 +28,9 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                            | Descripción de modificación |
-|---------|-------------|--------------------------------------------------|-----------------------------|
-| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| Versión | Fecha      | Autor                                            | Descripción de modificación |
+|---------|------------|--------------------------------------------------|-----------------------------|
+| 0.1     | 21/09/2025 | Todos los integrantes                            | Primer sprint TB1           |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |   URL del repositorio del reporte   |
@@ -149,13 +150,18 @@ del ABET – EAC - Student Outcome 5.
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td> </td>
-    <td></td>
+    <td> Crsthian Joel Huanca Zevallos  
+    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
+    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida. </td>
+    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td></td>
-    <td></td>
+    <td>Crsthian Joel Huanca Zevallos  
+    <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, 
+    estableciendo metas claras y fomentando la participación.</td>
+    <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo 
+    y organizado.</td>
   </tr>
 
 </table>
@@ -191,7 +197,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2"> Poly Gabriel Alcántara Baldeon </th>
   </tr>
   <tr>
-    <td> <img > </td>
+    <td> <img src="assets/assets/chapter-1/GabrielAlcantara.jpg" > </td>
     <td>Soy estudiante de Ingeniería de Software. Tengo conocimientos básicos en lenguajes de programación como C#, Java y Python. Me interesa el desarrollo de videojuegos y estoy buscando oportunidades para aprender y crecer en este campo. Además, poseo habilidades blandas como la capacidad de trabajar en equipo, la proactividad y la adaptabilidad, lo que me permite ser productivo en entornos colaborativos y enfrentar nuevos desafíos con entusiasmo. </td>
   </tr>
 <tr>
@@ -219,6 +225,62 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática 
+
+A. **Who**
+
+Los principales actores son los laboratorios de investigación, los técnicos de laboratorio, investigadores, oficiales de seguridad, 
+así como las empresas proveedoras de insumos científicos. Todos ellos enfrentan dificultades en la gestión de inventarios por 
+depender de procesos manuales y poco confiables.
+
+B. **What**
+
+Actualmente, la gestión de inventarios en los laboratorios se realiza mediante conteos manuales y registros dispersos, lo que 
+genera errores, pérdida de materiales, incumplimiento de normativas de seguridad, interrupciones en experimentos y mayores costos 
+operativos. Además, no existen mecanismos de monitoreo en tiempo real para verificar condiciones críticas como temperatura, 
+humedad o caducidad de insumos.
+
+C. **When**
+
+Estos problemas se presentan en el día a día de las operaciones de los laboratorios y proveedores, desde el registro de entrada 
+y salida de materiales hasta la preparación de pedidos, auditorías, y ejecución de experimentos. Los riesgos aumentan en 
+momentos críticos como inspecciones, ensayos experimentales y entregas de insumos sensibles.
+
+D. **Where**
+
+La problemática ocurre tanto dentro de los laboratorios de investigación y universidades como en las empresas proveedoras y 
+almacenes de insumos científicos. En ambos entornos, los procesos carecen de visibilidad, trazabilidad y control automatizado.
+
+E. **Why**
+
+Porque la ausencia de automatización y monitoreo genera:
+
+- Pérdida de trazabilidad de insumos críticos.
+
+- Mayor riesgo de accidentes o incumplimiento normativo.
+
+- Errores en entregas y devoluciones entre proveedores y clientes.
+
+- Desperdicio de tiempo y recursos humanos en tareas repetitivas.
+Esto impacta directamente en la seguridad, la confiabilidad de los experimentos y la eficiencia operativa.
+
+F. **How**
+
+Muchos laboratorios utilizan hojas de cálculo, sistemas ERP genéricos o plataformas de gestión básica. Sin embargo, estas 
+soluciones no ofrecen integración con IoT (RFID, QR, sensores inteligentes) ni un monitoreo automatizado en tiempo real, 
+por lo que los problemas persisten.
+
+G. **How much**
+
+El impacto se refleja en:
+
+- Más del 70% del tiempo de los responsables de inventarios invertido en tareas manuales.
+
+- Errores superiores al 30–40% en registros y control de stock.
+
+- Pérdida económica significativa por caducidad o mal almacenamiento de insumos sensibles.
+
+- Alta fricción comercial entre proveedores y laboratorios debido a errores en entregas y devoluciones.
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
@@ -251,7 +313,11 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 - Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
 
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
+
 ##### 1.2.2.4. Lean UX Canvas
+
+<img src="assets/assets/chapter-1/Lean UX Canvas.jpg" alt="Lean UX Canvas" width="1000">
+
 ### 1.3 Segmentos Objetivo 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
@@ -468,8 +534,145 @@ visual definida en las guías generales.
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
+#### Objetivos
+- Facilitar organización y filtrado de contenido (ej. artículos, productos, laboratorios, insumos).
+- Mantener consistencia en nombres y jerarquía.
+- Mejorar la experiencia de búsqueda y SEO (etiquetas bien diseñadas ayudan a generar URLs y meta datos coherentes).
+
+#### Estructura recomendada
+- **Estructura**: Categoría principal → Subcategoría → Etiquetas.
+    - Ejemplo: `Equipos > Microscopios > Fluorescencia`
+- **Tipos de etiquetas**:
+    - `category` (1 por ítem)
+    - `tags` (0..n, keywords de libre asociación)
+    - `attributes` (pares clave:valor para filtros: `brand=Sigma`, `status=new`)
+
+#### Convenciones (formato)
+- Minúsculas, `kebab-case` para URLs y slug: `microscopios-fluorescencia`
+- Human-readable en UI: `Microscopios de fluorescencia`
+- Longitud: etiquetas entre 2 y 5 palabras preferible.
+
+#### Modelo de datos (ejemplo JSON)
+```json
+{
+  "id": "lbl_0001",
+  "type": "category",
+  "slug": "microscopios-fluorescencia",
+  "name": "Microscopios de fluorescencia",
+  "parent_id": "lbl_000",
+  "created_at": "2025-09-19T00:00:00Z"
+}
+```
+
+#### Interfaz de gestión
+- CRUD de etiquetas con permisos (admin/editor)
+- Vista previa de cómo afectaría al contenido (p. ej. URL y breadcrumbs)
+- Historial de cambios (auditoría)
+
+#### Reglas y validaciones
+- No duplicados (slug único por tipo)
+- Validar reutilización: sugerir etiquetas existentes al crear nuevas (autocomplete)
+
+#### Ejemplos de uso en URLs
+- `/categoria/microscopios-fluorescencia/` (landing de categoría)
+- `/buscar?q=microscopios+fluorescencia&brand=Sigma`
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+#### Objetivos
+- Mejora del CTR en SERPs (títulos y descripciones atractivas)
+- Control de indexación (robots/meta)
+- Enriquecer previews en redes sociales (Open Graph / Twitter Cards)
+- Añadir datos estructurados (Schema.org / JSON-LD)
+
+#### Meta tags clave (plantilla)
+```html
+<title>{{page_title}} | {{site_name}}</title>
+<meta name="description" content="{{meta_description}}" />
+<link rel="canonical" href="{{canonical_url}}" />
+<meta name="robots" content="index, follow" />
+<!-- Open Graph -->
+<meta property="og:title" content="{{og_title}}" />
+<meta property="og:description" content="{{og_description}}" />
+<meta property="og:image" content="{{og_image}}" />
+<meta property="og:url" content="{{canonical_url}}" />
+<meta property="og:type" content="article" />
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{twitter_title}}" />
+<meta name="twitter:description" content="{{twitter_description}}" />
+<meta name="twitter:image" content="{{twitter_image}}" />
+```
+
+#### Reglas prácticas
+- **Title**: 50–60 caracteres (incluye site name). Priorizar keywords al inicio.
+- **Meta description**: 120–160 caracteres, llamada a la acción si aplica.
+- **Canonical**: siempre presente en páginas con parámetros.
+- **Meta robots**: `noindex` en páginas duplicadas, `index` en content principal.
+
+#### JSON-LD (ejemplo para un artículo)
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{title}}",
+  "image": ["{{og_image}}"],
+  "datePublished": "{{published_at}}",
+  "author": [{"@type":"Person","name":"{{author_name}}"}],
+  "publisher": {"@type":"Organization","name":"{{site_name}}","logo":{"@type":"ImageObject","url":"{{site_logo}}"}}
+}
+</script>
+```
+
+#### Renderizado (server vs client)
+- **Server-side rendering (SSR)** o prerender es preferible para SEO: meta tags deben estar en HTML inicial.
+- Si SPA (client-side), usar prerendering o soluciones como Next.js/Remix o servidor que inyecte meta tags.
+
+#### Sitemaps y robots.txt
+- `sitemap.xml` automático (URLs con prioridad y `lastmod`).
+- `robots.txt` con ruta a sitemap y reglas públicas.
+
+---
+
 #### 4.2.4. Searching Systems
+
+#### Requerimientos funcionales
+- Búsqueda por texto (título, descripción, etiquetas)
+- Autocomplete / sugerencias (typeahead)
+- Fuzzy search (tolerancia a typos)
+- Facetas / filtros (categoría, brand, status, rango de fechas)
+- Paginación / infinite scroll
+- Highlight/snippets en resultados
+- Orden por relevancia, fecha, popularidad
+
+#### Opciones de tecnología (comparativa rápida)
+- **Postgres Full-Text Search**
+    - Pros: integrado, sencillo, bajo costo.
+    - Contras: menos poderoso en ranking, menor escalabilidad en features avanzadas.
+- **Elasticsearch / OpenSearch**
+    - Pros: relevancia avanzada, faceting, alta performance, análisis lingüístico.
+    - Contras: infra adicional, operaciones de mantenimiento.
+- **Algolia (SaaS)**
+    - Pros: experiencias de búsqueda ultrarrápidas, buena UX out-of-the-box.
+    - Contras: coste, datos en terceros.
+
+#### Esquema de índice (ejemplo para Elastic)
+```json
+{
+  "mappings": {
+    "properties": {
+      "id": { "type": "keyword" },
+      "title": { "type": "text", "analyzer": "standard" },
+      "description": { "type": "text", "analyzer": "standard" },
+      "tags": { "type": "keyword" },
+      "category": { "type": "keyword" },
+      "published_at": { "type": "date" },
+      "popularity": { "type": "integer" }
+    }
+  }
+}
+```
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
@@ -619,7 +822,29 @@ Usa clases utilitarias de TailwindCSS en el template. Para estilos personalizado
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
+
+El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y 
+metodologías de diseño centradas en el usuario al contexto de aplicaciones web modernas. A través de la definición de 
+antecedentes y problemática, el diseño de la guía de estilos, la construcción del modelo de base de datos y la 
+elaboración de Impact Mapping, se logró estructurar una solución orientada a la trazabilidad, seguridad y eficiencia 
+en la gestión de inventarios de laboratorio.
+
+La utilización del framework Vue junto con lineamientos de Material Design y componentes de PrimeVue garantiza no solo 
+la consistencia visual, sino también la escalabilidad y mantenibilidad de la aplicación. Asimismo, la incorporación 
+de prácticas como el Needfinding, User Personas e Impact Mapping permitió vincular los objetivos de negocio con las 
+necesidades reales de los usuarios, asegurando que la propuesta tecnológica responda a un entorno colaborativo, 
+inclusivo y alineado con los criterios de calidad de software.
+
+En este sentido, el proyecto no solo refuerza las competencias técnicas de construcción de aplicaciones web, 
+sino que también fomenta la capacidad de planificar, liderar y colaborar en equipo bajo una perspectiva académica 
+y profesional.
+
 ## Bibliografía
+
+Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner’s Approach (9th ed.). McGraw-Hill Education.
+
+Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vuejs.org
+
 ## Anexos
 
 **Repositorio en GitHub - BookMe (Prisma) - Documento:**<br>
