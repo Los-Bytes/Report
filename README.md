@@ -804,23 +804,165 @@ Usa la convención kebab-case para nombres de archivos y carpetas (my-component.
 Mantén los componentes en la carpeta src/components.
 Archivos principales: App.vue, main.js, index.html.
 - Sintaxis Vue
-Usa la sintaxis <script setup> para componentes Vue 3. Un solo componente por archivo .vue. Orden de secciones: <template>, <script>, <style>.
+Usa la sintaxis ´script setup´ para componentes Vue 3. Un solo componente por archivo .vue. Orden de secciones: template, script, style.
 - Estilo de Código JavaScript
 Usa const y let en vez de var. Usa arrow functions cuando sea posible. Indentación de 2 espacios. Punto y coma al final de cada sentencia. Nombres de variables y funciones en camelCase.
 - Estilo de Código CSS/Tailwind
-Usa clases utilitarias de TailwindCSS en el template. Para estilos personalizados, usa <style scoped> en los componentes. Prefiere clases sobre estilos en línea.
+Usa clases utilitarias de TailwindCSS en el template. Para estilos personalizados, usa style scoped en los componentes. Prefiere clases sobre estilos en línea.
 #### 5.1.4. Software Deployment Configuration
+**Despliegue de la Landing Page**
+
+Para desplegar la landing page se deben cumplir algunos requisitos previos:  
+- Contar con una **cuenta personal en GitHub**.  
+- Disponer de una **organización**.  
+- Tener un **repositorio** donde alojar los archivos del proyecto.  
+
+**Pasos para el despliegue:**
+
+1. Crear una carpeta llamada **`docs`** que contendrá la landing page.  
+2. Asegurar que los archivos cumplan con la siguiente convención de nombres:  
+   - `index.html` → página principal.  
+   - `style.css` → hoja de estilos.  
+   - `assets/` → carpeta que almacena las imágenes. 
+   - `src/` → carpeta del proyecto landing page
+
+3. Subir todos los archivos al repositorio en GitHub.  
+4. Ingresar a **Settings > Pages** dentro del repositorio.  
+5. Seleccionar la rama que contiene el proyecto (generalmente `main` o `master`).  
+6. Indicar la carpeta **`/root`** como fuente de la página.  
+7. Esperar a que GitHub realice las validaciones automáticas. 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
-##### 5.2.1.2. Aspect Leaders and Collaborators
-##### 5.2.1.3. Sprint Backlog 1
-##### 5.2.1.4. Development Evidence for Sprint Review
-##### 5.2.1.5. Execution Evidence for Sprint Review
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
-##### 5.2.1.8. Team Collaboration Insights during Sprint
+En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 1, iniciado el 19/09/2025, tiene como propósito principal diseñar una landing page atractiva que logre captar la atención de los visitantes y transmita de manera clara los beneficios clave del producto.
 
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 1</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-09-19</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">03:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Marcelo Mazuelos</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Mazuelos Callirgos, Marcelo Alessandro</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1">Este es el primer sprint del proyecto, por lo tanto, no hay resultados de un sprint anterior para revisar.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1">Al tratarse del primer sprint, no se cuenta con una retrospectiva previa. La retroalimentación y oportunidades de mejora se evaluarán al finalizarse este sprint.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Goal</b></td>
+      <td colspan="1"><b>Our focus is on</b> creating an attractive and fully functional landing page for LabIoT.<br><b>We believe it delivers</b> a clear presentation of the platform’s features and benefits, building trust and interest among potential users.<br><b>This will be confirmed when</b> visitors can easily explore and interact with all main sections of the landing page on both desktop and mobile devices.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
+      <td colspan="1">13</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">13</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+##### 5.2.1.2. Aspect Leaders and Collaborators
+Para este Sprint se han establecido los aspectos esenciales relacionados con el desarrollo de la landing page de Utime. Con el propósito de optimizar la organización y la comunicación del equipo, se diseñó la matriz Leadership and Collaboration Matrix (LACX), en la cual se especifica quién desempeña el rol de Líder (L) y quiénes intervienen como Colaboradores (C) en cada uno de estos puntos clave. Esta asignación contribuye a una gestión más clara y a una ejecución más eficiente de las tareas encomendadas.
+
+| **Team Member** | **GitHub Username** | **Landing Page** |
+|---------------------------------------------------|---------------------|---------------|
+| Mazuelos Callirgos, Marcelo Alessandro | MarceloMazuelos | L |
+
+##### 5.2.1.3. Sprint Backlog 1
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de BookMe, cumpliendo con los objetivos de presentar de manera clara y atractiva los servicios de la plataforma. A continuación, se detalla la evidencia del desarrollo:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| MarceloMazuelos/LabIoT-Landing-Page | main | acba1ba | Implemented v1.0.0 of Landing Page | Implementa la estructura para la landing page. Incluye iconos, funcionalidades y descripciones breves. | 20/09/2025 |
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de LabIoT, cumpliendo con el objetivo de presentar de manera clara y atractiva los servicios de la plataforma. Se implementaron las siguientes secciones:
+
+* Header con navegación y CTA principal
+* Sección de Introducción
+* Sección de por que se debería usar LabIot
+* Sección de ¿Cómo funciona?
+* Sección de Características
+* Sección de beneficios destacando ventajas competitivas
+* Sección de preguntas frecuentes
+* Formulario de contacto
+* Footer
+* Diseño responsivo para dispositivos móviles y escritorio
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de LabIoT, por lo que no se implementaron servicios web o endpoints en esta fase inicial del proyecto. El alcance de este sprint se limitó exclusivamente al diseño y desarrollo frontend de la página de presentación del producto.
+
+Dado que este es el primer sprint del proyecto y el desarrollo de backend y APIs está planificado para sprints posteriores, no existen endpoints documentados con OpenAPI en este momento. La documentación de servicios web se incluirá en futuros sprints una vez que comience el desarrollo de las funcionalidades backend y la API de LabIoT.
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Durante el Sprint 1, el equipo se enfocó en el despliegue de la landing page de BookMe utilizando GitHub Pages, una plataforma de alojamiento gratuita integrada directamente con los repositorios de GitHub. Este enfoque permitió publicar el sitio de manera rápida, automatizada y sin costos adicionales, asegurando que los usuarios finales pudieran acceder al contenido de forma inmediata.
+
+A continuación, se detallan los pasos realizados para configurar y ejecutar el despliegue:
+
+##### Preparación del repositorio:
+
+Se creó una carpeta llamada docs en la raíz del repositorio, la cual contiene todos los archivos necesarios para la landing page (index.html, style.css, img/, src/).
+
+##### Configuración en GitHub:
+
+Se accedió a la configuración del repositorio (Settings > Pages).
+
+En la sección Build and deployment, se seleccionó la rama main como fuente y se especificó la carpeta root como directorio de publicación.
+
+GitHub Actions procesó automáticamente los archivos y desplegó el sitio en la URL proporcionada por GitHub Pages.
+
+El resultado fue un sitio totalmente funcional y accesible públicamente.
+
+##### Verificación del despliegue:
+
+Se realizaron pruebas de acceso desde diferentes dispositivos y navegadores para garantizar que el sitio se visualizara correctamente.
+
+La URL final del despliegue es: https://marcelomazuelos.github.io/LabIoT-Landing-Page
+
+Este proceso aseguró que la landing page estuviera disponible para su revisión y uso desde el primer sprint, sentando las bases para iteraciones futuras y integraciones con servicios adicionales.
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+Durante el Sprint 1, el equipo se organizó bajo una metodología colaborativa que permitió desarrollar de manera eficiente la landing page de LabIoT. Aunque el desarrollo frontend estuvo principalmente a cargo de Marcelo Mazuelos, todos los miembros del equipo participaron activamente en las etapas de planificación, revisión de diseño y toma de decisiones sobre la estructura y contenido de la landing page.
+
+La colaboración se llevó a cabo principalmente a través de:
+
+Reuniones de planificación en Discord para definir el alcance y distribución de tareas
+
+Revisiones constantes del diseño en Figma con comentarios de todos los integrantes
+
+Code reviews mediante pull requests en GitHub
+
+Comunicación continua en el canal de Discord del equipo
 ## Conclusiones
 
 El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y 
