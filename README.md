@@ -152,19 +152,32 @@ del ABET – EAC - Student Outcome 5.
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td> Crsthian Joel Huanca Zevallos  
     <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
-    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida. </td>
-    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.</td>
+    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida. 
+    <br><br>
+    Gabriel Alcantara Baldeon  
+    <br> TB1: Añadí y desarrollé la sección  Lean UX Canvas, la  Estrategias y tácticas frente a competidores, 
+    y las secciones  Labeling Systems,  SEO Tags and Meta Tags, y  Searching Systems, asegurando coherencia y estandarización con el resto del documento.
+    </td>
+    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.  
+    <br><br>
+    La integración de estas secciones permitió un documento más estructurado y consistente, fortaleciendo el liderazgo compartido en la elaboración del informe.</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>Crsthian Joel Huanca Zevallos  
     <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, 
-    estableciendo metas claras y fomentando la participación.</td>
+    estableciendo metas claras y fomentando la participación. 
+    <br><br>
+    Gabriel Alcantara Baldeon  
+    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
+    </td>
     <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo 
-    y organizado.</td>
+    y organizado.  
+    <br><br>
+    El trabajo organizado y la integración de mis aportes facilitaron cumplir con los objetivos planteados, garantizando un entorno colaborativo donde cada aporte reforzó el producto final.</td>
   </tr>
-
 </table>
+
 
 ## Capítulo 1: Introducción
 ### 1.1. Startup Profile
