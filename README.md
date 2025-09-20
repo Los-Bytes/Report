@@ -621,6 +621,22 @@ visual definida en las guías generales.
 #### 4.2.3. SEO Tags and Meta Tags
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
+
+A continuación, presentaremos el sistema de navegación con el que contará LabloT que permitirá al usuario navegar tanto en el landing page como en la aplicación web.  
+Hemos implementado un sistema de navegación tipo Navigation Tabs que permite tener una vista rápida de las opciones de la aplicación para facilitar la interacción del usuario.
+esto enviame en condigo para agregarle a mi documento.   
+
+***Estructura del Sistema de Navegación***
+
+<p align="center">
+<img src="/assets/assets/chapter-4/NavigationSystems2.png" alt="distribucion" style="height:300px;">
+</p>
+
+
+<p align="center">
+<img src="/assets/assets/chapter-4/NavigationSystems.png" alt="accesibilidad" style="width:1000px;" >
+</p>
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 #### 4.3.2. Landing Page Mock-up
