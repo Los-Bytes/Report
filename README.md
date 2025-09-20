@@ -124,7 +124,7 @@
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-        
+
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -169,13 +169,13 @@ del ABET – EAC - Student Outcome 5.
 ## Capítulo 1: Introducción
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción del Startup
-Somos Los Bytes, un grupo de estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) comprometidos con el desarrollo de soluciones tecnológicas innovadoras que aporten valor y eficiencia al sector científico. En el marco de nuestra formación académica, hemos emprendido la creación de una Startup enfocada en transformar la gestión de inventarios en laboratorios a través del uso de tecnologías inteligentes como el Internet de las Cosas (IoT), RFID y sensores inteligentes, combinando innovación, precisión y automatización. 
+Somos Los Bytes, un grupo de estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) comprometidos con el desarrollo de soluciones tecnológicas innovadoras que aporten valor y eficiencia al sector científico. En el marco de nuestra formación académica, hemos emprendido la creación de una Startup enfocada en transformar la gestión de inventarios en laboratorios a través del uso de tecnologías inteligentes como el Internet de las Cosas (IoT), RFID y sensores inteligentes, combinando innovación, precisión y automatización.
 
 Misión:</br>
-Nuestra misión es mejorar la gestión y seguridad en laboratorios de investigación y empresas proveedoras, facilitando el monitoreo proactivo y la eficiencia mediante tecnologías inteligentes como IoT, RFID y códigos QR. Queremos eliminar tareas tediosas y minimizar riesgos asociados al manejo de materiales críticos. 
+Nuestra misión es mejorar la gestión y seguridad en laboratorios de investigación y empresas proveedoras, facilitando el monitoreo proactivo y la eficiencia mediante tecnologías inteligentes como IoT, RFID y códigos QR. Queremos eliminar tareas tediosas y minimizar riesgos asociados al manejo de materiales críticos.
 
-Visión:</br> 
-Nuestra visión es convertirnos en un startup referente en soluciones tecnológicas para gestión inteligente de inventarios en laboratorios, promoviendo entornos más seguros, eficientes y confiables para la investigación científica y la comercialización de insumos, tanto en Perú como en otros mercados emergentes. 
+Visión:</br>
+Nuestra visión es convertirnos en un startup referente en soluciones tecnológicas para gestión inteligente de inventarios en laboratorios, promoviendo entornos más seguros, eficientes y confiables para la investigación científica y la comercialización de insumos, tanto en Perú como en otros mercados emergentes.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <table>
@@ -190,7 +190,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2"> Alexander Auden Aliaga Ocampo </th>
   </tr>
   <tr>
-    <td> <img > </td>
+    <td> <img src="assets/assets/chapter-1/alexanderaliaga.jpg" width=300px> </td>
     <td> Soy estudiante de ingeniería de software en la UPC, con conocimientos básicos en los lenguajes de programación como c++, python , css, html, javascript también conocimientos básicos en base de datos viendo Mongo DB y creando diagramas relaciones como no relacionales. Además poseo habilidades de empatía y buena comunicación con el equipo esto me permite ser productivo en el ámbito de grupos y en general. </td>
   </tr>
 <tr>
@@ -211,7 +211,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2">Andre Pillaca Velasquez </th>
   </tr>
   <tr>
-    <td> <img > </td>
+    <td> <img src="assets/assets/chapter-1/AndrePillaca.jpg" width=300px> </td>
     <td>Soy estudiante de la carrera de Ingeniería de Software. Tengo 22 años y entre mis cualidades están ser perseverante y responsable. Entre mis habilidades, tengo experiencia en los lenguajes de programación de C + +,Python y espero seguir aprendiendo para llegar a ser un profesional competente. </td>
   </tr>
  <tr>
@@ -224,30 +224,30 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
 </table>
 
 ### 1.2. Solution Profile
-#### 1.2.1. Antecedentes y problemática 
+#### 1.2.1. Antecedentes y problemática
 
 A. **Who**
 
-Los principales actores son los laboratorios de investigación, los técnicos de laboratorio, investigadores, oficiales de seguridad, 
-así como las empresas proveedoras de insumos científicos. Todos ellos enfrentan dificultades en la gestión de inventarios por 
+Los principales actores son los laboratorios de investigación, los técnicos de laboratorio, investigadores, oficiales de seguridad,
+así como las empresas proveedoras de insumos científicos. Todos ellos enfrentan dificultades en la gestión de inventarios por
 depender de procesos manuales y poco confiables.
 
 B. **What**
 
-Actualmente, la gestión de inventarios en los laboratorios se realiza mediante conteos manuales y registros dispersos, lo que 
-genera errores, pérdida de materiales, incumplimiento de normativas de seguridad, interrupciones en experimentos y mayores costos 
-operativos. Además, no existen mecanismos de monitoreo en tiempo real para verificar condiciones críticas como temperatura, 
+Actualmente, la gestión de inventarios en los laboratorios se realiza mediante conteos manuales y registros dispersos, lo que
+genera errores, pérdida de materiales, incumplimiento de normativas de seguridad, interrupciones en experimentos y mayores costos
+operativos. Además, no existen mecanismos de monitoreo en tiempo real para verificar condiciones críticas como temperatura,
 humedad o caducidad de insumos.
 
 C. **When**
 
-Estos problemas se presentan en el día a día de las operaciones de los laboratorios y proveedores, desde el registro de entrada 
-y salida de materiales hasta la preparación de pedidos, auditorías, y ejecución de experimentos. Los riesgos aumentan en 
+Estos problemas se presentan en el día a día de las operaciones de los laboratorios y proveedores, desde el registro de entrada
+y salida de materiales hasta la preparación de pedidos, auditorías, y ejecución de experimentos. Los riesgos aumentan en
 momentos críticos como inspecciones, ensayos experimentales y entregas de insumos sensibles.
 
 D. **Where**
 
-La problemática ocurre tanto dentro de los laboratorios de investigación y universidades como en las empresas proveedoras y 
+La problemática ocurre tanto dentro de los laboratorios de investigación y universidades como en las empresas proveedoras y
 almacenes de insumos científicos. En ambos entornos, los procesos carecen de visibilidad, trazabilidad y control automatizado.
 
 E. **Why**
@@ -261,12 +261,12 @@ Porque la ausencia de automatización y monitoreo genera:
 - Errores en entregas y devoluciones entre proveedores y clientes.
 
 - Desperdicio de tiempo y recursos humanos en tareas repetitivas.
-Esto impacta directamente en la seguridad, la confiabilidad de los experimentos y la eficiencia operativa.
+  Esto impacta directamente en la seguridad, la confiabilidad de los experimentos y la eficiencia operativa.
 
 F. **How**
 
-Muchos laboratorios utilizan hojas de cálculo, sistemas ERP genéricos o plataformas de gestión básica. Sin embargo, estas 
-soluciones no ofrecen integración con IoT (RFID, QR, sensores inteligentes) ni un monitoreo automatizado en tiempo real, 
+Muchos laboratorios utilizan hojas de cálculo, sistemas ERP genéricos o plataformas de gestión básica. Sin embargo, estas
+soluciones no ofrecen integración con IoT (RFID, QR, sensores inteligentes) ni un monitoreo automatizado en tiempo real,
 por lo que los problemas persisten.
 
 G. **How much**
@@ -283,108 +283,211 @@ El impacto se refleja en:
 
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
+### Segmento — Investigadores Líderes / Responsables de Laboratorios de Investigación
+
+**Contexto:** Dirigen proyectos, supervisan equipos y toman decisiones sobre la compra y uso de insumos especializados; necesitan garantizar continuidad experimental y cumplimiento normativo.
+
+**Observación:** La gestión actual de insumos y condiciones de almacenamiento (temperatura, humedad, fechas de caducidad) suele ser manual y fragmentada (hojas, registros locales), lo que provoca pérdidas de reactivos, retrasos en ensayos y decisiones de compra reactivas.
+
+**Problema:** No existe una herramienta que ofrezca visibilidad en tiempo real, trazabilidad y alertas accionables adaptadas al flujo de trabajo de un laboratorio de investigación sin añadir carga administrativa al equipo.
+
+**Pregunta clave:** ¿Cómo diseñar una solución (QR/RFID + sensores + panel operativo) que permita a los investigadores líderes monitorear el estado de insumos y condiciones ambientales, recibir alertas priorizadas y generar evidencia auditable para toma de decisiones y compras oportunas?
+
+
+### Segmento — Supervisores Comerciales / Jefes de Compras en Empresas Proveedoras de Insumos
+
+**Contexto:** Coordinan ventas y logística, mantienen la relación con laboratorios y responden a incidencias en entregas; buscan reducir reclamaciones y optimizar la cadena de suministro.
+
+**Observación:** La falta de un flujo estandarizado de identificación y registro (etiquetado, estado en tránsito, verificación a la recepción) genera errores, devoluciones y fricción comercial que aumentan costos operativos.
+
+**Problema:** No hay un mecanismo compartido, sencillo y confiable entre proveedor y laboratorio que permita verificar condiciones de transporte, estado del pedido y recepción confirmada en tiempo real.
+
+**Pregunta clave:** ¿Cómo implementar un flujo de trazabilidad colaborativo (etiquetas QR/RFID, eventos de transporte y notificaciones integradas) que permita a supervisores comerciales y jefes de compras reducir errores, acelerar validaciones y mejorar la experiencia de entrega para los laboratorios?
 ##### 1.2.2.2. Lean UX Assumptions
-###### Supuestos sobre los usuarios de la aplicación: 
+###### Supuestos sobre los usuarios de la aplicación:
 
-- Los responsables de laboratorios necesitan llevar un control y una constante actualización del inventario de materiales. 
-- Los responsables de compras y proveedores de insumos requieren trazabilidad y seguridad en la entrega de materiales para evitar reclamos o pérdidas. 
-- Los usuarios necesitan interfaces simples que muestren de forma clara la información mostrada del estado del inventario y las alertas críticas. 
-- Los usuarios están dispuestos a adoptar tecnología IoT (sensores, RFID, QR) siempre que el retorno de inversión sea claro. 
+- Los responsables de laboratorios necesitan llevar un control y una constante actualización del inventario de materiales.
+- Los responsables de compras y proveedores de insumos requieren trazabilidad y seguridad en la entrega de materiales para evitar reclamos o pérdidas.
+- Los usuarios necesitan interfaces simples que muestren de forma clara la información mostrada del estado del inventario y las alertas críticas.
+- Los usuarios están dispuestos a adoptar tecnología IoT (sensores, RFID, QR) siempre que el retorno de inversión sea claro.
 
-###### Supuestos sobre necesidades 
+###### Supuestos sobre necesidades
 
-- El conteo manual de insumos en laboratorios es un proceso tedioso y propenso a errores. 
-- Existen riesgos asociados a la pérdida, caducidad o mal almacenamiento de productos (temperatura, humedad). 
-- Una solución que automatice y genere alertas en tiempo real resolverá estos problemas de seguridad y control. 
-- La integración con sistemas de gestión ya existentes (ERP, software de compras) es un requerimiento importante. 
+- El conteo manual de insumos en laboratorios es un proceso tedioso y propenso a errores.
+- Existen riesgos asociados a la pérdida, caducidad o mal almacenamiento de productos (temperatura, humedad).
+- Una solución que automatice y genere alertas en tiempo real resolverá estos problemas de seguridad y control.
+- La integración con sistemas de gestión ya existentes (ERP, software de compras) es un requerimiento importante.
 
-###### Supuestos sobre la solución 
+###### Supuestos sobre la solución
 
-- El uso de RFID y códigos QR facilita la identificación de insumos de manera rápida y confiable. 
-- Los sensores inteligentes permiten monitorear condiciones críticas (ej. temperatura de reactivos) y evitar pérdidas. 
-- Una plataforma centralizada basada en web permitirá a los laboratorios controlar en tiempo real su inventario desde cualquier lugar. 
-- El sistema puede escalarse desde un pequeño laboratorio hasta grandes instalaciones de investigación o distribución. 
+- El uso de RFID y códigos QR facilita la identificación de insumos de manera rápida y confiable.
+- Los sensores inteligentes permiten monitorear condiciones críticas (ej. temperatura de reactivos) y evitar pérdidas.
+- Una plataforma centralizada basada en web permitirá a los laboratorios controlar en tiempo real su inventario desde cualquier lugar.
+- El sistema puede escalarse desde un pequeño laboratorio hasta grandes instalaciones de investigación o distribución.
 
-###### Supuestos sobre el impacto 
+###### Supuestos sobre el impacto
 
-- La solución reducirá el tiempo destinado a tareas de inventario manual. 
-- Disminuirá la pérdida de insumos por mal almacenamiento o caducidad. 
-- Mejorará la seguridad y trazabilidad, cumpliendo normativas de laboratorios certificados. 
+- La solución reducirá el tiempo destinado a tareas de inventario manual.
+- Disminuirá la pérdida de insumos por mal almacenamiento o caducidad.
+- Mejorará la seguridad y trazabilidad, cumpliendo normativas de laboratorios certificados.
 - Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
 
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
 
-##### 1.2.2.4. Lean UX Canvas
-
-<img src="assets/assets/chapter-1/Lean UX Canvas.jpg" alt="Lean UX Canvas" width="1000">
-
-### 1.3 Segmentos Objetivo 
+### 1.3 Segmentos Objetivo
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
-##### Competidores directos: 
-- **Labguru**: plataforma de gestión de inventario y datos de laboratorio, con módulos para trazabilidad. 
-- **Quartzy**: software de gestión de inventario y pedidos para laboratorios de investigación. 
-- **LabCollector**: sistema modular que gestiona inventarios, muestras y equipos de laboratorio. 
+##### Competidores directos:
+- **Labguru**: plataforma de gestión de inventario y datos de laboratorio, con módulos para trazabilidad.
+- **Quartzy**: software de gestión de inventario y pedidos para laboratorios de investigación.
+- **LabCollector**: sistema modular que gestiona inventarios, muestras y equipos de laboratorio.
 
-##### Competidores indirectos: 
-- **ERP tradicionales** como SAP o Odoo, que incluyen módulos de inventario, pero no especializados en laboratorios. 
-- **Sistemas de monitoreo IoT genéricos**, que no están centrados en laboratorios, pero pueden adaptarse. 
-- **Excel u hojas de cálculo** (competencia informal, pero todavía muy utilizada en laboratorios pequeños). 
+##### Competidores indirectos:
+- **ERP tradicionales** como SAP o Odoo, que incluyen módulos de inventario, pero no especializados en laboratorios.
+- **Sistemas de monitoreo IoT genéricos**, que no están centrados en laboratorios, pero pueden adaptarse.
+- **Excel u hojas de cálculo** (competencia informal, pero todavía muy utilizada en laboratorios pequeños).
 
 <img src="assets/assets/chapter-1/competidores_cuadro.png" width=max>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 **Perfil**
 
-El análisis competitivo permitió identificar que los principales competidores (Labguru, Quartzy y LabCollector) ofrecen soluciones sólidas de gestión de inventarios, pero carecen de integración con tecnologías IoT y monitoreo en tiempo real.  
+El análisis competitivo permitió identificar que los principales competidores (Labguru, Quartzy y LabCollector) ofrecen soluciones sólidas de gestión de inventarios, pero carecen de integración con tecnologías IoT y monitoreo en tiempo real.
 
-Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas: 
+Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 
 **Estrategias**
 
 1. **Diferenciación tecnológica**
 
-- Potenciar la integración de IoT (sensores, RFID, QR) para garantizar monitoreo en tiempo real y trazabilidad completa. 
-- Incorporar alertas automáticas y registros auditables que los competidores no ofrecen. 
+- Potenciar la integración de IoT (sensores, RFID, QR) para garantizar monitoreo en tiempo real y trazabilidad completa.
+- Incorporar alertas automáticas y registros auditables que los competidores no ofrecen.
 
 2. **Especialización de nicho**
 
-- Foco exclusivo en laboratorios de investigación, universidades y proveedores de insumos. 
-- Cumplir y superar normativas de seguridad y trazabilidad propias del sector científico. 
+- Foco exclusivo en laboratorios de investigación, universidades y proveedores de insumos.
+- Cumplir y superar normativas de seguridad y trazabilidad propias del sector científico.
 
 3. **Accesibilidad y escalabilidad**
 
-- Ofrecer versiones básicas a laboratorios pequeños y módulos premium a grandes instituciones. 
-- Implementar una estrategia de precios competitiva frente a plataformas internacionales. 
+- Ofrecer versiones básicas a laboratorios pequeños y módulos premium a grandes instituciones.
+- Implementar una estrategia de precios competitiva frente a plataformas internacionales.
 
 4. **Alianzas estratégicas con proveedores**
 
-- Crear sinergias con distribuidores de insumos para incluir la trazabilidad desde el origen hasta la entrega. 
-- Posicionarse como un puente de confianza entre proveedor y cliente. 
+- Crear sinergias con distribuidores de insumos para incluir la trazabilidad desde el origen hasta la entrega.
+- Posicionarse como un puente de confianza entre proveedor y cliente.
 
 5. **Posicionamiento de marca**
 
-- Consolidar a LabIoT como un “laboratorio inteligente y seguro” que combina innovación, eficiencia y seguridad. 
+- Consolidar a LabIoT como un “laboratorio inteligente y seguro” que combina innovación, eficiencia y seguridad.
 
 **Tácticas**
 
-- Implementar pilotos gratuitos en laboratorios pequeños para validar el valor agregado y generar casos de éxito. 
-- Desarrollar módulos personalizables (inventario básico, monitoreo avanzado, reportes de auditoría, integración ERP). 
-- Aplicar estrategias de marketing digital enfocadas en beneficios medibles (ahorro de tiempo, reducción de errores, cumplimiento normativo). 
-- Establecer alianzas B2B con proveedores de insumos, integrando QR/RFID en la cadena de suministro. 
-- Mantener precios competitivos con planes accesibles y escalables. 
-- Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico. 
+- Implementar pilotos gratuitos en laboratorios pequeños para validar el valor agregado y generar casos de éxito.
+- Desarrollar módulos personalizables (inventario básico, monitoreo avanzado, reportes de auditoría, integración ERP).
+- Aplicar estrategias de marketing digital enfocadas en beneficios medibles (ahorro de tiempo, reducción de errores, cumplimiento normativo).
+- Establecer alianzas B2B con proveedores de insumos, integrando QR/RFID en la cadena de suministro.
+- Mantener precios competitivos con planes accesibles y escalables.
+- Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico.
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
 #### 2.2.2. Registro de entrevistas
+En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
+##### Segemento 1- Entrevista 1: Investigadores responsables de laboratorios
+Nombre: Alfonso Chang <br>
+Ocupación: Investigador jefe retirado de laboratorio de SENASA <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv <br>
+<img src="assets/assets/chapter-2/entrevista-1.png" alt="">
+Instante en el que inicia: 0:00 <br>
+Duración: 10:04 minutos<br>
+Resumen: El investigador, con amplia experiencia en laboratorios de investigación agrícola, valora la integración de tecnologías IoT para modernizar la gestión de laboratorios. Destaca cómo el uso de códigos QR, sensores y dispositivos IoT permite monitorizar en tiempo real condiciones ambientales y procesos dentro del laboratorio, facilitando un control más preciso y confiable. Resalta que un sistema web centralizado para manejar estas tecnologías mejora la eficiencia operativa, reduce errores manuales y agiliza la toma de decisiones. También nos comenta que en su trabajo la mayoría de tareas que tengan que ver con gestión de inventarios o monitoreos generalmente siempre se hacían con herramientas básicas de ofimatica como excel y que los insumos siempre tienen que cumplir con estrictas medidas y reglas para controlar su calidad y evitar alteraciones en su composición.
+
+### Segemento 1- Entrevista 2: Laboratorios de investigación
+
+<img src="assets/assets/chapter-2/entrevista1.png" alt="">
+
+**Nombre y apellido:** Luana Huayanay  
+**Edad:** 24  
+**Ocupación:** Practicante  
+**Duración:** 7:56 minutos
+
+#### Resumen:
+Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan.
+
+También nos comentan las funciones que son necesarias para una plataforma como Labiot son tener un registró automático de entradas y salidas, tener un monitoreo de temperaturas, tener un historial de cada material. además, nos cuenta los tipos de notificaciones que necesita para tener un mayor control y monitoreo es saber la fecha de vencimiento de sus reactivos o medicamentos, también tener alertas ante cualquier variación en la temperatura parar sus congeladores, tener alertas para recordar revisar su inventario, saber con qué insumos están trabajando y para ver cuáles son los insumos que quedan disponibles, además de un aviso por si un refrigerador se abre fuera del horario autorizado.
+
+Luana comento que las normativas que cumple es registrar todo los equipos y insumos, asegurar la conservación adecuada de sus materiales.
+
+Luana resalta que las tecnologías IoT podrían facilitar su trabajo al permitir visualizar rápidamente datos clave como conocer el stock de sus medicamentos, conocer el estado de los refrigeradores o si es que se venció algún reactivo que utilizan para sus experimentos, además ayudaría a reducir los errores humanos que tenemos y con la facilidad de poder organizar y tener todo más seguro.
+
+**Link:** [Eupc-pre-202520-1asi0730-7454-labIoT- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/personal/u202022056_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022056%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%201%5F%20app%20web%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed2f63370%2D0166%2D4c43%2Dae85%2D4cb90ba0d12f)
+
+### Segemento 1- Entrevista 3: Laboratorios de investigación
+
+<img src="assets/assets/chapter-2/entrevista2.png" alt="">
+
+**Nombre y apellido:** Erick Lucio Sulca  
+**Edad:** 22
+**Ocupación:** Practicante  
+**Duración:** 4:41 minutos
+
+#### Resumen:
+Erick nos comenta que actualmente gestiona sus registros mediante Excel, método que le resulta tedioso debido al tiempo que consume esta tarea manual. Además, señala que este sistema propicia el desperdicio de algunos suministros y reactivos.
+
+Destaca que sería muy valioso que la plataforma integre funcionalidades de monitoreo de sensores de temperatura para disminuir el riesgo de pérdida de materiales. Erick considera que la implementación de un programa especializado ayudaría significativamente a reducir tanto la carga laboral como el tiempo invertido en el registro de insumos.
+
+**Link:** [upc-pre-202520-1asi0730-7454-labIoT- needfinding2-sprint-1](https://upcedupe-my.sharepoint.com/personal/u202022056_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022056%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista2web%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8adf3607%2D453c%2D4604%2Db892%2Df3a55fdb91e4)
+
+##### Segemento 2: Supervisores de empresas
+
 #### 2.2.3. Análisis de entrevistas
-### 2.3. Needfinding  
+
+El análisis de entrevistas para el Segmento 1: Investigadores responsables de laboratorios muestra que comparten patrones claros en cuanto al uso de herramientas actuales, las limitaciones de estas, y las expectativas hacia una solución tecnológica como LabIoT. A continuación, se presentan las características objetivas y subjetivas del segmento, sustentadas en los hallazgos de las entrevistas realizadas.
+
+##### Características objetivas
+Uso de herramientas tradicionales (Excel y ofimática):
+El 100% de los entrevistados (Alfonso y Luana) mencionaron que actualmente utilizan principalmente Excel para el control de inventarios y registros de insumos. Se considera un método limitado que consume tiempo y genera errores.
+
+Tiempo invertido y errores frecuentes:
+El 100% señaló demoras y fallas en el registro manual, ya sea por olvido (Luana) o por dependencia en tareas repetitivas (Alfonso).
+
+Necesidad de cumplir normativas de calidad:
+El 100% resaltó la importancia del cumplimiento de protocolos y normativas de conservación de insumos y materiales, asegurando condiciones óptimas (temperatura, caducidad) para evitar la alteración de los productos.
+
+Requerimientos de monitoreo en tiempo real:
+El 100% expresó la necesidad de contar con un sistema de monitoreo constante en aspectos críticos como temperatura, stock y vencimientos.
+
+Duración y frecuencia en el uso de materiales:
+Ambos entrevistados señalaron que la operación en laboratorios implica un alto volumen de insumos, lo que hace indispensable un sistema de control automatizado en tiempo real.
+
+##### Características subjetivas
+Percepción sobre la tecnología IoT:
+El 100% mostró una actitud positiva hacia la implementación de dispositivos IoT y automatización en la gestión de inventarios. Alfonso lo valora como un medio de modernización y mejora de la confiabilidad; Luana lo percibe como una solución que le simplificará el trabajo y minimizará errores humanos.
+
+Sensibilidad hacia la seguridad y el control:
+El 100% expresó preocupación por la seguridad y conservación de insumos. Luana resaltó la importancia de contar con alertas inmediatas (apertura de refrigeradores, vencimiento de reactivos), mientras Alfonso enfatizó la confiabilidad en la calidad de materiales bajo normas estrictas.
+
+Valoración de la eficiencia operativa:
+El 100% consideró que una plataforma como LabIoT incrementaría significativamente la eficiencia al reducir errores manuales, optimizar el tiempo y agilizar la toma de decisiones.
+
+Preferencia por automatización y centralización:
+El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso destacó el impacto positivo a nivel estratégico y de gestión, mientras Luana valoró las funciones a nivel operativo (alertas, historial de insumos, control de stock).
+
+##### Principales patrones comunes (datos cruzados)
+100% utiliza Excel actualmente para registros.
+100% sufre problemas de retrasos, pérdida de datos y errores por la gestión manual.
+100% considera que IoT es útil y necesario en laboratorios.
+100% percibe como vital el cumplimiento de normativas de conservación para insumos.
+100% desea una solución que centralice la información e incluya alertas automáticas y monitoreo en tiempo real.
+>>>>>>> andre_Pillaca
+### 2.3. Needfinding
 #### 2.3.1. User Personas
 <img src="assets/assets/chapter-1/user-persona1.png" alt="">
 <img src="assets/assets/chapter-1/user-persona2.png" alt="">
 
-#### 2.3.2. User Task Matrix  
+#### 2.3.2. User Task Matrix
 ### User Task Matrix: Responsable de Laboratorio de Investigación (Carlos Estrada)
 
 | Task                                                                 | Importance | Frequency |
@@ -415,11 +518,11 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 | Analizar patrones de compra para anticipar necesidades              | Moderate   | Rare      |
 | Crear promociones y descuentos para clientes frecuentes             | Low        | Rare      |
 
-#### 2.3.3. User Journey Mapping  
+#### 2.3.3. User Journey Mapping
 <img src="assets/assets/chapter-1/user-journey-mapping-1.png" alt="">
 <img src="assets/assets/chapter-1/user-journey-mapping-2.png" alt="">
 
-#### 2.3.4. Empathy Mapping 
+#### 2.3.4. Empathy Mapping
 **Laboratorios**
 
 <img src="assets/assets/chapter-2/empathy_map_lab.png" width=max>
@@ -428,7 +531,7 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 
 <img src="assets/assets/chapter-2/empathy_map_supplier.png" width=max>
 
-### 2.4. Big Picture EventStorming  
+### 2.4. Big Picture EventStorming
 <img src="assets/assets/chapter-1/step1-event-storming.jpg" alt="">
 <img src="assets/assets/chapter-1/step2-event-storming.jpg" alt="">
 <img src="assets/assets/chapter-1/step3-event-storming.jpg" alt="">
@@ -436,9 +539,33 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 
 Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 ### 2.5. Ubiquitous Language
+1. Stakeholders & Roles
+   Lab Manager (Responsable de Laboratorio): Persona encargada de supervisar el inventario, la seguridad y las operaciones del laboratorio. Toma decisiones sobre la adquisición y el uso de insumos.  
+   Procurement Supervisor (Supervisor de Compras): Responsable de coordinar las solicitudes de materiales y mantener la relación con proveedores de insumos de laboratorio.  
+   Researcher (Investigador): Usuario que trabaja dentro del laboratorio y utiliza los insumos inventariados para proyectos específicos.  
+   Supplier (Proveedor): Empresa o entidad que abastece al laboratorio con materiales, insumos y equipos especializados.
+
+2. Funcionalidades de la Plataforma
+   Register Item (Registro de Ítem): Proceso en el que cada material, reactivo o equipo del laboratorio es identificado en el sistema mediante etiquetas RFID o códigos QR.  
+   Track Inventory (Seguimiento de Inventario): Funcionalidad para monitorear en tiempo real los niveles de stock de insumos dentro del laboratorio.  
+   Condition Monitoring (Monitoreo de Condiciones): Proceso en el que sensores inteligentes registran parámetros críticos (ejemplo: temperatura de reactivos sensibles).  
+   Alert Generation (Generación de Alertas): Notificaciones automáticas enviadas cuando se detecta un nivel bajo de stock o una condición anómala en los insumos (ejemplo: refrigerador con aumento de temperatura).  
+   Access Control (Control de Acceso): Gestión de permisos que define qué usuarios pueden registrar, modificar o consumir ítems específicos.  
+   Inventory Report (Reporte de Inventario): Generación de informes automáticos sobre niveles de existencia, historial de consumos y estado de los insumos.
+
+3. Otros conceptos del dominio
+   Smart Tag (Etiqueta Inteligente): Identificador en forma de RFID o código QR que permite el reconocimiento único de cada ítem dentro del sistema.  
+   Stock Level (Nivel de Stock): Cantidad disponible de un insumo en el inventario, monitoreada de forma automática.  
+   Expiration Date (Fecha de Vencimiento): Registro de la fecha límite de uso de reactivos o insumos, clave para garantizar la seguridad en proyectos de investigación.  
+   Critical Condition (Condición Crítica): Estado detectado por sensores (ejemplo: pérdida de frío en congelador o variación brusca de temperatura) que puede comprometer la utilidad de los materiales.  
+   Consumption Log (Registro de Consumo): Historial de movimientos de inventario que refleja qué insumo fue consumido, por quién y en qué fecha.  
+   Supply Request (Solicitud de Insumo): Proceso mediante el cual un miembro del laboratorio solicita al responsable o supervisor la compra o reposición de materiales.  
+   Audit Trail (Trazabilidad de Auditoría): Conjunto de registros que muestran todas las acciones realizadas sobre el inventario para fines de control y seguridad.
 
 ## Capítulo III: Requirements Specification
 ### 3.1. User Stories
+## Epics
+
 ## Epics
 
 | Epic ID | Title                               | Descripción                                                                                         |
@@ -451,36 +578,81 @@ Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 | EP06    | Laboratory Management             | Como inspector quiero gestionar la recepción y aprobación de productos para mantener control.     |
 
 ## User Stories
-| User Story ID | Título | Descripción | Criterios de aceptación | Épica |
-|--------------|--------|-------------|-------------------------|-------|
-| US-01 | Registro de Usuario | Como usuario quiero registrarme en la plataforma para acceder a sus funcionalidades. | Escenario 1: Dado que estoy en la página de registro, cuando ingreso datos válidos, entonces la cuenta se crea exitosamente.<br>Escenario 2: Dado que ingreso datos incompletos, cuando envío el formulario, entonces el sistema muestra mensajes de error solicitando corrección.<br>Escenario 3: Dado que ingreso un correo ya registrado, cuando envío, entonces el sistema muestra mensaje de correo duplicado. | EP01 |
-| US-02 | Inicio de Sesión | Como usuario quiero iniciar sesión para acceder a mi cuenta. | Escenario 1: Dado que ingreso credenciales válidas, cuando inicio sesión, entonces ingreso exitosamente.<br>Escenario 2: Dado que ingreso credenciales inválidas, cuando intento ingresar, entonces recibo un mensaje de error.<br>Escenario 3: Dado que dejo campos vacíos, cuando intento ingresar, entonces recibo alertas de campos obligatorios. | EP01 |
-| US-03 | Cierre de Sesión | Como usuario quiero cerrar sesión para proteger mi cuenta. | Escenario 1: Dado que estoy autenticado, cuando selecciono cerrar sesión, entonces la sesión termina y redirige a la página principal.<br>Escenario 2: Dado que la sesión expira, cuando intento realizar acción, entonces me solicita iniciar sesión nuevamente. | EP01 |
-| US-04 | Recuperación de Contraseña | Como usuario quiero recuperar mi contraseña en caso de olvido. | Escenario 1: Dado que ingreso un correo registrado, cuando solicito recuperación, entonces recibo un enlace para restablecer contraseña.<br>Escenario 2: Dado que ingreso un correo no registrado, cuando solicito recuperación, entonces recibo mensaje de error.<br>Escenario 3: Dado que el enlace está expirado, cuando intento usarlo, entonces recibo indicación para solicitar uno nuevo. | EP01 |
-| US-05 | Acceso a Landing Page | Como usuario quiero entrar a la Landing Page y visualizarla correctamente. | Escenario 1: Dado que ingreso a la URL, cuando la página carga, entonces visualizo todo el contenido sin errores visuales.<br>Escenario 2: Dado que accedo desde diferentes dispositivos, cuando ingreso, entonces la página es responsiva y accesible. | EP02 |
-| US-06 | Ver Información General | Como usuario quiero leer toda la información general en la Landing Page. | Escenario 1: Dado que estoy en la Landing Page, cuando navego, entonces puedo leer claramente toda la información existente.<br>Escenario 2: Dado que cambio de sección a sección, cuando regreso, entonces la información continúa accesible sin recarga. | EP02 |
-| US-07 | Botón de Acción | Como usuario quiero encontrar el botón que me lleve al registro o uso. | Escenario 1: Dado que estoy en la Landing Page, cuando busco acción principal, entonces encuentro el botón visible y funcional.<br>Escenario 2: Dado que accedo desde móvil, cuando busco el botón, entonces es accesible y funciona correctamente. | EP02 |
-| US-08 | Traducción Landing Page | Como usuario quiero ver la página web traducida según mis necesidades. | Escenario 1: Dado que cambio el idioma, cuando selecciono otro, entonces toda la página se actualiza y muestra en ese idioma.<br>Escenario 2: Dado que guardo contenido para lectura offline, cuando cargo la copia, entonces mantiene la lengua seleccionada. | EP02 |
-| US-09 | Pestaña de Perfil | Como usuario quiero acceder a un perfil para ingresar información y documentos. | Escenario 1: Dado que accedo a "Mi Perfil" sin información previa, cuando ingreso, entonces puedo crear un nuevo perfil.<br>Escenario 2: Dado que tengo perfil creado, cuando entro, entonces puedo modificar la información.<br>Escenario 3: Dado que estoy en otra sección, cuando clic en "Mi Perfil", entonces me lleva directamente a la pestaña. | EP03 |
-| US-10 | Crear Perfil | Como usuario quiero crear un perfil con información personal. | Escenario 1: Dado que accedo a crear perfil, cuando lleno todos los campos requeridos correctamente, entonces el perfil se crea.<br>Escenario 2: Dado que dejo campos vacíos, cuando intento guardar, entonces el sistema solicita completar la información.<br>Escenario 3: Dado que ingreso datos en formato incorrecto, cuando envío, entonces recibo aviso para corregir. | EP03 |
-| US-11 | Modificar Perfil | Como usuario quiero modificar la información de mi perfil. | Escenario 1: Dado que el perfil existe validado, cuando edito campos con datos válidos, entonces se actualiza correctamente.<br>Escenario 2: Dado que los datos son inválidos, cuando intento guardar, entonces se muestran mensajes de error.<br>Escenario 3: Dado que doy cancelación, cuando confirmo, entonces no se actualizan los datos. | EP03 |
-| US-12 | Cargar Documentos | Como usuario quiero cargar documentos personales en mi perfil para consulta. | Escenario 1: Dado que estoy en la pestaña perfil, cuando subo documentos válidos, entonces se guardan exitosamente.<br>Escenario 2: Dado que sustituyo documentos existentes, cuando confirmo, entonces se reemplazan correctamente.<br>Escenario 3: Dado que intento subir documentos inválidos, cuando envío, entonces se muestra error y se rechaza la carga. | EP03 |
-| US-13 | Registrar Ítem con QR/RFID | Como usuario quiero registrar ítems con etiquetas QR o RFID para identificarlos. | Escenario 1: Dado que tengo producto físico con etiqueta, cuando escaneo QR/RFID, entonces el sistema registra el ítem con éxito.<br>Escenario 2: Dado que la etiqueta está dañada o ilegible, cuando escaneo, entonces se muestra error y no se registra el ítem.<br>Escenario 3: Dado que el ítem ya está registrado, cuando intento registrar, entonces se notifica duplicidad. | EP02 |
-| US-14 | Escanear Entrada/Salida | Como usuario quiero escanear ítems al ser usados para actualizar inventario. | Escenario 1: Dado que el ítem está en inventario, cuando escaneo para salida, entonces el stock se actualiza descontando la unidad usada.<br>Escenario 2: Dado que el ítem no está registrado, cuando intento escanear, entonces se deniega la operación y se notifica error.<br>Escenario 3: Dado que ingreso múltiples ítems, cuando los escaneo, entonces se actualiza stock en lote sin errores. | EP02 |
-| US-15 | Actualización Automática | Como sistema quiero actualizar stock tras movimientos para mantener precisión. | Escenario 1: Dado que se registra una venta, cuando se procesa, entonces el stock disminuye automáticamente.<br>Escenario 2: Dado que se procesa una devolución válida, cuando se registra, entonces el stock aumenta automáticamente.<br>Escenario 3: Dado que ocurre error de sincronización, cuando hay inconsistencia, entonces se genera alerta al administrador. | EP02 |
-| US-16 | Generar Historial de Uso | Como usuario quiero consultar historial de uso para auditorías. | Escenario 1: Dado que selecciono un insumo, cuando solicito historial, entonces visualizo todas las transacciones registradas.<br>Escenario 2: Dado que aplico filtros de fechas, cuando filtro, entonces se muestran resultados restringidos.<br>Escenario 3: Dado que no hay movimientos, cuando solicito historial, entonces recibo un mensaje indicando inexistencia de movimientos. | EP02 |
-| US-21 | Recibir Alerta de Temperatura | Como usuario quiero recibir alertas si la temperatura está fuera de rango. | Escenario 1: Dado que sensores monitorean temperatura, cuando detectan fuera del rango, entonces se envían alertas inmediatas.<br>Escenario 2: Dado que la alerta fue falsamente disparada, cuando se verifica, entonces se elimina la alerta y se notifica corrección.<br>Escenario 3: Dado que el usuario desactiva alertas, cuando cambia configuración, entonces deja de recibir notificiaciones. | EP04 |
-| US-22 | Alerta de Insumos Próximos a Vencer | Como usuario quiero recibir notificaciones para insumos próximos a vencer. | Escenario 1: Dado que un insumo está próximo a su fecha de vencimiento, cuando la fecha se acerca, entonces se genera notificación automática.<br>Escenario 2: Dado que el insumo es retirado antes de vencer, cuando se retira, entonces se cancela la alerta.<br>Escenario 3: Dado que se genera alerta para múltiples productos, cuando se supera el umbral, entonces se envía alerta grupal. | EP04 |
-| US-23 | Alerta de Bajo Stock | Como usuario quiero recibir alertas cuando el stock esté bajo para reposición. | Escenario 1: Dado que el nivel de stock alcanza el mínimo, cuando se detecta, entonces se envía alerta automática.<br>Escenario 2: Dado que el usuario ajusta el umbral de alerta, cuando lo cambia, entonces se ajustan las notificaciones según nuevo umbral.<br>Escenario 3: Dado que se producen alertas reiteradas, cuando se analiza, entonces se propone optimización del sistema de alertas. | EP04 |
-| US-24 | Configurar Tipos y Canales de Alerta | Como usuario quiero configurar qué alertas recibir y por qué canal. | Escenario 1: Dado que el usuario accede a configuración, cuando selecciona preferencias, entonces se guardan exitosamente.<br>Escenario 2: Dado que elige diferentes canales, cuando cambia configuración, entonces recibe alertas por dichos canales.<br>Escenario 3: Dado que desea suspender alertas, cuando las desactiva, entonces deja de recibir notificaciones. | EP04 |
-| US-25 | Programación Entrega | Como usuario, quiero seleccionar franja de entrega conveniente para coordinar retiro. | Escenario 1: Dado que existe orden lista para entrega, cuando selecciono franja, entonces la agenda se actualiza.<br>Escenario 2: Dado que hay cambio de fecha, cuando admin propone nueva franja, entonces confirmo y se notifica. | EP14 |
-| US-26 | Pago Completo | Como dueño de usuario, quiero pagar el monto total de mi subscripción. | Escenario 1: Dado monto aprobado, cuando autorizo pago, entonces se registra y cambia estado.<br>Escenario 2: Dado pago rechazado, cuando intento nuevo pago, entonces sistema muestra motivo y permite reintentar. | EP14 |
-| US-27 | Encuesta de Satisfacción | Como usuario, quiero responder encuesta para mejorar servicio. | Escenario 1: Dado orden entregada, cuando accedo encuesta, entonces puedo responder y enviar.<br>Escenario 2: Dado puntuación baja, cuando envío encuesta, entonces sistema alerta internamente para seguimiento. | EP14 |
-| US-28 | Registro de Trabajador | Como usuario, quiero registrar datos de trabajador para mostrar al cliente. | Escenario 1: Dado formulario completo, cuando guardo, entonces trabajador se registra.<br>Escenario 2: Dado campos incompletos, cuando intento guardar, entonces sistema indica errores. | EP10 |
-| US-29 | Selección de laboratorio | Como usuario, quiero seleccionar laboratorio en lista para registro e inspección. | Escenario 1: Dado lista con opciones, cuando selecciono laboratorio, entonces puedo continuar.<br>Escenario 2: Dado lista vacía, cuando intento seleccionar, entonces sistema informa no disponibilidad y ofrece notificar. | EP06 |
-| US-30 | Subir Producto | Como usuario, quiero registrar producto en laboratorio para inspección. | Escenario 1: Dado formulario completo y correcto, cuando envío, entonces producto queda registrado con estado pendiente.<br>Escenario 2: Dado campos faltantes, cuando envío, entonces se muestra validación y no avanza. | EP06 |
-| US-31 | Inspección de Producto | Como usuario, quiero realizar inspección y registrar resultados para aprobar, corregir o rechazar. | Escenario 1: Dado producto cumple, cuando apruebo, entonces estado cambia a aprobado, queda registrado.<br>Escenario 2: Dado defecto leve, cuando registro incidencia, entonces producto queda en corrección y se notifica.<br>Escenario 3: Dado falla grave, cuando rechazo y adjunto evidencias, entonces producto queda rechazado y se notifica. | EP06 |
-| US-32 | Aprobar Producto | Como usuario, quiero aprobar productos para utilizarlos en el laboratorio. | Escenario 1: Dado producto aprobado y sin incidencias, cuando confirmo, entonces status cambia a aprobado y responsable es notificado.<br>Escenario 2: Dado producto corregido tras fallas, cuando valido y apruebo, entonces estado cambia y se notifica.<br>Escenario 3: Dado producto no apto, cuando rechazo, entonces producto queda marcado y se notifica el motivo. | EP06 |
+| User Story ID | Título               | Descripción                                                            | Criterios de aceptación                                                                                                    | Épica |
+|---------------|----------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------|
+| US-01         | Registro de Usuario   | Como usuario quiero registrarme en la plataforma para acceder a sus funcionalidades. | Escenario 1: Dado que estoy en la página de registro, cuando ingreso datos válidos, entonces la cuenta se crea exitosamente.  
+Escenario 2: Dado que ingreso datos incompletos, cuando envío el formulario, entonces el sistema muestra mensajes de error solicitando corrección.  
+Escenario 3: Dado que ingreso un correo ya registrado, cuando envío, entonces el sistema muestra mensaje de correo duplicado. | EP01  |
+| US-02         | Inicio de Sesión      | Como usuario quiero iniciar sesión para acceder a mi cuenta.           | Escenario 1: Dado que ingreso credenciales válidas, cuando inicio sesión, entonces ingreso exitosamente.  
+Escenario 2: Dado que ingreso credenciales inválidas, cuando intento ingresar, entonces recibo un mensaje de error.  
+Escenario 3: Dado que dejo campos vacíos, cuando intento ingresar, entonces recibo alertas de campos obligatorios. | EP01  |
+| US-03         | Cierre de Sesión      | Como usuario quiero cerrar sesión para proteger mi cuenta.             | Escenario 1: Dado que estoy autenticado, cuando selecciono cerrar sesión, entonces la sesión termina y redirige a la página principal.  
+Escenario 2: Dado que la sesión expira, cuando intento realizar acción, entonces me solicita iniciar sesión nuevamente. | EP01  |
+| US-04         | Recuperación de Contraseña | Como usuario quiero recuperar mi contraseña en caso de olvido.      | Escenario 1: Dado que ingreso un correo registrado, cuando solicito recuperación, entonces recibo un enlace para restablecer contraseña.  
+Escenario 2: Dado que ingreso un correo no registrado, cuando solicito recuperación, entonces recibo mensaje de error.  
+Escenario 3: Dado que el enlace está expirado, cuando intento usarlo, entonces recibo indicación para solicitar uno nuevo. | EP01  |
+| US-05         | Acceso a Landing Page | Como usuario quiero entrar a la Landing Page y visualizarla correctamente. | Escenario 1: Dado que ingreso a la URL, cuando la página carga, entonces visualizo todo el contenido sin errores visuales.  
+Escenario 2: Dado que accedo desde diferentes dispositivos, cuando ingreso, entonces la página es responsiva y accesible. | EP02  |
+| US-06         | Ver Información General | Como usuario quiero leer toda la información general en la Landing Page. | Escenario 1: Dado que estoy en la Landing Page, cuando navego, entonces puedo leer claramente toda la información existente.  
+Escenario 2: Dado que cambio de sección a sección, cuando regreso, entonces la información continúa accesible sin recarga. | EP02  |
+| US-07         | Botón de Acción       | Como usuario quiero encontrar el botón que me lleve al registro o uso.  | Escenario 1: Dado que estoy en la Landing Page, cuando busco acción principal, entonces encuentro el botón visible y funcional.  
+Escenario 2: Dado que accedo desde móvil, cuando busco el botón, entonces es accesible y funciona correctamente. | EP02  |
+| US-08         | Traducción Landing Page | Como usuario quiero ver la página web traducida según mis necesidades. | Escenario 1: Dado que cambio el idioma, cuando selecciono otro, entonces toda la página se actualiza y muestra en ese idioma.  
+Escenario 2: Dado que guardo contenido para lectura offline, cuando cargo la copia, entonces mantiene la lengua seleccionada. | EP02  |
+| US-09         | Pestaña de Perfil     | Como usuario quiero acceder a un perfil para ingresar información y documentos. | Escenario 1: Dado que accedo a "Mi Perfil" sin información previa, cuando ingreso, entonces puedo crear un nuevo perfil.  
+Escenario 2: Dado que tengo perfil creado, cuando entro, entonces puedo modificar la información.  
+Escenario 3: Dado que estoy en otra sección, cuando clic en "Mi Perfil", entonces me lleva directamente a la pestaña. | EP03  |
+| US-10         | Crear Perfil          | Como usuario quiero crear un perfil con información personal.         | Escenario 1: Dado que accedo a crear perfil, cuando lleno todos los campos requeridos correctamente, entonces el perfil se crea.  
+Escenario 2: Dado que dejo campos vacíos, cuando intento guardar, entonces el sistema solicita completar la información.  
+Escenario 3: Dado que ingreso datos en formato incorrecto, cuando envío, entonces recibo aviso para corregir. | EP03  |
+| US-11         | Modificar Perfil         | Como usuario quiero modificar la información de mi perfil.                | Escenario 1: Dado que el perfil existe validado, cuando edito campos con datos válidos, entonces se actualiza correctamente.  
+Escenario 2: Dado que los datos son inválidos, cuando intento guardar, entonces se muestran mensajes de error.  
+Escenario 3: Dado que doy cancelación, cuando confirmo, entonces no se actualizan los datos.                                                                                      | EP03  |
+| US-12         | Cargar Documentos        | Como usuario quiero cargar documentos personales en mi perfil para consulta.| Escenario 1: Dado que estoy en la pestaña perfil, cuando subo documentos válidos, entonces se guardan exitosamente.  
+Escenario 2: Dado que sustituyo documentos existentes, cuando confirmo, entonces se reemplazan correctamente.  
+Escenario 3: Dado que intento subir documentos inválidos, cuando envío, entonces se muestra error y se rechaza la carga.                                                        | EP03  |
+| US-13         | Registrar Ítem con QR/RFID| Como usuario quiero registrar ítems con etiquetas QR o RFID para identificarlos.| Escenario 1: Dado que tengo producto físico con etiqueta, cuando escaneo QR/RFID, entonces el sistema registra el ítem con éxito.  
+Escenario 2: Dado que la etiqueta está dañada o ilegible, cuando escaneo, entonces se muestra error y no se registra el ítem.  
+Escenario 3: Dado que el ítem ya está registrado, cuando intento registrar, entonces se notifica duplicidad.                                                                      | EP02  |
+| US-14         | Escanear Entrada/Salida  | Como usuario quiero escanear ítems al ser usados para actualizar inventario.| Escenario 1: Dado que el ítem está en inventario, cuando escaneo para salida, entonces el stock se actualiza descontando la unidad usada.  
+Escenario 2: Dado que el ítem no está registrado, cuando intento escanear, entonces se deniega la operación y se notifica error.  
+Escenario 3: Dado que ingreso múltiples ítems, cuando los escaneo, entonces se actualiza stock en lote sin errores.                                                              | EP02  |
+| US-15         | Actualización Automática  | Como sistema quiero actualizar stock tras movimientos para mantener precisión.| Escenario 1: Dado que se registra una venta, cuando se procesa, entonces el stock disminuye automáticamente.  
+Escenario 2: Dado que se procesa una devolución válida, cuando se registra, entonces el stock aumenta automáticamente.  
+Escenario 3: Dado que ocurre error de sincronización, cuando hay inconsistencia, entonces se genera alerta al administrador.                                                  | EP02  |
+| US-16         | Generar Historial de Uso  | Como usuario quiero consultar historial de uso para auditorías.            | Escenario 1: Dado que selecciono un insumo, cuando solicito historial, entonces visualizo todas las transacciones registradas.  
+Escenario 2: Dado que aplico filtros de fechas, cuando filtro, entonces se muestran resultados restringidos.  
+Escenario 3: Dado que no hay movimientos, cuando solicito historial, entonces recibo un mensaje indicando inexistencia de movimientos.                                   | EP02  |
+| US-21         | Recibir Alerta de Temperatura| Como usuario quiero recibir alertas si la temperatura está fuera de rango.| Escenario 1: Dado que sensores monitorean temperatura, cuando detectan fuera del rango, entonces se envían alertas inmediatas.  
+Escenario 2: Dado que la alerta fue falsamente disparada, cuando se verifica, entonces se elimina la alerta y se notifica corrección.  
+Escenario 3: Dado que el usuario desactiva alertas, cuando cambia configuración, entonces deja de recibir notificiaciones.                                          | EP04  |
+| US-22         | Alerta de Insumos Próximos a Vencer | Como usuario quiero recibir notificaciones para insumos próximos a vencer.| Escenario 1: Dado que un insumo está próximo a su fecha de vencimiento, cuando la fecha se acerca, entonces se genera notificación automática.  
+Escenario 2: Dado que el insumo es retirado antes de vencer, cuando se retira, entonces se cancela la alerta.  
+Escenario 3: Dado que se genera alerta para múltiples productos, cuando se supera el umbral, entonces se envía alerta grupal.                                             | EP04  |
+| US-23         | Alerta de Bajo Stock     | Como usuario quiero recibir alertas cuando el stock esté bajo para reposición.| Escenario 1: Dado que el nivel de stock alcanza el mínimo, cuando se detecta, entonces se envía alerta automática.  
+Escenario 2: Dado que el usuario ajusta el umbral de alerta, cuando lo cambia, entonces se ajustan las notificaciones según nuevo umbral.  
+Escenario 3: Dado que se producen alertas reiteradas, cuando se analiza, entonces se propone optimización del sistema de alertas.                                   | EP04  |
+| US-24         | Configurar Tipos y Canales de Alerta| Como usuario quiero configurar qué alertas recibir y por qué canal.  | Escenario 1: Dado que el usuario accede a configuración, cuando selecciona preferencias, entonces se guardan exitosamente.  
+Escenario 2: Dado que elige diferentes canales, cuando cambia configuración, entonces recibe alertas por dichos canales.  
+Escenario 3: Dado que desea suspender alertas, cuando las desactiva, entonces deja de recibir notificaciones.                                                    | EP04  |
+| US-25         | Programación Entrega               | Como usuario, quiero seleccionar franja de entrega conveniente para coordinar retiro. | Escenario 1: Dado que existe orden lista para entrega, cuando selecciono franja, entonces la agenda se actualiza.  
+Escenario 2: Dado que hay cambio de fecha, cuando admin propone nueva franja, entonces confirmo y se notifica. | EP14  |
+| US-26         | Pago Completo                     | Como dueño de usuario, quiero pagar el monto total de mi subscripción.           | Escenario 1: Dado monto aprobado, cuando autorizo pago, entonces se registra y cambia estado.  
+Escenario 2: Dado pago rechazado, cuando intento nuevo pago, entonces sistema muestra motivo y permite reintentar. | EP14  |
+| US-27         | Encuesta de Satisfacción          | Como usuario, quiero responder encuesta para mejorar servicio.                           | Escenario 1: Dado orden entregada, cuando accedo encuesta, entonces puedo responder y enviar.  
+Escenario 2: Dado puntuación baja, cuando envío encuesta, entonces sistema alerta internamente para seguimiento. | EP14  |
+| US-28         | Registro de Trabajador             | Como usuario, quiero registrar datos de trabajador para mostrar al cliente.       | Escenario 1: Dado formulario completo, cuando guardo, entonces trabajador se registra.  
+Escenario 2: Dado campos incompletos, cuando intento guardar, entonces sistema indica errores. | EP10  |
+| US-29         | Selección de laboratorio           | Como usuario, quiero seleccionar laboratorio en lista para registro e inspección.      | Escenario 1: Dado lista con opciones, cuando selecciono laboratorio, entonces puedo continuar.  
+Escenario 2: Dado lista vacía, cuando intento seleccionar, entonces sistema informa no disponibilidad y ofrece notificar. | EP06  |
+| US-30         | Subir Producto                   | Como usuario, quiero registrar producto en laboratorio para inspección.                | Escenario 1: Dado formulario completo y correcto, cuando envío, entonces producto queda registrado con estado pendiente.  
+Escenario 2: Dado campos faltantes, cuando envío, entonces se muestra validación y no avanza. | EP06  |
+| US-31         | Inspección de Producto             | Como usuario, quiero realizar inspección y registrar resultados para aprobar, corregir o rechazar. | Escenario 1: Dado producto cumple, cuando apruebo, entonces estado cambia a aprobado, queda registrado.  
+Escenario 2: Dado defecto leve, cuando registro incidencia, entonces producto queda en corrección y se notifica.  
+Escenario 3: Dado falla grave, cuando rechazo y adjunto evidencias, entonces producto queda rechazado y se notifica. | EP06  |
+| US-32         | Aprobar Producto                  | Como ususario, quiero aprobar productos para utilizarlos en el laboratorio.           | Escenario 1: Dado producto aprobado y sin incidencias, cuando confirmo, entonces status cambia a aprobado y responsable es notificado.  
+Escenario 2: Dado producto corregido tras fallas, cuando valido y apruebo, entonces estado cambia y se notifica.  
+Escenario 3: Dado producto no apto, cuando rechazo, entonces producto queda marcado y se notifica el motivo. | EP06  |
 
 ### 3.2. Impact Mapping
 ### 3.3. Product Backlog
@@ -488,41 +660,41 @@ Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
-El diseño de estilo general de LabIoT responde a la necesidad de transmitir seguridad, innovación y confiabilidad, valores esenciales 
+El diseño de estilo general de LabIoT responde a la necesidad de transmitir seguridad, innovación y confiabilidad, valores esenciales
 en la gestión de inventarios de laboratorio.
 
-- **Colores**: la paleta seleccionada combina azul (#004AAD), verde (#00B894) y grises (#333333 y #F1F1F1). El azul transmite confianza y control, 
-cualidades críticas en entornos de laboratorio. El verde refuerza la idea de innovación y sostenibilidad asociada al uso de IoT. Los 
-tonos grises equilibran la interfaz y facilitan la lectura de datos en pantallas.
+- **Colores**: la paleta seleccionada combina azul (#004AAD), verde (#00B894) y grises (#333333 y #F1F1F1). El azul transmite confianza y control,
+  cualidades críticas en entornos de laboratorio. El verde refuerza la idea de innovación y sostenibilidad asociada al uso de IoT. Los
+  tonos grises equilibran la interfaz y facilitan la lectura de datos en pantallas.
 
 <p align="center">
   <img src="/assets/assets/chapter-4/style-guidelines/colores.png" alt="colores" style="height:200px;">
 </p>
 
-- **Tipografía**: se utiliza Roboto como fuente principal por su claridad en interfaces digitales, y Open Sans para textos extensos y 
-documentación. La elección responde a la necesidad de legibilidad y modernidad, además de ser tipografías ampliamente utilizadas 
-en entornos web.
+- **Tipografía**: se utiliza Roboto como fuente principal por su claridad en interfaces digitales, y Open Sans para textos extensos y
+  documentación. La elección responde a la necesidad de legibilidad y modernidad, además de ser tipografías ampliamente utilizadas
+  en entornos web.
 
 <p align="center">
   <img src="/assets/assets/chapter-4/style-guidelines/TIPOGRAFIA.png" alt="tipografia" style="height:300px;">
 </p>
 
-- **Distribución y espaciado**: se adopta un diseño en cuadrícula de 12 columnas (basado en Material Design), con márgenes consistentes. 
-Esto asegura orden y claridad en la presentación de la información, favoreciendo la navegación.
+- **Distribución y espaciado**: se adopta un diseño en cuadrícula de 12 columnas (basado en Material Design), con márgenes consistentes.
+  Esto asegura orden y claridad en la presentación de la información, favoreciendo la navegación.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/distribucion.png" alt="distribucion" style="height:300px;">
 </p>
 
-- **Lenguaje y tono: la comunicación** es clara, formal y precisa, sin tecnicismos innecesarios. Esto facilita que tanto investigadores 
-como técnicos y proveedores comprendan fácilmente la información.
+- **Lenguaje y tono: la comunicación** es clara, formal y precisa, sin tecnicismos innecesarios. Esto facilita que tanto investigadores
+  como técnicos y proveedores comprendan fácilmente la información.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/lenguaje.png" alt="lenguaje" style="height:300px;">
 </p>
 
-- **Iconografía**: se emplean símbolos fácilmente reconocibles, como íconos de sensores, códigos QR, alertas y stock. Esto permite reducir 
-la curva de aprendizaje y mejora la usabilidad del sistema.
+- **Iconografía**: se emplean símbolos fácilmente reconocibles, como íconos de sensores, códigos QR, alertas y stock. Esto permite reducir
+  la curva de aprendizaje y mejora la usabilidad del sistema.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/iconografia.png" alt="iconografia" style="height:300px;">
@@ -530,85 +702,52 @@ la curva de aprendizaje y mejora la usabilidad del sistema.
 
 #### 4.1.2. Web Style Guidelines
 
-El diseño web de LabIoT se implementará con el framework Vue, utilizando PrimeVue como biblioteca de componentes y siguiendo las guías 
-de Material Design. El objetivo es asegurar que tanto la Landing Page como la Web Application presenten una experiencia uniforme, 
+El diseño web de LabIoT se implementará con el framework Vue, utilizando PrimeVue como biblioteca de componentes y siguiendo las guías
+de Material Design. El objetivo es asegurar que tanto la Landing Page como la Web Application presenten una experiencia uniforme,
 responsiva y accesible.
 
-- **Diseño adaptable**: la interfaz se ajusta a distintos dispositivos (desktop, tablet y móvil), manteniendo la consistencia entre la Landing 
-Page y la Web Application. Esto permite que los usuarios puedan acceder en cualquier contexto, ya sea en un laboratorio o en una oficina 
-administrativa.
+- **Diseño adaptable**: la interfaz se ajusta a distintos dispositivos (desktop, tablet y móvil), manteniendo la consistencia entre la Landing
+  Page y la Web Application. Esto permite que los usuarios puedan acceder en cualquier contexto, ya sea en un laboratorio o en una oficina
+  administrativa.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/diseño.png" alt="diseño-adaptable" style="height:200px;">
 </p>
 
-- **Componentes de interfaz**: los botones principales se muestran en azul, resaltando acciones críticas como guardar o confirmar, mientras 
-que los botones secundarios se presentan en verde, destinados a funciones complementarias. Esto guía al usuario y establece jerarquía 
-visual.
+- **Componentes de interfaz**: los botones principales se muestran en azul, resaltando acciones críticas como guardar o confirmar, mientras
+  que los botones secundarios se presentan en verde, destinados a funciones complementarias. Esto guía al usuario y establece jerarquía
+  visual.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/componentes.png" alt="componentes" style="height:200px;">
 </p>
 
-- **Notificaciones y estados**: los mensajes de éxito se presentan en verde, las advertencias en amarillo (#F9CA24) y los errores en rojo 
-(#D63031). Esta convención ayuda a los usuarios a reaccionar de forma rápida y a reducir confusiones.
+- **Notificaciones y estados**: los mensajes de éxito se presentan en verde, las advertencias en amarillo (#F9CA24) y los errores en rojo
+  (#D63031). Esta convención ayuda a los usuarios a reaccionar de forma rápida y a reducir confusiones.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/notificaciones.png" alt="notificaciones" style="height:200px;">
 </p>
 
-- **Tablas y dashboards**: se prioriza un diseño claro y ordenado en las tablas de inventario y en los paneles de control. Los usuarios 
-pueden filtrar, ordenar y visualizar información de manera eficiente, minimizando errores en el manejo de datos críticos.
+- **Tablas y dashboards**: se prioriza un diseño claro y ordenado en las tablas de inventario y en los paneles de control. Los usuarios
+  pueden filtrar, ordenar y visualizar información de manera eficiente, minimizando errores en el manejo de datos críticos.
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/tablas.png" alt="tablas" style="height:300px;">
 </p>
 
-- **Accesibilidad**: se implementan contrastes adecuados, etiquetas en formularios y atributos accesibles para usuarios con discapacidad 
-visual. Además, se asegura compatibilidad con estándares internacionales (WCAG).
+- **Accesibilidad**: se implementan contrastes adecuados, etiquetas en formularios y atributos accesibles para usuarios con discapacidad
+  visual. Además, se asegura compatibilidad con estándares internacionales (WCAG).
 
 <p align="center">
 <img src="/assets/assets/chapter-4/style-guidelines/accesibilidad.png" alt="accesibilidad" style="height:300px;">
 </p>
 
-En conjunto, estas guías aseguran que la experiencia digital sea consistente, fácil de usar y accesible, reforzando la identidad 
+En conjunto, estas guías aseguran que la experiencia digital sea consistente, fácil de usar y accesible, reforzando la identidad
 visual definida en las guías generales.
 
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
-1. Organization Scheme (Esquema de organización)
-- Temático/Funcional: la información se organiza según las funciones principales del sistema:
-  - Gestión de usuarios (registro, login, perfil, documentos).
-  - Gestión de inventario (registro, stock, alertas).
-  - Inspecciones de calidad (subida, revisión, aprobación).
-  - Landing Page (información y promoción del producto).
-  - Reportes y analítica.
-
-2. Organization Structure (Estructura de organización)
-
-- Jerárquica (Árbol): desde la Landing Page como entrada, se navega a módulos principales.
-- Lineal: en procesos como registro de cuenta o inspección, los pasos siguen una secuencia.
-- Matriz: en búsquedas/filtrados, por ejemplo inventario que puede organizarse por fecha, tipo de insumo, laboratorio.
-
-3. Organization System (Sistema de organización aplicado)
-- Global navigation (menú principal en el header): acceso a
-  - Home (Landing Page)
-  - Inventario
-  - Inspecciones
-  - Perfil
-  - Reportes
-  - Contacto
-- Local navigation (submenús dentro de cada sección):
-  - Perfil → Crear, Editar, Documentos.
-  - Inventario → Registrar, Stock, Historial.
-  - Inspecciones → Pendientes, Aprobados, Rechazados.
-Contextual navigation (botones de acción dentro de un flujo):
-“Cargar documento”, “Enviar a inspección”, “Generar reporte”.
-
-<p align="center">
-<img src="/assets/assets/chapter-4/database-design/lab-iot-organization-diagram.png" alt="organization structure" style="height:300px;">
-</p>
-
 #### 4.2.2. Labeling Systems
 #### Objetivos
 - Facilitar organización y filtrado de contenido (ej. artículos, productos, laboratorios, insumos).
@@ -750,51 +889,111 @@ Contextual navigation (botones de acción dentro de un flujo):
 }
 ```
 #### 4.2.5. Navigation Systems
+
+A continuación, presentaremos el sistema de navegación con el que contará LabloT que permitirá al usuario navegar tanto en el landing page como en la aplicación web.  
+Hemos implementado un sistema de navegación tipo Navigation Tabs que permite tener una vista rápida de las opciones de la aplicación para facilitar la interacción del usuario.
+esto enviame en condigo para agregarle a mi documento.
+
+***Estructura del Sistema de Navegación***
+
+<p align="center">
+<img src="/assets/assets/chapter-4/NavigationSystems2.png" alt="distribucion" style="height:300px;">
+</p>
+
+
+<p align="center">
+<img src="/assets/assets/chapter-4/NavigationSystems.png" alt="accesibilidad" style="width:1000px;" >
+</p>
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
-El wireframe de la landing page presenta una estructura clara con hero section, value proposition, features, benefits, FAQs, contact y call-to-actions estratégicos.
-- Inicio: En la parte superior se ubica nuestro logo principal atractivo y barra de navegación con las secciones de nuestra landing page. Incluye un botón de “Comienza gratis” como CTA destacado.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hero-wf.jpg" alt="hero wireframe" width="600"> </p>
+En esta seccion se mostrara los diferrentes wireframes desarrollados en software de figma para el landing page.
 
-- ¿Cómo funciona?: En esta sección se describe el proceso de funcionamiento de nuestro producto en 3 simples pasos.
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe.png" alt="">
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hdiw-wf.jpg" alt="hdiw wireframe" width="600"> </p>
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe2.png" alt="">
 
-- Caracteristicas: Se presentan las funcionalidades principales de la plataforma en bloques simples con descripciones breves, permitiendo que el usuario entienda rápidamente lo que ofrecemos.
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe3.png" alt="">
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/features-wf.jpg" alt="features wireframe" width="600"> </p>
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe5.png" alt="">
 
-- Beneficios y FAQs: Sección dedicada a mostrar el valor agregado de la solución, resaltando las ventajas competitivas y diferenciales con respecto a alternativas existentes en el mercado, además de la sección de FAQs para minimizar dudas generales de los consumidores.
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe6.png" alt="">
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/benefits-&-faqs-wf.jpg" alt="benefits faqs wireframe" width="600"> </p>
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe7.png" alt="">
 
-- Contacto y Footer: Sección final con un formulario de contacto y un footer con enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe8.png" alt="">
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/contact-&-footer-wf.png" alt="contact y footer wireframe" width="600"> </p>
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe9.png" alt="">
+
+<img src="assets/assets/chapter-4/landing-page/LandingPageWireframe4.png" alt="">
+
+Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
 
 #### 4.3.2. Landing Page Mock-up
-El mock-up refleja la identidad de marca con los colores aplicados, algunos no reflejan el producto final ya que hay degradados entre 2 colores que Figma no permite representar. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hero-mu.jpg" alt="hero mock up" width="600"> </p>
+En esta seccion mostraremos los mockups realizados para el landing page con los respectivos estilos establecidos en los puntos anteriores.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/hdiw-mu.png" alt="hdiw mock up" width="600"> </p>
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up1.png" alt="">
+En este mockup del inicio del landing page se aprecia el inicio de aplicativo con una frase haciendo referencia al negocio asi como las imagenes respectivas. Ademas de un boton de accion que permitira al usuario redirigirlo a la aplicacion web.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/features-mu.png" alt="features mock up" width="600"> </p>
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up2.png" alt="">
+En este mockup de los beneficios mostrara los beneficios.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/benefits-mu.png" alt="benefits mock up" width="600"> </p>
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up3.png" alt="">
+En este mockup de los planes se muestra cards con los diferentes planes que tendra la aplicacion web.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/faqs-mu.png" alt="faqs mock up" width="600"> </p>
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up4.png" alt="">
+En esta mockup mostrara el uso en tres pasos.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up5.png" alt="">
+En esta mockup se mostrara las preguntas precuentes.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up6.png" alt="">
+En esta seccion mostraremos al equipo detras del desarrollo del aplicativo web.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up7.png" alt="">
+En esta mockup se mostrara las caracteristcas claves.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up8.png" alt="">
+Y en esta mockup se podra contactar con el equipo.
+<img src="assets/assets/chapter-4/Landing-Page-Mock-up/Landing-Page-Mock-up9.png" alt="">
+En este mockup se puede ver el footer donde tendra una pequeña descripcion con nuestras respectivas redes.
 
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/contact-mu.png" alt="contact mock up" width="600"> </p>
-
-<p align="center"> <img src="/assets/assets/chapter-4/landing-page-ui-design/footer-mu.png" alt="footer mock up" width="600"> </p>
+Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes.png" alt="">
+En esta pantalla se muestra el inicio de sesion con el respectivo formulario para poder iniciar en el aplicativo web.
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes2.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes3.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes4.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes5.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes6.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes7.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes8.png" alt="">
+
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups1.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups2.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups3.png" alt="">
+
+<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups4.png" alt="">
+
+Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
+
 #### 4.4.4. Web Applications User Flow Diagrams
+<img src="assets/assets/chapter-4/WebApplicationsUserFlowDiagrams/WebApplicationsUserFlowDiagrams.png" alt="">
+
+Link para ver Web Applications User Flow Diagrams: https://miro.com/welcomeonboard/ZDF5b0hKTlhzTUlaUTRsZTV5dkdzQUZxTEZnZWhOTTZHZVNHenBleGNhS09DMXVSQTNuU0hTZEtQaDdQUGRQbWFYVmZNK1BVM1E5SkxoWmdGeTN3dE9RNGZobjJMbmh4Z0xPdzZKRjVDamhUVUNpTjlKUzlITHZkTVZQVi8rcDJzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=575139599232
+
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Design-Level EventStorming
@@ -805,8 +1004,8 @@ El mock-up refleja la identidad de marca con los colores aplicados, algunos no r
 #### 4.7.1. Class Diagrams
 ### 4.8. Database Design
 
-La base de datos constituye el núcleo de la solución LabIoT, ya que concentra la información que permite la gestión eficiente de 
-inventarios en laboratorios. Su diseño se orienta a garantizar integridad, trazabilidad y confiabilidad de los datos, elementos 
+La base de datos constituye el núcleo de la solución LabIoT, ya que concentra la información que permite la gestión eficiente de
+inventarios en laboratorios. Su diseño se orienta a garantizar integridad, trazabilidad y confiabilidad de los datos, elementos
 indispensables en entornos donde la precisión es crítica para el éxito de las operaciones.
 
 El modelo propuesto responde a los siguientes objetivos:
@@ -826,32 +1025,32 @@ El modelo propuesto responde a los siguientes objetivos:
 Tablas principales
 
 - **Usuarios**
-Contiene los datos de los distintos actores del sistema (investigadores, técnicos, administradores, proveedores). Permite asociar 
-cada movimiento o acción a un responsable, reforzando la trazabilidad y la seguridad del sistema.
+  Contiene los datos de los distintos actores del sistema (investigadores, técnicos, administradores, proveedores). Permite asociar
+  cada movimiento o acción a un responsable, reforzando la trazabilidad y la seguridad del sistema.
 
 - **Laboratorios**
-Identifica cada laboratorio o sede en la que se gestionan insumos. Esta separación facilita la organización de inventarios 
-distribuidos y el análisis independiente por unidad.
+  Identifica cada laboratorio o sede en la que se gestionan insumos. Esta separación facilita la organización de inventarios
+  distribuidos y el análisis independiente por unidad.
 
 - **Proveedores**
-Registra los datos de las empresas que abastecen insumos, vinculando la cadena de suministro al laboratorio. Esta entidad asegura 
-transparencia y control en las relaciones comerciales.
+  Registra los datos de las empresas que abastecen insumos, vinculando la cadena de suministro al laboratorio. Esta entidad asegura
+  transparencia y control en las relaciones comerciales.
 
 - **Insumos**
-Representa el catálogo central de materiales de laboratorio. Incluye atributos como nombre, tipo, lote y fecha de vencimiento. 
-Es la tabla principal del sistema, ya que conecta con movimientos, condiciones y alertas.
+  Representa el catálogo central de materiales de laboratorio. Incluye atributos como nombre, tipo, lote y fecha de vencimiento.
+  Es la tabla principal del sistema, ya que conecta con movimientos, condiciones y alertas.
 
 - **Condiciones**
-Almacena las lecturas de sensores IoT relacionadas a insumos (temperatura, humedad). Proporciona un historial verificable que 
-respalda auditorías y certificaciones.
+  Almacena las lecturas de sensores IoT relacionadas a insumos (temperatura, humedad). Proporciona un historial verificable que
+  respalda auditorías y certificaciones.
 
 - **Movimientos**
-Registra entradas, salidas y transferencias de insumos. Cada operación queda asociada a un usuario y a un momento específico en 
-el tiempo, lo que permite reconstruir el historial de un insumo.
+  Registra entradas, salidas y transferencias de insumos. Cada operación queda asociada a un usuario y a un momento específico en
+  el tiempo, lo que permite reconstruir el historial de un insumo.
 
 - **Alertas**
-Centraliza las notificaciones relacionadas con riesgos operativos: caducidad próxima, condiciones fuera de rango o stock bajo. 
-Permite a los responsables actuar de manera preventiva y mantener la continuidad de las operaciones.
+  Centraliza las notificaciones relacionadas con riesgos operativos: caducidad próxima, condiciones fuera de rango o stock bajo.
+  Permite a los responsables actuar de manera preventiva y mantener la continuidad de las operaciones.
 
 
 Diagrama de Base de datos
@@ -860,7 +1059,7 @@ Diagrama de Base de datos
 <img src="/assets/assets/chapter-4/database-design/databasediagram.png" alt="database-diagram" style="height:500px;">
 </p>
 
-El diagrama de clases para este proyecto se puede encontrar en el 
+El diagrama de clases para este proyecto se puede encontrar en el
 documento [docs/database-diagram.puml](docs/database-diagram.puml).
 
 ## Capítulo V: Product Implementation, Validation & Deployment
@@ -907,43 +1106,43 @@ El proyecto adoptará las convenciones del modelo GitFlow como esquema principal
 Para el desarrollo del proyecto se seguirá el modelo de ramas propuesto por Vincent Driessen en “A successful Git branching model”.
 **Estructura de ramas**
 1. **Rama principal (Main branch):**
-Corresponde al núcleo del proyecto y almacenará únicamente versiones estables y definitivas de la aplicación. Los cambios que lleguen a esta rama deberán haber sido previamente probados y validados en ramas de desarrollo o prueba.
+   Corresponde al núcleo del proyecto y almacenará únicamente versiones estables y definitivas de la aplicación. Los cambios que lleguen a esta rama deberán haber sido previamente probados y validados en ramas de desarrollo o prueba.
 
 2. **Rama de desarrollo (Development branch):**
-Será el espacio destinado a concentrar los avances colectivos del equipo, manteniendo los archivos centrales del desarrollo en curso. Apartir de esta rama se crearán otras ramas para desarrollo individual para posterior merge.
+   Será el espacio destinado a concentrar los avances colectivos del equipo, manteniendo los archivos centrales del desarrollo en curso. Apartir de esta rama se crearán otras ramas para desarrollo individual para posterior merge.
 #### 5.1.3. Source Code Style Guide & Conventions
 - Estructura de Archivos
-Usa la convención kebab-case para nombres de archivos y carpetas (my-component.vue).
-Mantén los componentes en la carpeta src/components.
-Archivos principales: App.vue, main.js, index.html.
+  Usa la convención kebab-case para nombres de archivos y carpetas (my-component.vue).
+  Mantén los componentes en la carpeta src/components.
+  Archivos principales: App.vue, main.js, index.html.
 - Sintaxis Vue
-Usa la sintaxis ´script setup´ para componentes Vue 3. Un solo componente por archivo .vue. Orden de secciones: template, script, style.
+  Usa la sintaxis ´script setup´ para componentes Vue 3. Un solo componente por archivo .vue. Orden de secciones: template, script, style.
 - Estilo de Código JavaScript
-Usa const y let en vez de var. Usa arrow functions cuando sea posible. Indentación de 2 espacios. Punto y coma al final de cada sentencia. Nombres de variables y funciones en camelCase.
+  Usa const y let en vez de var. Usa arrow functions cuando sea posible. Indentación de 2 espacios. Punto y coma al final de cada sentencia. Nombres de variables y funciones en camelCase.
 - Estilo de Código CSS/Tailwind
-Usa clases utilitarias de TailwindCSS en el template. Para estilos personalizados, usa style scoped en los componentes. Prefiere clases sobre estilos en línea.
+  Usa clases utilitarias de TailwindCSS en el template. Para estilos personalizados, usa style scoped en los componentes. Prefiere clases sobre estilos en línea.
 #### 5.1.4. Software Deployment Configuration
 **Despliegue de la Landing Page**
 
-Para desplegar la landing page se deben cumplir algunos requisitos previos:  
-- Contar con una **cuenta personal en GitHub**.  
-- Disponer de una **organización**.  
-- Tener un **repositorio** donde alojar los archivos del proyecto.  
+Para desplegar la landing page se deben cumplir algunos requisitos previos:
+- Contar con una **cuenta personal en GitHub**.
+- Disponer de una **organización**.
+- Tener un **repositorio** donde alojar los archivos del proyecto.
 
 **Pasos para el despliegue:**
 
-1. Crear una carpeta llamada **`docs`** que contendrá la landing page.  
-2. Asegurar que los archivos cumplan con la siguiente convención de nombres:  
-   - `index.html` → página principal.  
-   - `style.css` → hoja de estilos.  
-   - `assets/` → carpeta que almacena las imágenes. 
-   - `src/` → carpeta del proyecto landing page
+1. Crear una carpeta llamada **`docs`** que contendrá la landing page.
+2. Asegurar que los archivos cumplan con la siguiente convención de nombres:
+    - `index.html` → página principal.
+    - `style.css` → hoja de estilos.
+    - `assets/` → carpeta que almacena las imágenes.
+    - `src/` → carpeta del proyecto landing page
 
-3. Subir todos los archivos al repositorio en GitHub.  
-4. Ingresar a **Settings > Pages** dentro del repositorio.  
-5. Seleccionar la rama que contiene el proyecto (generalmente `main` o `master`).  
-6. Indicar la carpeta **`/root`** como fuente de la página.  
-7. Esperar a que GitHub realice las validaciones automáticas. 
+3. Subir todos los archivos al repositorio en GitHub.
+4. Ingresar a **Settings > Pages** dentro del repositorio.
+5. Seleccionar la rama que contiene el proyecto (generalmente `main` o `master`).
+6. Indicar la carpeta **`/root`** como fuente de la página.
+7. Esperar a que GitHub realice las validaciones automáticas.
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
@@ -1084,20 +1283,20 @@ Code reviews mediante pull requests en GitHub
 Comunicación continua en el canal de Discord del equipo
 ## Conclusiones
 
-El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y 
-metodologías de diseño centradas en el usuario al contexto de aplicaciones web modernas. A través de la definición de 
-antecedentes y problemática, el diseño de la guía de estilos, la construcción del modelo de base de datos y la 
-elaboración de Impact Mapping, se logró estructurar una solución orientada a la trazabilidad, seguridad y eficiencia 
+El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y
+metodologías de diseño centradas en el usuario al contexto de aplicaciones web modernas. A través de la definición de
+antecedentes y problemática, el diseño de la guía de estilos, la construcción del modelo de base de datos y la
+elaboración de Impact Mapping, se logró estructurar una solución orientada a la trazabilidad, seguridad y eficiencia
 en la gestión de inventarios de laboratorio.
 
-La utilización del framework Vue junto con lineamientos de Material Design y componentes de PrimeVue garantiza no solo 
-la consistencia visual, sino también la escalabilidad y mantenibilidad de la aplicación. Asimismo, la incorporación 
-de prácticas como el Needfinding, User Personas e Impact Mapping permitió vincular los objetivos de negocio con las 
-necesidades reales de los usuarios, asegurando que la propuesta tecnológica responda a un entorno colaborativo, 
+La utilización del framework Vue junto con lineamientos de Material Design y componentes de PrimeVue garantiza no solo
+la consistencia visual, sino también la escalabilidad y mantenibilidad de la aplicación. Asimismo, la incorporación
+de prácticas como el Needfinding, User Personas e Impact Mapping permitió vincular los objetivos de negocio con las
+necesidades reales de los usuarios, asegurando que la propuesta tecnológica responda a un entorno colaborativo,
 inclusivo y alineado con los criterios de calidad de software.
 
-En este sentido, el proyecto no solo refuerza las competencias técnicas de construcción de aplicaciones web, 
-sino que también fomenta la capacidad de planificar, liderar y colaborar en equipo bajo una perspectiva académica 
+En este sentido, el proyecto no solo refuerza las competencias técnicas de construcción de aplicaciones web,
+sino que también fomenta la capacidad de planificar, liderar y colaborar en equipo bajo una perspectiva académica
 y profesional.
 
 ## Bibliografía
