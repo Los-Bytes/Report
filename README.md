@@ -406,6 +406,51 @@ Frente a ello, **LabIoT** plantea las siguientes estrategias y tácticas:
 - Brindar soporte especializado y capacitación para reducir la resistencia al cambio tecnológico.
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+Segmento 1: Laboratorios de investigación 
+
+¿Cómo gestionan actualmente el inventario de insumos y materiales en su laboratorio? 
+
+¿Qué dificultades enfrentan con el conteo manual o el control manual del inventario? 
+
+¿Cuáles son los riesgos o problemas asociados a errores en el manejo del inventario? 
+
+¿Qué tipo de artículos o materiales requieren monitoreo especial (p.ej. temperatura, humedad)? 
+
+¿Qué importancia tiene para ustedes la automatización y el monitoreo en tiempo real del inventario? 
+
+¿Han utilizado antes tecnologías como RFID, códigos QR o sensores inteligentes en su gestión? 
+
+¿Qué funcionalidades considerarían imprescindibles en una plataforma como LabioT? 
+
+¿Qué tipo de alertas o notificaciones serían útiles para un monitoreo eficiente? 
+
+¿Cuáles son las normativas o medidas de seguridad que deben cumplir y cómo afectan su gestión de inventarios? 
+
+¿Qué expectativas tienen sobre la integración de tecnologías IoT en su flujo de trabajo diario? 
+
+ 
+
+Segmento 2: Empresas proveedoras de insumos y materiales para laboratorios 
+
+¿Cómo realizan el seguimiento y control de los productos que distribuyen a laboratorios? 
+
+¿Qué desafíos encuentran en asegurar la correcta identificación y estado de los productos durante su almacenamiento y envío? 
+
+¿Actualmente utilizan etiquetas RFID, códigos QR o tecnologías similares para la gestión de inventarios? 
+
+¿Qué importancia tiene para su empresa garantizar que los productos cumplan con las medidas de seguridad exigidas por laboratorios? 
+
+¿Qué retos enfrentan para escalar o automatizar el control de inventarios? 
+
+¿Qué funcionalidades desearían que una plataforma de gestión de inventarios IoT les ofreciera? 
+
+¿Cómo manejan las alertas relacionadas con condiciones críticas como temperatura o almacenamiento inadecuado? 
+
+¿Qué tipo de reportes o información en tiempo real necesitan para tomar decisiones operativas? 
+
+¿Cuáles son las expectativas sobre la integración de sistemas IoT para mejorar la eficiencia y seguridad en sus procesos? 
+
+¿Qué apoyo o capacitación consideran necesario para adoptar una solución tecnológica como LabioT? 
 #### 2.2.2. Registro de entrevistas
 En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
 ##### Segemento 1- Entrevista 1: Investigadores responsables de laboratorios
