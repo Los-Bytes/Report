@@ -348,6 +348,26 @@ El impacto se refleja en:
 ##### 1.2.2.3. Lean UX Hyphotesis Statements
 
 ### 1.3 Segmentos Objetivo
+### Segmento objetivo #1: Investigadores líderes o responsables de laboratorios de investigación  
+Este grupo está conformado por profesionales que dirigen o coordinan laboratorios en instituciones académicas, científicas o tecnológicas. Su función involucra la supervisión de equipos de trabajo, la gestión de insumos y equipos especializados, y la toma de decisiones en torno a la compra y uso de materiales necesarios para el desarrollo de proyectos de investigación.
+
+**Características clave de este segmento:**  
+- Buscan optimizar la gestión y control de inventarios para evitar pérdidas o interrupciones en sus proyectos.  
+- Valoran sistemas que mejoren la precisión y eficiencia en el seguimiento de insumos.  
+- Requieren soluciones tecnológicas que garanticen integridad y trazabilidad en los materiales utilizados.  
+- Se interesan por herramientas que reduzcan el tiempo dedicado a tareas administrativas.
+
+---
+
+### Segmento objetivo #2: Supervisores comerciales o jefes de compras en empresas proveedoras de insumos de laboratorio  
+Este grupo está conformado por profesionales encargados de gestionar el abastecimiento, la relación con clientes institucionales y la negociación con proveedores de equipos e insumos científicos. Su labor se centra en asegurar la disponibilidad, calidad y entrega oportuna de materiales a los laboratorios.
+
+**Características clave de este segmento:**  
+- Buscan sistemas que mejoren la trazabilidad y control de los productos entregados a sus clientes.  
+- Valoran la automatización y precisión en el monitoreo del stock.  
+- Necesitan información en tiempo real para optimizar la cadena de suministro.  
+- Se interesan por plataformas que faciliten la comunicación y el cumplimiento de requerimientos de los laboratorios.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
