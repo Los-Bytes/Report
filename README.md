@@ -1033,6 +1033,9 @@ Link para ver Web Applications User Flow Diagrams: https://miro.com/welcomeonboa
 #### 4.6.4. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+El diagrama de clases presenta una representación visual clara de las clases que componen LabIoT, detallando sus atributos principales y las relaciones que existen entre ellas. Estos diagramas son fundamentales para entender la estructura interna de LabIoT, facilitando la comprensión de cómo interactúan los diferentes componentes del sistema, desde la gestión de usuarios, inventarios, suscripciones, hasta el monitoreo con sensores IoT y alertas en tiempo real. La representación gráfica permite identificar fácilmente los roles y responsabilidades de cada clase, así como la arquitectura general del sistema, siendo un recurso esencial para el diseño y desarrollo eficiente de LabIoT.
+
+<img src="assets/assets/chapter-4/class-diagram-labiot alt="">
 ### 4.8. Database Design
 
 La base de datos constituye el núcleo de la solución LabIoT, ya que concentra la información que permite la gestión eficiente de
