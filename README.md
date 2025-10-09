@@ -685,7 +685,14 @@ El siguiente glosario detalla los términos clave de LabIoT y su dominio.
 
 
 ### 3.2. Impact Mapping
+En el Impact Mapping se define un objetivo de negocio claro y específico, como mejorar el acceso a servicios de laboratorio y supervisores. Se identifican los usuarios clave, y se establecen los impactos deseados para mejorar la experiencia y eficiencia del servicio. Finalmente, se derivan las User Stories que guían el desarrollo de funcionalidades prioritarias alineadas con el objetivo comercial.
+
+<img src="assets/assets/chapter-3/impact-map-labiot.png" width=max>
+
 ### 3.3. Product Backlog
+El Product Backlog es una lista dinámica y priorizada que contiene todas las tareas y funcionalidades necesarias para desarrollar la plataforma web de laboratorios. A partir de las User Stories definidas en el Impact Mapping, el backlog organiza el trabajo del equipo de desarrollo, asegurando que se construyan características clave como reserva de citas en línea, gestión de resultados y comunicación entre pacientes y laboratorios, para cumplir con el objetivo de negocio.
+
+<img src="assets/assets/chapter-3/product-backlog-labiot.png" width=max>
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
