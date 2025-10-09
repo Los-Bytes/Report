@@ -203,7 +203,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <th colspan="2"> Alexander Auden Aliaga Ocampo </th>
   </tr>
   <tr>
-    <td> <img src="assets/assets/chapter-1/alexanderaliaga.jpg" width=300px> </td>
+    <td> <img src="assets/assets/chapter-1/Alex.jpg" width=300px> </td>
     <td> Soy estudiante de ingeniería de software en la UPC, con conocimientos básicos en los lenguajes de programación como c++, python , css, html, javascript también conocimientos básicos en base de datos viendo Mongo DB y creando diagramas relaciones como no relacionales. Además poseo habilidades de empatía y buena comunicación con el equipo esto me permite ser productivo en el ámbito de grupos y en general. </td>
   </tr>
 <tr>
