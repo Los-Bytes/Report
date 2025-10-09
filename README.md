@@ -30,12 +30,34 @@
 
 | Versión | Fecha      | Autor                                            | Descripción de modificación |
 |---------|------------|--------------------------------------------------|-----------------------------|
-| 0.1     | 21/09/2025 | Todos los integrantes                            | Primer sprint TB1           |
+| 1.0     | 21/09/2025 | Todos los integrantes                            | Primer sprint TB1           |
+| 1.1     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |   URL del repositorio del reporte   |
 |:-----------------------------------:|:-----------------------------------:|
 |   https://github.com/Los-Bytes      | https://github.com/Los-Bytes/Report |
+
+|           URL del Landing Page            |            URL del Fronted Web Application            |
+|:-----------------------------------------:|:-----------------------------------------------------:|
+| https://github.com/Los-Bytes/LanfingPage  | https://github.com/Los-Bytes/FrontendWebApplications  |
+
+### Entrega TB1
+
+| Insights Report                                                                      | Insights Landing Page                                                                      |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura Landing Page](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
+
+---
+
+### Entrega TP
+
+| Insights Report                                                                      | Insights Landing Page                                                                      | Insights FrontEnd                                                                      |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura Landing Page](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura FrontEnd](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
+
+---
+
 
 ## Contenido
 
@@ -124,6 +146,15 @@
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+          - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -150,31 +181,42 @@ del ABET – EAC - Student Outcome 5.
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td> Crsthian Joel Huanca Zevallos  
+    <td> 
+    Cristhian Joel Huanca Zevallos  
     <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
-    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida. 
+    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
+    <br> TP: Colaboré activamente en el desarrollo del bounded context de User Profile, coordinando con el 
+    equipo las decisiones de diseño y la integración del frontend, brindando liderazgo técnico y apoyo en la 
+    resolución de incidencias durante el desarrollo.
     <br><br>
     Gabriel Alcantara Baldeon  
     <br> TB1: Añadí y desarrollé la sección  Lean UX Canvas, la  Estrategias y tácticas frente a competidores, 
-    y las secciones  Labeling Systems,  SEO Tags and Meta Tags, y  Searching Systems, asegurando coherencia y estandarización con el resto del documento.
+    y las secciones  Labeling Systems,  SEO Tags and Meta Tags, y  Searching Systems, asegurando coherencia y 
+    estandarización con el resto del documento.
     </td>
     <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.  
     <br><br>
-    La integración de estas secciones permitió un documento más estructurado y consistente, fortaleciendo el liderazgo compartido en la elaboración del informe.</td>
+    La integración de estas secciones permitió un documento más estructurado y consistente, fortaleciendo el liderazgo 
+    compartido en la elaboración del informe.</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>Crsthian Joel Huanca Zevallos  
+    <td>
+    Cristhian Joel Huanca Zevallos  
     <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, 
-    estableciendo metas claras y fomentando la participación. 
+    estableciendo metas claras y fomentando la participación.
+    <br> TP: Participé en la planificación de tareas y metas del proyecto, apoyando en las actualizaciones del report 
+    y fomentando un ambiente colaborativo para cumplir con los entregables del equipo de forma organizada y efectiva.
     <br><br>
     Gabriel Alcantara Baldeon  
-    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
+    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, 
+    sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
     </td>
     <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo 
     y organizado.  
     <br><br>
-    El trabajo organizado y la integración de mis aportes facilitaron cumplir con los objetivos planteados, garantizando un entorno colaborativo donde cada aporte reforzó el producto final.</td>
+    El trabajo organizado y la integración de mis aportes facilitaron cumplir con los objetivos planteados, garantizando 
+    un entorno colaborativo donde cada aporte reforzó el producto final.</td>
   </tr>
 </table>
 
@@ -473,52 +515,92 @@ Segmento 2: Empresas proveedoras de insumos y materiales para laboratorios
 ¿Qué apoyo o capacitación consideran necesario para adoptar una solución tecnológica como LabioT? 
 #### 2.2.2. Registro de entrevistas
 En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
-##### Segemento 1- Entrevista 1: Investigadores responsables de laboratorios
-Nombre: Alfonso Chang <br>
-Ocupación: Investigador jefe retirado de laboratorio de SENASA <br>
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv <br>
-<img src="assets/assets/chapter-2/entrevista-1.png" alt="">
-Instante en el que inicia: 0:00 <br>
-Duración: 10:04 minutos<br>
-Resumen: El investigador, con amplia experiencia en laboratorios de investigación agrícola, valora la integración de tecnologías IoT para modernizar la gestión de laboratorios. Destaca cómo el uso de códigos QR, sensores y dispositivos IoT permite monitorizar en tiempo real condiciones ambientales y procesos dentro del laboratorio, facilitando un control más preciso y confiable. Resalta que un sistema web centralizado para manejar estas tecnologías mejora la eficiencia operativa, reduce errores manuales y agiliza la toma de decisiones. También nos comenta que en su trabajo la mayoría de tareas que tengan que ver con gestión de inventarios o monitoreos generalmente siempre se hacían con herramientas básicas de ofimatica como excel y que los insumos siempre tienen que cumplir con estrictas medidas y reglas para controlar su calidad y evitar alteraciones en su composición.
+##### *Segemento 1: Laboratorios de investigación y Investigadores responsables de laboratorios*
+###### Entrevista 1: Investigadores responsables de laboratorios
 
-### Segemento 1- Entrevista 2: Laboratorios de investigación
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Alfonso Chang <br>
+      <b>Edad: </b> 50 años <br>
+      <b>Distrito:</b> San Miguel <br>
+      <b>Ocupacion:</b> Investigador jefe retirado de laboratorio de SENASA <br>
+      <b>Timing:</b> 0:00 minutos <br>
+      <b>Duración:</b> 10:04 minutos
+    </td>
+    <td align=center>
+      <img src="assets/assets/chapter-2/entrevista-1.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d637_upc_edu_pe/EaFj2S5q7RtEtg_r7xd_4JEBZ4kbq9hYPrwAlS4cuNNKDQ?e=4ZYAAv"> Link </a>
+      <br>
+      <b>Resumen:</b> El investigador, con amplia experiencia en laboratorios de investigación agrícola, valora la integración de tecnologías IoT para modernizar la gestión de laboratorios. Destaca cómo el uso de códigos QR, sensores y dispositivos IoT permite monitorizar en tiempo real condiciones ambientales y procesos dentro del laboratorio, facilitando un control más preciso y confiable. Resalta que un sistema web centralizado para manejar estas tecnologías mejora la eficiencia operativa, reduce errores manuales y agiliza la toma de decisiones. También nos comenta que en su trabajo la mayoría de tareas que tengan que ver con gestión de inventarios o monitoreos generalmente siempre se hacían con herramientas básicas de ofimatica como excel y que los insumos siempre tienen que cumplir con estrictas medidas y reglas para controlar su calidad y evitar alteraciones en su composición.
+    </td>
+  </tr>
+</table>
 
-<img src="assets/assets/chapter-2/entrevista1.png" alt="">
+###### Entrevista 2:  Laboratorios de investigación
 
-**Nombre y apellido:** Luana Huayanay  
-**Edad:** 24  
-**Ocupación:** Practicante  
-**Duración:** 7:56 minutos
-
-#### Resumen:
-Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan.
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Luana Huayanay  <br>
+      <b>Edad: </b> 24 años <br>
+      <b>Distrito:</b> San Miguel <br>
+      <b>Ocupacion:</b> Practicante <br>
+      <b>Timing:</b> 0:00 minutos <br>
+      <b>Duración:</b> 07:56 minutos
+    </td>
+    <td align=center>
+      <img src="assets/assets/chapter-2/entrevista-2.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/personal/u202022056_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022056%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%201%5F%20app%20web%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed2f63370%2D0166%2D4c43%2Dae85%2D4cb90ba0d12f"> Link </a>
+      <br>
+      <b>Resumen:</b> Luana nos comenta que la manera de como controla su registro es a través de Excel, además que al registrarlo de esta manera se pierde mucho tiempo, y que a veces se olvidan de registrar por lo que generar desorden y retrasos con las prácticas y experimentos que realizan.
 
 También nos comentan las funciones que son necesarias para una plataforma como Labiot son tener un registró automático de entradas y salidas, tener un monitoreo de temperaturas, tener un historial de cada material. además, nos cuenta los tipos de notificaciones que necesita para tener un mayor control y monitoreo es saber la fecha de vencimiento de sus reactivos o medicamentos, también tener alertas ante cualquier variación en la temperatura parar sus congeladores, tener alertas para recordar revisar su inventario, saber con qué insumos están trabajando y para ver cuáles son los insumos que quedan disponibles, además de un aviso por si un refrigerador se abre fuera del horario autorizado.
 
 Luana comento que las normativas que cumple es registrar todo los equipos y insumos, asegurar la conservación adecuada de sus materiales.
 
 Luana resalta que las tecnologías IoT podrían facilitar su trabajo al permitir visualizar rápidamente datos clave como conocer el stock de sus medicamentos, conocer el estado de los refrigeradores o si es que se venció algún reactivo que utilizan para sus experimentos, además ayudaría a reducir los errores humanos que tenemos y con la facilidad de poder organizar y tener todo más seguro.
+    </td>
+  </tr>
+</table>
 
-**Link:** [Eupc-pre-202520-1asi0730-7454-labIoT- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/personal/u202022056_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022056%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%201%5F%20app%20web%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed2f63370%2D0166%2D4c43%2Dae85%2D4cb90ba0d12f)
+###### Entrevista 3: Laboratorios de investigación
 
-### Segemento 1- Entrevista 3: Laboratorios de investigación
 
-<img src="assets/assets/chapter-2/entrevista2.png" alt="">
-
-**Nombre y apellido:** Erick Lucio Sulca  
-**Edad:** 22
-**Ocupación:** Practicante  
-**Duración:** 4:41 minutos
-
-#### Resumen:
-Erick nos comenta que actualmente gestiona sus registros mediante Excel, método que le resulta tedioso debido al tiempo que consume esta tarea manual. Además, señala que este sistema propicia el desperdicio de algunos suministros y reactivos.
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Erick Lucio Sulca <br>
+      <b>Edad: </b> 22 años <br>
+      <b>Distrito:</b> San Miguel <br>
+      <b>Ocupacion:</b> Practicante <br>
+      <b>Timing:</b> 0:00 minutos <br>
+      <b>Duración:</b> 04:41 minutos
+    </td>
+    <td align=center>
+      <img src="assets/assets/chapter-2/entrevista-3.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/personal/u202022056_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022056%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista2web%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8adf3607%2D453c%2D4604%2Db892%2Df3a55fdb91e4"> Link </a>
+      <br>
+      <b>Resumen:</b> Erick nos comenta que actualmente gestiona sus registros mediante Excel, método que le resulta tedioso debido al tiempo que consume esta tarea manual. Además, señala que este sistema propicia el desperdicio de algunos suministros y reactivos.
 
 Destaca que sería muy valioso que la plataforma integre funcionalidades de monitoreo de sensores de temperatura para disminuir el riesgo de pérdida de materiales. Erick considera que la implementación de un programa especializado ayudaría significativamente a reducir tanto la carga laboral como el tiempo invertido en el registro de insumos.
+    </td>
+  </tr>
+</table>
 
-**Link:** [upc-pre-202520-1asi0730-7454-labIoT- needfinding2-sprint-1](https://upcedupe-my.sharepoint.com/personal/u202022056_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022056%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista2web%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8adf3607%2D453c%2D4604%2Db892%2Df3a55fdb91e4)
-
-##### Segemento 2: Supervisores de empresas
+##### *Segemento 2: Supervisores de empresas*
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -1355,6 +1437,17 @@ Revisiones constantes del diseño en Figma con comentarios de todos los integran
 Code reviews mediante pull requests en GitHub
 
 Comunicación continua en el canal de Discord del equipo
+
+#### 5.2.2. Sprint 2
+##### 5.2.2.1. Sprint Planning 2
+##### 5.2.2.2. Aspect Leaders and Collaborators
+##### 5.2.2.3. Sprint Backlog 2
+##### 5.2.2.4. Development Evidence for Sprint Review
+##### 5.2.2.5. Execution Evidence for Sprint Review
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
 ## Conclusiones
 
 El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y
@@ -1381,20 +1474,14 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 
 ## Anexos
 
-**Repositorio en GitHub - BookMe (Prisma) - Documento:**<br>
+- **Link de la organización de GitHub:** https://github.com/Los-Bytes
+- **Link del repositorio del reporte:** https://github.com/Los-Bytes/Report
+- **Link del repositorio de landing page:** https://github.com/Los-Bytes/LanfingPage
+- **Link de la landing page desplegada:** https://marcelomazuelos.github.io/LabIoT-Landing-Page
+- **Link del Fronted Web Applications:** https://github.com/Los-Bytes/FrontendWebApplications
+- **Link del trello:** https://trello.com/b/ZBxZUO8q/labiot
 
-https://github.com/Los-Bytes/Report
+- **Url Video Exposicion TB1:**
+- **Url Video Exposicion TP:** 
 
-**Repositorio en GitHub - BookMe (Prisma) - Landing Page**<br>
 
-https://github.com/MarceloMazuelos/LabIoT-Landing-Page/
-
-**Url Deployment Github Pages - BookMe (Prisma) - Landing Page**<br>
-
-https://marcelomazuelos.github.io/LabIoT-Landing-Page/
-
-**Url Video Exposicion TB1:**
-
-**Cuentas de GitHub de los Integrantes:**<br>
-
-Marcelo Mazuelos - @MarceloMazuelos
