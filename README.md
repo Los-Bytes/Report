@@ -1384,7 +1384,7 @@ En relación al EP-02 de la interacción con la Landing Page
 | 1 | US-05 | Como usuario quiero poder entrar a la Landing Page y visualizarla correctamente | Marcelo Mazuelos |
 | 1 | US-06 | Como usuario quiero entrar a la Landing Page y poder leer todo su contenido e información general sobre el producto | Marcelo Mazuelos |
 | 1 | US-07 | Como usuario quiero poder encontrar la manera de realizar la acción deseada y ofrecida por el producto, en este caso, encontrar el botón que me llevará al registro o uso del aplicativo sin mayor esfuerzo | Marcelo Mazuelos |
-| 1 | YUS-08 | Como usuario quiero poder ver traducida la página web según necesite | Marcelo Mazuelos |
+| 1 | US-08 | Como usuario quiero poder ver traducida la página web según necesite | Marcelo Mazuelos |
 ##### 5.2.1.4. Development Evidence for Sprint Review
 Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de LabIoT, cumpliendo con los objetivos de presentar de manera clara y atractiva los servicios de la plataforma. A continuación, se detalla la evidencia del desarrollo:
 
@@ -1450,13 +1450,123 @@ Comunicación continua en el canal de Discord del equipo
 
 #### 5.2.2. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2
+En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 2, iniciado el 29/09/2025, tiene como propósito desarrollar los bounded context respectivos para cada integrante del equipo:
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 2</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-09-29</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión presencial en la Universidad Peruana de Ciencias Aplicadas</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Christian Joel Huanca Zevallos</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Cristhian Joel Huanca Zevallos<br>Marcelo Alessandro Mazuelos Callirgos<br>Alicia Avril Navarro Chang<br>Alexander Auden Aliaga Ocampo<br>Andre Pillaca Velasquez</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1">
+      Debido a la falta de compromiso y responsabilidad de los integrantes, varias secciones del informe no fueron ejecutadas correctamente o no fueron realizadas.
+      </td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1">Por mejorar:<br>
+      - Actualizar Database Diagram<br>
+      - Actualizar User Persona<br>
+      - Actualizar Terminología e idioma del documento<br>
+      - Agregar partes faltantes<br>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Goal</b></td>
+      <td colspan="1"><b>Our focus is on</b> developing the main functional bounded contexts of the LabIoT platform — including User Profile, Laboratory Inventory Management, Subscription Management, Reports & Laboratory Analysis, Alerts & Notifications, and Laboratory Management — to transition from a static landing page to a modular and interactive application <br><b>We believe it delivers</b> a foundational structure that allows users to interact with core modules such as user registration, inventory tracking, and report visualization, improving usability, system organization, and future scalability.<br><b>This will be confirmed when</b> each bounded context is accessible through navigation, displays and manages its own data correctly (CRUD operations), and the system demonstrates integration between front-end modules and the mock backend (JSON server).</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Velocity</b></td>
+      <td colspan="1">18</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">12</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
 ##### 5.2.2.2. Aspect Leaders and Collaborators
+Para este Sprint se han establecido los aspectos esenciales relacionados con el desarrollo de la landing page de Utime. Con el propósito de optimizar la organización y la comunicación del equipo, se diseñó la matriz Leadership and Collaboration Matrix (LACX), en la cual se especifica quién desempeña el rol de Líder (L) y quiénes intervienen como Colaboradores (C) en cada uno de estos puntos clave. Esta asignación contribuye a una gestión más clara y a una ejecución más eficiente de las tareas encomendadas.
+
+| **Team Member** | **GitHub Username** | **Landing Page** |
+|---------------------------------------------------|---------------------|---------------|
+| Cristhian Joel Huanca Zevallos | JoelHuancaZevallos | L |
+| Marcelo Alessandro Mazuelos Callirgos | MarceloMazuelos | C |
+| Andre Pillaca Velasquez | Andreeeee1234 | C |
+| Alicia Avril Navarro Chang | Alice-keys | C |
+| Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
+
 ##### 5.2.2.3. Sprint Backlog 2
+En relación de los EP-01 - EP-05:
+| **Sprint #** | **User Story ID** | **User Story Description** | **Task Assigned** |
+|--------------|-------------------|----------------------------|-------------------|
+| 2 | US-01 | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos para poder gestionar y consultar mis datos fácilmente. | Cristhian Huanca |
+| 2 | US-02 | Como usuario, quiero crear un perfil donde ingresar mi información personal para que mis datos queden registrados y pueda acceder a las funciones personalizadas del sistema. | Cristhian Huanca |
+| 2 | US-03 | Como usuario, quiero modificar la información ingresada en mi perfil para mantener mis datos actualizados y corregir cualquier error que detecte. | Cristhian Huanca |
+| 2 | US-04 | Como usuario, quiero registrar el ítem en el inventario para agilizar la identificación y el control de existencias. | Cristhian Huanca |
+| 2 | US-05 | Como usuario, quiero registrar el ítem en el inventario para agilizar la identificación y el control de existencias. | Marcelo Mazuelos |
+| 2 | US-06 | Como usuario, quiero escanear el insumo antes de utilizarlo o darlo de baja en una práctica, para llevar un control de su uso y destino. | Marcelo Mazuelos |
+| 2 | US-07 | Como usuario, quiero que el sistema actualice automáticamente el stock después de una salida o retorno, para contar siempre con datos precisos del inventario. | Marcelo Mazuelos |
+| 2 | US-08 | Como usuario, quiero que el sistema genere y muestre un historial de uso detallado para cada insumo, para poder auditar su trazabilidad y controlar inventarios. | Marcelo Mazuelos |
+| 2 | US-09 | Como usuario, quiero poder elegir entre diferentes planes de suscripción para contratar el servicio. | Alicia Navarro |
+| 2 | US-10 | Como usuario, quiero guardar mi método de pago preferido para procesar pagos recurrentes fácilmente. | Alicia Navarro |
+| 2 | US-11 | Como usuario, quiero activar un periodo de prueba para evaluar el servicio antes de pagar la suscripción completa para probar el plan a mi elección. | Alicia Navarro |
+| 2 | US-12 | Como usuario, quiero cancelar mi suscripción en cualquier momento para tener control sobre ella. | Alicia Navarro |
+
 ##### 5.2.2.4. Development Evidence for Sprint Review
+Durante el Sprint 2, el equipo se enfocó de los bounded context, solo parte del equipo colaboró con el sprint goal 2. A continuación, se detalla la evidencia del desarrollo de los integrantes:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| Los-Bytes/FrontendWebApplications | user-profile | 5f6a755 | add user profile management features with CRUD operations and routing | Implementa la estructura y funcionamiento del bounded context user-profile. | 09/10/2025 |
+| Los-Bytes/FrontendWebApplications | Laboratory-Inventory-Management | 9d84eca | feat: laboratory-inventory-management Bounded Context added | Implementa la estructura y funcionamiento del bounded context Laboratory-Inventory-Management. | 10/10/2025 |
+| Los-Bytes/FrontendWebApplications | Laboratory-Inventory-Management | 44aec31 | chore(presentation): add comments for subscription routes | Implementa la estructura y funcionamiento del bounded context subscription-management. | 10/10/2025 |
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+Durante este sprint, el equipo ejecutó la implementación de los bounded contexts planificados, incluyendo User Profile, Laboratory Inventory Management, Subscription Management, Reports and Laboratory Analysis, Alerts and Notifications Manager y Laboratory Management. Cada módulo fue desarrollado siguiendo la arquitectura modular definida, aplicando principios de Domain-Driven Design y separación por capas (domain, application, infrastructure y presentation). Se realizaron pruebas funcionales de cada vista y flujo principal, verificando el correcto funcionamiento de las operaciones CRUD, la carga dinámica de datos desde el servidor db.json, y la navegación entre los distintos módulos mediante el enrutamiento del sistema. Como resultado, se logró integrar completamente los componentes desarrollados con la interfaz principal de la plataforma LabIoT.
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Se documentaron los servicios y endpoints empleados para la comunicación entre los módulos y el servidor. Cada bounded context dispone de su propio archivo API (por ejemplo, user-profile-api.js o inventory-api.js), donde se definen las rutas base y los métodos de acceso (getAll, create, update, delete) para los recursos específicos. Asimismo, se detalló la estructura del archivo db.json, el cual actúa como fuente de datos simulada para el entorno de desarrollo. Esta documentación se complementó con la descripción de los ensambladores (assemblers), encargados de transformar las respuestas del backend en entidades de dominio, asegurando la coherencia y trazabilidad de los datos a lo largo de la aplicación.
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+La aplicación fue desplegada en un entorno local de desarrollo utilizando Vite y Node.js, integrando los servicios mediante JSON Server como backend simulado. Se configuró el archivo main.js para registrar los componentes globales de PrimeVue y los servicios de Pinia e i18n, garantizando una interfaz uniforme y responsive. El despliegue permitió la ejecución del sistema completo con sus módulos interconectados, demostrando el funcionamiento de las rutas, la persistencia de datos y la interacción entre los bounded contexts. El entorno fue validado mediante pruebas en navegador, asegurando la correcta renderización de los componentes y la navegación fluida entre las secciones del sistema LabIoT.
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante el Sprint 2, el equipo se organizó bajo una metodología colaborativa que permitió desarrollar de manera eficiente los bounded context de LabIoT. Aunque el desarrollo de cada uno de los bounded context estaba asignado a un integrante, todos los miembros del equipo participaron activamente en las etapas de planificación, revisión de diseño y toma de decisiones sobre la estructura y contenido.
+
+La colaboración se llevó a cabo principalmente a través de:
+
+Reuniones de planificación en el aula de manera presencial para definir el alcance y distribución de tareas.
+
+Comunicación continua en el canal de Discord y WhatsApp del equipo para la retroalimentación entre nosotros y colaboración en equipo.
+
+Code reviews mediante pull requests en GitHub
 
 ## Conclusiones
 
