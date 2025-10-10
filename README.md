@@ -1212,7 +1212,7 @@ Tablas principales
 Diagrama de Base de datos
 
 <p align="center">
-<img src="/assets/assets/chapter-4/database-design/databasediagram.png" alt="database-diagram" style="height:500px;">
+<img src="/assets/assets/chapter-4/database-design/database-diagram.png" alt="database-diagram" style="height:500px;">
 </p>
 
 El diagrama de clases para este proyecto se puede encontrar en el
