@@ -653,8 +653,8 @@ El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso desta
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
-<img src="assets/assets/chapter-1/user-persona1.png" alt="">
-<img src="assets/assets/chapter-1/user-persona2.png" alt="">
+<img src="assets/assets/chapter-1/2user-persona1.png" alt="">
+<img src="assets/assets/chapter-1/2user-persona2.png" alt="">
 
 #### 2.3.2. User Task Matrix
 ### User Task Matrix: Responsable de Laboratorio de Investigación (Carlos Estrada)
