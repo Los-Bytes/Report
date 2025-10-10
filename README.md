@@ -34,13 +34,13 @@
 | 1.1     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
 
 ## Project Report Collaboration Insights
-| URL de la organización del proyecto |   URL del repositorio del reporte   |
-|:-----------------------------------:|:-----------------------------------:|
-|   https://github.com/Los-Bytes      | https://github.com/Los-Bytes/Report |
+| URL de la organización del proyecto |   URL del repositorio del reporte   |            URL del Fronted Web Application            |
+|:-----------------------------------:|:-----------------------------------:|:-----------------------------------------------------:|
+|   https://github.com/Los-Bytes      | https://github.com/Los-Bytes/Report | https://github.com/Los-Bytes/FrontendWebApplications  |
 
-|           URL del Landing Page            |            URL del Fronted Web Application            |
+|           URL del Landing Page            |            URL del deployment del Landing Page            |
 |:-----------------------------------------:|:-----------------------------------------------------:|
-| https://github.com/Los-Bytes/LanfingPage  | https://github.com/Los-Bytes/FrontendWebApplications  |
+| https://github.com/MarceloMazuelos/LabIoT-Landing-Page/  | https://marcelomazuelos.github.io/LabIoT-Landing-Page/  |
 
 ### Entrega TB1
 
@@ -193,6 +193,11 @@ del ABET – EAC - Student Outcome 5.
     <br> TB1: Añadí y desarrollé la sección  Lean UX Canvas, la  Estrategias y tácticas frente a competidores, 
     y las secciones  Labeling Systems,  SEO Tags and Meta Tags, y  Searching Systems, asegurando coherencia y 
     estandarización con el resto del documento.
+    <br><br>
+    Marcelo Alessandro Mazuelos Callirgos  
+    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
+    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
+    <br> TP: Colaboré en determinar los errores del reporte y fomenté la colaboración de todos en forma de solucionarlo en grupo.
     </td>
     <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.  
     <br><br>
@@ -211,6 +216,10 @@ del ABET – EAC - Student Outcome 5.
     Gabriel Alcantara Baldeon  
     <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, 
     sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
+    <br><br>
+    Marcelo Alessandro Mazuelos Callirgos  
+    <br> TB1: Colaboré en partes de los diferentes capítulos del informe, sobre todo tomando la directiva en en Lean UX Assumptions, Identificación de competidores, su analisis y estrategias ante ellos; en la creación de los user stories, elaboración del Information Architecture, así como la elaboración de los Wireframe y los Mock-Ups de la landing page. Y realicé la elaboración del capítulo 5 y de la Landing Page.
+    <br> TP: Realicé el desarrollo del bounded context de Laboratory Inventory Management.
     </td>
     <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo 
     y organizado.  
@@ -692,12 +701,7 @@ El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso desta
 <img src="assets/assets/chapter-2/empathy_map_supplier.png" width=max>
 
 ### 2.4. Big Picture EventStorming
-<img src="assets/assets/chapter-1/step1-event-storming.jpg" alt="">
-<img src="assets/assets/chapter-1/step2-event-storming.jpg" alt="">
-<img src="assets/assets/chapter-1/step3-event-storming.jpg" alt="">
-<img src="assets/assets/chapter-1/step4-event-storming.jpg" alt="">
 
-Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 ### 2.5. Ubiquitous Language
 ### 2.4. Lenguaje Ubicuo LabIoT
 
@@ -730,12 +734,12 @@ El siguiente glosario detalla los términos clave de LabIoT y su dominio.
 
 | Epic ID | Title                               | Descripción                                                                                         |
 |---------|-----------------------------------|---------------------------------------------------------------------------------------------------|
-| EP03    | User Profile                      | **Como usuario, quiero** gestionar y personalizar mi perfil, incluyendo ingreso, modificación y carga de documentos **para** mantener mi información actualizada y accesible.   |
-| EP04    | Laboratory Inventory Management   | **Como usuario, quiero** registrar, controlar y actualizar el inventario mediante tecnologías QR/RFID, y generar historiales de uso **para** un manejo eficiente.   |
-| EP05    | Subscription Management           | **Como usuario, quiero** gestionar el proceso completo de suscripción, desde la selección y pago, hasta la activación, prueba y cancelación **para** acceder a servicios de forma flexible.       |
-| EP06    | Reports and laboratory analysis   | **Como administrador, quiero** generar reportes y visualizar métricas para analizar uso, calidad e inventario, y apoyar auditorías y mejora continua, **para** tener una visión global de la calidad del servicio.          |
-| EP07    | Alerts and Notifications Manager  | **Como administrador, quiero** configurar y recibir alertas críticas y notificaciones para supervisar condiciones y estados del laboratorio que permitan respuestas inmediatas.|
-| EP08    | Laboratory Management             | **Como inspector o coordinador, quiero** seleccionar y administrar laboratorios y productos, así como controlar inspecciones para garantizar la calidad y trazabilidad, **para** gestionar el laboratorio correctamente.     |
+| EP01    | User Profile                      | **Como usuario, quiero** gestionar y personalizar mi perfil, incluyendo ingreso, modificación y carga de documentos **para** mantener mi información actualizada y accesible.   |
+| EP02    | Laboratory Inventory Management   | **Como usuario, quiero** registrar, controlar y actualizar el inventario mediante tecnologías QR/RFID, y generar historiales de uso **para** un manejo eficiente.   |
+| EP03    | Subscription Management           | **Como usuario, quiero** gestionar el proceso completo de suscripción, desde la selección y pago, hasta la activación, prueba y cancelación **para** acceder a servicios de forma flexible.       |
+| EP04    | Reports and laboratory analysis   | **Como administrador, quiero** generar reportes y visualizar métricas para analizar uso, calidad e inventario, y apoyar auditorías y mejora continua, **para** tener una visión global de la calidad del servicio.          |
+| EP05    | Alerts and Notifications Manager  | **Como administrador, quiero** configurar y recibir alertas críticas y notificaciones para supervisar condiciones y estados del laboratorio que permitan respuestas inmediatas.|
+| EP06    | Laboratory Management             | **Como inspector o coordinador, quiero** seleccionar y administrar laboratorios y productos, así como controlar inspecciones para garantizar la calidad y trazabilidad, **para** gestionar el laboratorio correctamente.     |
 
 ## User Stories
 | User Story ID | Título               | Descripción                            | Criterios de aceptación                  | Épica                 |
@@ -866,7 +870,6 @@ En conjunto, estas guías aseguran que la experiencia digital sea consistente, f
 visual definida en las guías generales.
 
 ### 4.2. Information Architecture
-#### 4.2.1. Organization Systems
 #### 4.2.1. Organization Systems
 1. Organization Scheme (Esquema de organización)
 - Temático/Funcional: la información se organiza según las funciones principales del sistema:
@@ -1137,6 +1140,13 @@ Link para ver Web Applications User Flow Diagrams: https://miro.com/welcomeonboa
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Design-Level EventStorming
+<img src="assets/assets/chapter-1/step1-event-storming.jpg" alt="">
+<img src="assets/assets/chapter-1/step2-event-storming.jpg" alt="">
+<img src="assets/assets/chapter-1/step3-event-storming.jpg" alt="">
+<img src="assets/assets/chapter-1/step4-event-storming.jpg" alt="">
+
+Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
+
 #### 4.6.2. Software Architecture Context Diagram
 El diagrama de contexto presenta una representación visual clara del entorno y los límites de LabIoT, detallando los actores externos y los sistemas con los que interactúa (usuarios, pasarela de pago, OrderSystem, Email System y dispositivos IoT). Estos diagramas son fundamentales para entender qué partes pertenecen al sistema y qué dependencias externas existen, además de mostrar los canales de comunicación (HTTP/JSON, SMTP, protocolos IoT). La representación gráfica facilita identificar los puntos de integración, los flujos de información principales y el alcance funcional del sistema, siendo un recurso esencial para alinear a stakeholders y definir responsabilidades a alto nivel en LabIoT.
 
@@ -1345,7 +1355,7 @@ En el marco de Scrum, un Sprint corresponde a un período corto y definido en el
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sprint 1 Goal</b></td>
-      <td colspan="1"><b>Our focus is on</b> creating an attractive and fully functional landing page for LabIoT.<br><b>We believe it delivers</b> a clear presentation of the platform’s features and benefits, building trust and interest among potential users.<br><b>This will be confirmed when</b> visitors can easily explore and interact with all main sections of the landing page on both desktop and mobile devices.</td>
+      <td colspan="1"><b>Our focus is on</b> making users register and use our platform by creating a fully functional landing page for LabIoT to show its potential and value for their laboratories.<br><b>We believe it delivers</b> a clear presentation of the platform’s features and benefits, building trust and interest among potential users.<br><b>This will be confirmed when</b> visitors can easily explore and interact with all main sections of the landing page and find themselves willing to use our product on both desktop and mobile devices.</td>
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
@@ -1376,7 +1386,7 @@ En relación al EP-02 de la interacción con la Landing Page
 | 1 | US-07 | Como usuario quiero poder encontrar la manera de realizar la acción deseada y ofrecida por el producto, en este caso, encontrar el botón que me llevará al registro o uso del aplicativo sin mayor esfuerzo | Marcelo Mazuelos |
 | 1 | YUS-08 | Como usuario quiero poder ver traducida la página web según necesite | Marcelo Mazuelos |
 ##### 5.2.1.4. Development Evidence for Sprint Review
-Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de BookMe, cumpliendo con los objetivos de presentar de manera clara y atractiva los servicios de la plataforma. A continuación, se detalla la evidencia del desarrollo:
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de LabIoT, cumpliendo con los objetivos de presentar de manera clara y atractiva los servicios de la plataforma. A continuación, se detalla la evidencia del desarrollo:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |---|---|---|---|---|---|
@@ -1400,7 +1410,7 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de
 
 Dado que este es el primer sprint del proyecto y el desarrollo de backend y APIs está planificado para sprints posteriores, no existen endpoints documentados con OpenAPI en este momento. La documentación de servicios web se incluirá en futuros sprints una vez que comience el desarrollo de las funcionalidades backend y la API de LabIoT.
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Durante el Sprint 1, el equipo se enfocó en el despliegue de la landing page de BookMe utilizando GitHub Pages, una plataforma de alojamiento gratuita integrada directamente con los repositorios de GitHub. Este enfoque permitió publicar el sitio de manera rápida, automatizada y sin costos adicionales, asegurando que los usuarios finales pudieran acceder al contenido de forma inmediata.
+Durante el Sprint 1, el equipo se enfocó en el despliegue de la landing page de LabIoT utilizando GitHub Pages, una plataforma de alojamiento gratuita integrada directamente con los repositorios de GitHub. Este enfoque permitió publicar el sitio de manera rápida, automatizada y sin costos adicionales, asegurando que los usuarios finales pudieran acceder al contenido de forma inmediata.
 
 A continuación, se detallan los pasos realizados para configurar y ejecutar el despliegue:
 
@@ -1476,12 +1486,9 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 
 - **Link de la organización de GitHub:** https://github.com/Los-Bytes
 - **Link del repositorio del reporte:** https://github.com/Los-Bytes/Report
-- **Link del repositorio de landing page:** https://github.com/Los-Bytes/LanfingPage
+- **Link del repositorio de landing page:** https://github.com/MarceloMazuelos/LabIoT-Landing-Page/
 - **Link de la landing page desplegada:** https://marcelomazuelos.github.io/LabIoT-Landing-Page
 - **Link del Fronted Web Applications:** https://github.com/Los-Bytes/FrontendWebApplications
 - **Link del trello:** https://trello.com/b/ZBxZUO8q/labiot
 
-- **Url Video Exposicion TB1:**
 - **Url Video Exposicion TP:** 
-
-
