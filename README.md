@@ -181,53 +181,48 @@ del ABET – EAC - Student Outcome 5.
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td> 
+    <td>
     Cristhian Joel Huanca Zevallos  
-    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
-    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
-    <br> TP: Colaboré activamente en el desarrollo del bounded context de User Profile, coordinando con el 
-    equipo las decisiones de diseño y la integración del frontend, brindando liderazgo técnico y apoyo en la 
-    resolución de incidencias durante el desarrollo.
+    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
+    <br> TP: Colaboré activamente en el desarrollo del bounded context de User Profile, coordinando con el equipo las decisiones de diseño y la integración del frontend, brindando liderazgo técnico y apoyo en la resolución de incidencias durante el desarrollo.
     <br><br>
     Gabriel Alcantara Baldeon  
-    <br> TB1: Añadí y desarrollé la sección  Lean UX Canvas, la  Estrategias y tácticas frente a competidores, 
-    y las secciones  Labeling Systems,  SEO Tags and Meta Tags, y  Searching Systems, asegurando coherencia y 
-    estandarización con el resto del documento.
+    <br> TB1: Añadí y desarrollé la sección Lean UX Canvas, la Estrategias y tácticas frente a competidores, y las secciones Labeling Systems, SEO Tags and Meta Tags, y Searching Systems, asegurando coherencia y estandarización con el resto del documento.
     <br><br>
     Marcelo Alessandro Mazuelos Callirgos  
-    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y 
-    el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
+    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
     <br> TP: Colaboré en determinar los errores del reporte y fomenté la colaboración de todos en forma de solucionarlo en grupo.
-    </td>
-    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.  
     <br><br>
-    La integración de estas secciones permitió un documento más estructurado y consistente, fortaleciendo el liderazgo 
-    compartido en la elaboración del informe.</td>
+    Alicia Navarro  
+    <br> TB1: Realicé aportes sobre el capítulo 2, las user stories y epics, y colaboré activamente en el evento de event storming compartiendo hallazgos y estructurando el flujo de eventos del sistema.
+    <br> TP1: Me encargué de las correcciones faltantes de la entrega anterior relacionadas con el capítulo 3, el diagrama de clases y la documentación, y desarrollé el bounded context de Subscription Management consolidando reglas, vocabulario y entidades del subdominio.
+    </td>
+    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.<br><br>
+    La integración de estas secciones permitió un documento más estructurado y consistente, fortaleciendo el liderazgo compartido en la elaboración del informe.</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
     Cristhian Joel Huanca Zevallos  
-    <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, 
-    estableciendo metas claras y fomentando la participación.
-    <br> TP: Participé en la planificación de tareas y metas del proyecto, apoyando en las actualizaciones del report 
-    y fomentando un ambiente colaborativo para cumplir con los entregables del equipo de forma organizada y efectiva.
+    <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, estableciendo metas claras y fomentando la participación.
+    <br> TP: Participé en la planificación de tareas y metas del proyecto, apoyando en las actualizaciones del report y fomentando un ambiente colaborativo para cumplir con los entregables del equipo de forma organizada y efectiva.
     <br><br>
     Gabriel Alcantara Baldeon  
-    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, 
-    sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
+    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
     <br><br>
     Marcelo Alessandro Mazuelos Callirgos  
     <br> TB1: Colaboré en partes de los diferentes capítulos del informe, sobre todo tomando la directiva en en Lean UX Assumptions, Identificación de competidores, su analisis y estrategias ante ellos; en la creación de los user stories, elaboración del Information Architecture, así como la elaboración de los Wireframe y los Mock-Ups de la landing page. Y realicé la elaboración del capítulo 5 y de la Landing Page.
     <br> TP: Realicé el desarrollo del bounded context de Laboratory Inventory Management.
-    </td>
-    <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo 
-    y organizado.  
     <br><br>
-    El trabajo organizado y la integración de mis aportes facilitaron cumplir con los objetivos planteados, garantizando 
-    un entorno colaborativo donde cada aporte reforzó el producto final.</td>
+    Alicia Navarro  
+    <br> TB1: Participé en la especificación de user stories, epics y el event storming, aportando sugerencias y validando los objetivos colaborativos del equipo en la documentación de requisitos.
+    <br> TP1: Colaboré en las actividades de ajustes y correcciones de la documentación, diagramas y capítulos, ayudando a planificar entregables y evaluar el avance en el desarrollo de todo el bounded context de Subscription Management.
+    </td>
+    <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo y organizado.<br><br>
+    El trabajo organizado y la integración de mis aportes facilitaron cumplir con los objetivos planteados, garantizando un entorno colaborativo donde cada aporte reforzó el producto final.</td>
   </tr>
 </table>
+
 
 
 ## Capítulo 1: Introducción
