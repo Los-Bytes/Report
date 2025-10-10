@@ -5,53 +5,53 @@ hide circle
 skinparam linetype ortho
 
 ' Entidades
-entity "Usuarios" as usuarios {
-  *id_usuario : <<PK>>
+entity "Users" as users {
+  *id_user : <<PK>>
   --
 }
 
-entity "Laboratorios" as laboratorios {
-  *id_laboratorio : <<PK>>
+entity "Laboratories" as laboratories {
+  *id_laboratory : <<PK>>
   --
 }
 
-entity "Proveedores" as proveedores {
-  *id_proveedor : <<PK>>
+entity "Suppliers" as suppliers {
+  *id_supplier : <<PK>>
   --
 }
 
-entity "Insumos" as insumos {
-  *id_insumo : <<PK>>
-  *id_laboratorio : <<FK>>
-  *id_proveedor : <<FK>>
+entity "Inputs" as inputs {
+  *id_input : <<PK>>
+  *id_laboratory : <<FK>>
+  *id_supplier : <<FK>>
   --
 }
 
-entity "Condiciones" as condiciones {
-  *id_condiciones : <<PK>>
-  *id_insumo : <<FK>>
+entity "Conditions" as conditions {
+  *id_conditions : <<PK>>
+  *id_input : <<FK>>
   --
 }
 
-entity "Movimientos" as movimientos {
-  *id_movimiento : <<PK>>
-  *id_usuario : <<FK>>
-  *id_insumo : <<FK>>
+entity "Movements" as movements {
+  *id_motion : <<PK>>
+  *id_user : <<FK>>
+  *id_input : <<FK>>
   --
 }
 
-entity "Alertas" as alertas {
-  *id_alerta : <<PK>>
-  *id_movimiento : <<FK>>
+entity "Alerts" as alerts {
+  *id_alert : <<PK>>
+  *id_motion : <<FK>>
   --
 }
 
 
 ' Relaciones y cardinalidades
-usuarios ||--o{ movimientos : "1 a N"
-movimientos }o--|| insumos : "N a 1"
-movimientos ||--o{ alertas : "1 a N"
-insumos ||--o{ condiciones : "1 a N"
-laboratorios ||--o{ insumos : "1 a N"
-proveedores ||--o{ insumos : "1 a N"
+users ||--o{ movements : "1 a N"
+movements }o--|| inputs : "N a 1"
+movements ||--o{ alerts : "1 a N"
+inputs ||--o{ conditions : "1 a N"
+laboratories ||--o{ inputs : "1 a N"
+suppliers ||--o{ inputs : "1 a N"
 @enduml
