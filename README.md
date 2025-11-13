@@ -415,7 +415,12 @@ Este grupo está conformado por profesionales encargados de gestionar el abastec
 - **Sistemas de monitoreo IoT genéricos**, que no están centrados en laboratorios, pero pueden adaptarse.
 - **Excel u hojas de cálculo** (competencia informal, pero todavía muy utilizada en laboratorios pequeños).
 
-<img src="assets/assets/chapter-1/competidores_cuadro.png" width=max>
+| Criterio | Labguru | Quartzy | LabColector | ERP(SAP/Odoo) | LabIoT |
+|---|---|---|---|---|---|
+| Inventario especializado en laboratorios | Si | Si | Si | No | No |
+| Uso de IoT(Sensores,RFID,QR) | No | No | Limitado | No | Si |
+| Alertas en tiempo real(temperatura,caducidad) | No | No | Parcial | No | No |
+| Escabilidad para distintos tamaÑos de laboratorios | Si | Si | Si | Si | Si |
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 **Perfil**
