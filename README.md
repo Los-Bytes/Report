@@ -252,13 +252,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <td> <img src="assets/assets/chapter-1/Alex.jpg" width=300px> </td>
     <td> Soy estudiante de ingeniería de software en la UPC, con conocimientos básicos en los lenguajes de programación como c++, python , css, html, javascript también conocimientos básicos en base de datos viendo Mongo DB y creando diagramas relaciones como no relacionales. Además poseo habilidades de empatía y buena comunicación con el equipo esto me permite ser productivo en el ámbito de grupos y en general. </td>
   </tr>
-<tr>
-    <th colspan="2"> Poly Gabriel Alcántara Baldeon </th>
-  </tr>
-  <tr>
-    <td> <img src="assets/assets/chapter-1/GabrielAlcantara.jpg" > </td>
-    <td>Soy estudiante de Ingeniería de Software. Tengo conocimientos básicos en lenguajes de programación como C#, Java y Python. Me interesa el desarrollo de videojuegos y estoy buscando oportunidades para aprender y crecer en este campo. Además, poseo habilidades blandas como la capacidad de trabajar en equipo, la proactividad y la adaptabilidad, lo que me permite ser productivo en entornos colaborativos y enfrentar nuevos desafíos con entusiasmo. </td>
-  </tr>
+
 <tr>
     <th colspan="2"> Cristhian Joel Huanca Zevallos </th>
   </tr>
@@ -266,13 +260,7 @@ Nuestra visión es convertirnos en un startup referente en soluciones tecnológi
     <td> <img src="assets/assets/chapter-1/CristhianHuanca.jpg" width=300px > </td>
     <td> Soy estudiante de ingeniería de software en la UPC,  me considero una persona proactiva, organizada y responsable al momento de desarrollar un nuevo proyecto en mi vida. En un grupo de trabajo siempre trato de respetar las opiniones de los demás, trato de entender los demás puntos de vista y animo a estar en unión frente a un problema.  </td>
   </tr>
-<tr>
-    <th colspan="2">Andre Pillaca Velasquez </th>
-  </tr>
-  <tr>
-    <td> <img src="assets/assets/chapter-1/AndrePillaca.jpg" width=300px> </td>
-    <td>Soy estudiante de la carrera de Ingeniería de Software. Tengo 22 años y entre mis cualidades están ser perseverante y responsable. Entre mis habilidades, tengo experiencia en los lenguajes de programación de C + +,Python y espero seguir aprendiendo para llegar a ser un profesional competente. </td>
-  </tr>
+
  <tr>
     <th colspan="2">Marcelo Alessandro Mazuelos Callirgos</th>
   </tr>
@@ -698,29 +686,28 @@ El 100% se inclinó hacia una solución tecnológica centralizada. Alfonso desta
 ### 2.4. Big Picture EventStorming
 
 ### 2.5. Ubiquitous Language
-### 2.4. Lenguaje Ubicuo LabIoT
 
 El siguiente glosario detalla los términos clave de LabIoT y su dominio.
 
 | Término (Inglés)              | Término (Español)                 | Definición |
 |-------------------------------|------------------------------------|------------|
-| Lab Manager                   | Responsable de Laboratorio         | Persona encargada de supervisar el inventario, la seguridad y las operaciones del laboratorio. Toma decisiones sobre la adquisición y el uso de insumos. |
-| Procurement Supervisor        | Supervisor de Compras              | Responsable de coordinar las solicitudes de materiales y mantener la relación con proveedores de insumos de laboratorio. |
-| Researcher                    | Investigador                       | Usuario que trabaja dentro del laboratorio y utiliza los insumos inventariados para proyectos específicos. |
-| Supplier                      | Proveedor                          | Empresa o entidad que abastece al laboratorio con materiales, insumos y equipos especializados. |
-| Register Item           | Registro de Ítem            | Proceso en el que cada material, reactivo o equipo del laboratorio es identificado en el sistema mediante etiquetas RFID o códigos QR. |
-| Track Inventory         | Seguimiento de Inventario   | Funcionalidad para monitorear en tiempo real los niveles de stock de insumos dentro del laboratorio. |
-| Condition Monitoring    | Monitoreo de Condiciones    | Proceso en el que sensores inteligentes registran parámetros críticos (ejemplo: temperatura de reactivos sensibles). |
-| Alert Generation        | Generación de Alertas       | Notificaciones automáticas enviadas cuando se detecta un nivel bajo de stock o una condición anómala en los insumos (ejemplo: refrigerador con aumento de temperatura). |
-| Access Control          | Control de Acceso           | Gestión de permisos que define qué usuarios pueden registrar, modificar o consumir ítems específicos. |
-| Inventory Report        | Reporte de Inventario       | Generación de informes automáticos sobre niveles de existencia, historial de consumos y estado de los insumos. |
-| Smart Tag               | Etiqueta Inteligente        | Identificador en forma de RFID o código QR que permite el reconocimiento único de cada ítem dentro del sistema. |
-| Stock Level             | Nivel de Stock              | Cantidad disponible de un insumo en el inventario, monitoreada de forma automática. |
-| Expiration Date         | Fecha de Vencimiento        | Registro de la fecha límite de uso de reactivos o insumos, clave para garantizar la seguridad en proyectos de investigación. |
-| Critical Condition      | Condición Crítica           | Estado detectado por sensores (ejemplo: pérdida de frío en congelador o variación brusca de temperatura) que puede comprometer la utilidad de los materiales. |
-| Consumption Log         | Registro de Consumo         | Historial de movimientos de inventario que refleja qué insumo fue consumido, por quién y en qué fecha. |
-| Supply Request          | Solicitud de Insumo         | Proceso mediante el cual un miembro del laboratorio solicita al responsable o supervisor la compra o reposición de materiales. |
-| Audit Trail             | Trazabilidad de Auditoría   | Conjunto de registros que muestran todas las acciones realizadas sobre el inventario para fines de control y seguridad. |
+| Lab Manager                   | Responsable de Laboratorio         | Person responsible for overseeing the laboratory's inventory, security, and operations. Makes decisions regarding the acquisition and use of supplies. |
+| Procurement Supervisor        | Supervisor de Compras              | Responsible for coordinating material requests and maintaining relationships with laboratory supply providers. |
+| Researcher                    | Investigador                       | User who works within the laboratory and uses the inventoried supplies for specific projects. |
+| Supplier                      | Proveedor                          | Company or entity that supplies the laboratory with specialized materials, supplies and equipment. |
+| Register Item           | Registro de Ítem            | Process in which each material, reagent or piece of equipment in the laboratory is identified in the system using RFID tags or QR codes. |
+| Track Inventory         | Seguimiento de Inventario   | Functionality to monitor real-time stock levels of supplies within the laboratory. |
+| Condition Monitoring    | Monitoreo de Condiciones    | Process in which smart sensors record critical parameters (example: temperature of sensitive reagents). |
+| Alert Generation        | Generación de Alertas       | Automatic notifications sent when a low stock level or an abnormal condition in the supplies is detected (example: refrigerator with increased temperature). |
+| Access Control          | Control de Acceso           | Permission management that defines which users can register, modify, or consume specific items. |
+| Inventory Report        | Reporte de Inventario       | Automatic generation of reports on stock levels, consumption history and status of supplies. |
+| Smart Tag               | Etiqueta Inteligente        | An identifier in the form of an RFID or QR code that allows for the unique recognition of each item within the system. |
+| Stock Level             | Nivel de Stock              | Quantity of an input available in the inventory, monitored automatically. |
+| Expiration Date         | Fecha de Vencimiento        | Recording the expiration date of reagents or supplies is key to ensuring safety in research projects. |
+| Critical Condition      | Condición Crítica           | State detected by sensors (example: loss of cold in freezer or sudden temperature change) that may compromise the usefulness of the materials. |
+| Consumption Log         | Registro de Consumo         | Inventory movement history that reflects what input was consumed, by whom, and on what date. |
+| Supply Request          | Solicitud de Insumo         | Process by which a member of the laboratory requests the person in charge or supervisor to purchase or replace materials. |
+| Audit Trail             | Trazabilidad de Auditoría   | Set of records that show all actions performed on the inventory for control and security purposes. |
 
 
 ## Capítulo III: Requirements Specification
