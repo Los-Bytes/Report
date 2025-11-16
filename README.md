@@ -1136,17 +1136,17 @@ Miro link: https://miro.com/app/board/uXjVJG4MLHQ=/
 #### 4.6.2. Software Architecture Context Diagram
 El diagrama de contexto presenta una representación visual clara del entorno y los límites de LabIoT, detallando los actores externos y los sistemas con los que interactúa (usuarios, pasarela de pago, OrderSystem, Email System y dispositivos IoT). Estos diagramas son fundamentales para entender qué partes pertenecen al sistema y qué dependencias externas existen, además de mostrar los canales de comunicación (HTTP/JSON, SMTP, protocolos IoT). La representación gráfica facilita identificar los puntos de integración, los flujos de información principales y el alcance funcional del sistema, siendo un recurso esencial para alinear a stakeholders y definir responsabilidades a alto nivel en LabIoT.
 
-<img src="assets/assets/chapter-4/Domain-Driven Software Architecture/DiagramaContexto.drawio.png" alt="">
+<img src="assets/assets/chapter-4/SoftwareArchitecture ContextDiagram/DiagramC4Lablot-Diagrama de Contexto.drawio.png" alt="">
 
 #### 4.6.3. Software Architecture Container Diagrams
 El diagrama de contenedores presenta una representación visual clara de las piezas desplegables y ejecutables que componen LabIoT (Single Page Application, API Backend, Base de Datos, Tarea de Alerta y componentes IoT), detallando la responsabilidad principal de cada contenedor y cómo se relacionan entre sí. Estos diagramas son fundamentales para entender la arquitectura de despliegue y runtime, facilitando la comprensión de las rutas de comunicación (SPA ↔ API, API ↔ servicios externos, jobs ↔ BD) y los límites operacionales de cada componente. La representación gráfica permite identificar responsabilidades, requisitos de escalabilidad y seguridad a nivel de contenedor, siendo un recurso esencial para diseñar el despliegue y la operación de LabIoT.
 
-<img src="assets/assets/chapter-4/Domain-Driven Software Architecture/DiagramaContenedor.drawio.png" alt="">
+<img src="assets/assets/chapter-4/SoftwareArchitecture ContextDiagram/DiagramC4Lablot-Diagrama de Contenedor.drawio.png" alt="">
 
 #### 4.6.4. Software Architecture Components Diagrams
 El diagrama de componentes presenta una representación visual clara de los módulos internos del API Backend de LabIoT, detallando sus componentes principales (controllers, servicios de dominio, repositorios, infra para QR/RFID y pasarelas, y el job de alertas) y las relaciones entre ellos. Estos diagramas son fundamentales para entender la organización interna del backend y cómo se implementan los casos de uso (gestión de usuarios, inventario, suscripciones, monitoreo y alertas), facilitando la comprensión de dependencias, flujos de datos y responsabilidad de cada módulo. La representación gráfica permite identificar patrones arquitectónicos, puntos críticos (p. ej. acceso a BD, seguridad, integración externa) y sirve como guía operativa y técnica para el desarrollo y mantenimiento eficiente de LabIoT.
 
-<img src="assets/assets/chapter-4/Domain-Driven Software Architecture/DiagramaComponentes.drawio.png" alt="">
+<img src="assets/assets/chapter-4/SoftwareArchitecture ContextDiagram/DiagramC4Lablot-Diagrama de Componentes API Backend Application.drawio.png" alt="">
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
