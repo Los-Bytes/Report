@@ -1121,13 +1121,13 @@ En esta pantalla se muestra el inicio de sesion con el respectivo formulario par
 
 <img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Users-5.png" alt="">
 
-<img src="assets/assets/chapter-4/W-Subscription Management-4.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Subscription Management-4.png" alt="">
 
-<img src="assets/assets/chapter-4/W-Subscription Management-5.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Subscription Management-5.png" alt="">
 
-<img src="assets/assets/chapter-4/W-Subscription Management-6.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Subscription Management-6.png" alt="">
 
-<img src="assets/assets/chapter-4/W-Subscription Management-7.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Subscription Management-7.png" alt="">
 
 <img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Laboratory-1.png" alt="">
 
