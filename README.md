@@ -1664,12 +1664,12 @@ A continuación, se detallan los controladores y sus respectivos endpoints docum
 ##### User Profiles Controler 
 Se encarga de la gestión de perfiles de usuario: creación, consulta individual y listados, además de actualización parcial de preferencias.​
 Estos endpoints se alinean con tu backend del learning-center y la estructura solicitada por bounded contexts.
-<img src="assets/assets/chapter-1/users" alt="">
+<img src="assets/assets/chapter-1/users.png" alt="">
 
 ##### Inventory Controler
 Se encarga de la gestión de activos: creación, consulta por distintos criterios y actualizaciones parciales de ubicación y condición.​
 Forma parte del contexto de inventario del backend del learning-center, manteniendo separación clara de responsabilidades.
-<img src="assets/assets/chapter-1/inventory" alt="">
+<img src="assets/assets/chapter-1/inventory.png" alt="">
 
 ## Conclusiones
 
