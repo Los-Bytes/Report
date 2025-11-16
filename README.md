@@ -1091,30 +1091,48 @@ El mock-up refleja la identidad de marca con los colores aplicados, algunos no r
 #### 4.4.1. Web Applications Wireframes
 <img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes.png" alt="">
 En esta pantalla se muestra el inicio de sesion con el respectivo formulario para poder iniciar en el aplicativo web.
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes2.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Users.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes3.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Users-3.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes4.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Users-4.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes5.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Subscription Management.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes6.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Subscription Management-1.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes7.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Subscription Management-2.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsWireframes/WebApplicationsWireframes8.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Subscription Management-3.png" alt="">
+
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Laboratory.png" alt="">
+
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Laboratory-2.png" alt="">
+
+<img src="assets/assets/chapter-4/Web Applications Wireframes/W-Laboratory Inventory.png" alt="">
+
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
-<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups1.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Users-1.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups2.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Users-2.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups3.png" alt="">
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Users-5.png" alt="">
 
-<img src="assets/assets/chapter-4/WebApplicationsMock-ups/WebApplicationsMock-ups4.png" alt="">
+<img src="assets/assets/chapter-4/W-Subscription Management-4.png" alt="">
+
+<img src="assets/assets/chapter-4/W-Subscription Management-5.png" alt="">
+
+<img src="assets/assets/chapter-4/W-Subscription Management-6.png" alt="">
+
+<img src="assets/assets/chapter-4/W-Subscription Management-7.png" alt="">
+
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Laboratory-1.png" alt="">
+
+<img src="assets/assets/chapter-4/Web Applications Mock-ups/W-Laboratory-3.png" alt="">
+
 
 Link para ver los wireframes en figma: https://www.figma.com/design/WTa9gqJiXGCnoS6XS6OEpm/Landin-Page?node-id=0-1&t=H5VVd8liPBlLH61K-1
 
