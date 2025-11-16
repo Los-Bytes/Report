@@ -1530,22 +1530,21 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 | Alicia Avril Navarro Chang | Alice-keys | C |
 | Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
 
-##### 5.2.2.3. Sprint Backlog 2
-En relación de los EP-01 - EP-05:
+##### 5.2.2.3. Sprint Backlog 3
+En relación de los TS-01 - EP-10:
 | **Sprint #** | **User Story ID** | **User Story Description** | **Task Assigned** |
 |--------------|-------------------|----------------------------|-------------------|
-| 2 | US-01 | Como usuario, quiero tener un perfil donde ingresar mi información personal y mis documentos para poder gestionar y consultar mis datos fácilmente. | Cristhian Huanca |
-| 2 | US-02 | Como usuario, quiero crear un perfil donde ingresar mi información personal para que mis datos queden registrados y pueda acceder a las funciones personalizadas del sistema. | Cristhian Huanca |
-| 2 | US-03 | Como usuario, quiero modificar la información ingresada en mi perfil para mantener mis datos actualizados y corregir cualquier error que detecte. | Cristhian Huanca |
-| 2 | US-04 | Como usuario, quiero registrar el ítem en el inventario para agilizar la identificación y el control de existencias. | Cristhian Huanca |
-| 2 | US-05 | Como usuario, quiero registrar el ítem en el inventario para agilizar la identificación y el control de existencias. | Marcelo Mazuelos |
-| 2 | US-06 | Como usuario, quiero escanear el insumo antes de utilizarlo o darlo de baja en una práctica, para llevar un control de su uso y destino. | Marcelo Mazuelos |
-| 2 | US-07 | Como usuario, quiero que el sistema actualice automáticamente el stock después de una salida o retorno, para contar siempre con datos precisos del inventario. | Marcelo Mazuelos |
-| 2 | US-08 | Como usuario, quiero que el sistema genere y muestre un historial de uso detallado para cada insumo, para poder auditar su trazabilidad y controlar inventarios. | Marcelo Mazuelos |
-| 2 | US-09 | Como usuario, quiero poder elegir entre diferentes planes de suscripción para contratar el servicio. | Alicia Navarro |
-| 2 | US-10 | Como usuario, quiero guardar mi método de pago preferido para procesar pagos recurrentes fácilmente. | Alicia Navarro |
-| 2 | US-11 | Como usuario, quiero activar un periodo de prueba para evaluar el servicio antes de pagar la suscripción completa para probar el plan a mi elección. | Alicia Navarro |
-| 2 | US-12 | Como usuario, quiero cancelar mi suscripción en cualquier momento para tener control sobre ella. | Alicia Navarro |
+| 3 | TS-01 | Como desarrollador, Quiero invocar la API userProfileApi.getUsers() y transformar la respuesta con UserAssembler.toEntityFromResponse(response),Para cargar la lista completa de usuarios en el estado reactivo (users.value) y actualizar el indicador de carga (usersLoaded.value). | Cristhian Huanca |
+| 3 | TS-02 | Como usuario, quiero crear un perfil donde ingresar mi información personal para que mis datos queden registrados y pueda acceder a las funciones personalizadas del sistema. | Cristhian Huanca |
+| 3 | TS-03 | Como usuario, quiero modificar la información ingresada en mi perfil para mantener mis datos actualizados y corregir cualquier error que detecte. | Cristhian Huanca |
+| 3 | TS-04 | Como usuario, quiero registrar el ítem en el inventario para agilizar la identificación y el control de existencias. | Cristhian Huanca |
+| 3 | TS-05 | Como usuario, quiero registrar el ítem en el inventario para agilizar la identificación y el control de existencias. | Marcelo Mazuelos |
+| 3 | TS-06 | Como usuario, quiero escanear el insumo antes de utilizarlo o darlo de baja en una práctica, para llevar un control de su uso y destino. | Marcelo Mazuelos |
+| 3 | TS-07 | Como usuario, quiero que el sistema actualice automáticamente el stock después de una salida o retorno, para contar siempre con datos precisos del inventario. | Marcelo Mazuelos |
+| 3 | TS-08 | Como usuario, quiero que el sistema genere y muestre un historial de uso detallado para cada insumo, para poder auditar su trazabilidad y controlar inventarios. | Marcelo Mazuelos |
+| 3 | TS-09 | Como usuario, quiero poder elegir entre diferentes planes de suscripción para contratar el servicio. | Alicia Navarro |
+| 3 | TS-10 | Como usuario, quiero guardar mi método de pago preferido para procesar pagos recurrentes fácilmente. | Alicia Navarro |
+
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 Durante el Sprint 2, el equipo se enfocó de los bounded context, solo parte del equipo colaboró con el sprint goal 2. A continuación, se detalla la evidencia del desarrollo de los integrantes:
