@@ -1572,6 +1572,90 @@ Comunicación continua en el canal de Discord y WhatsApp del equipo para la retr
 
 Code reviews mediante pull requests en GitHub
 
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 3, iniciado el 12/10/2025, tiene como propósito Desarrollar el backend de cada boundend context y hacerle deploy:
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 3</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-10-12</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión presencial en la Universidad Peruana de Ciencias Aplicadas</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Alexander Auden Aliaga Ocampo</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Cristhian Joel Huanca Zevallos<br>Marcelo Alessandro Mazuelos Callirgos<br>Alicia Avril Navarro Chang<br>Alexander Auden Aliaga Ocampo</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 2 Review Summary</b></td>
+      <td colspan="1">
+      en este sprint pudimos correr nuestras boundend context en un local host con un db json 3 de 4 falto una la cual no corria mas en concreto el laboratory managment debido a la falta de tiempo y organizacion.
+      </td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 2 Retrospective Summary</b></td>
+      <td colspan="1">Por mejorar:<br>
+      - Actualizar class Diagram<br>
+      - Actualizar User storiesa<br>
+      - Actualizar c4 diagram<br>
+      - Actualizar web aplication wiframes<br>
+      - Actualizar  web aplication mock-ups<br>
+      - Agregar partes faltantes<br>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Goal</b></td>
+      <td colspan="1"><b>Our focus is on implementing the backend for the main functional bounded contexts of the LabIoT platform — including User Profile
+        , Laboratory Inventory Management, Subscription Management, Reports & Laboratory Analysis, Alerts & Notifications, and Laboratory Management — providing robust services that support and orchestrate the core business logic of the system.
+We believe this delivers a solid technical foundation by enabling real data persistence, consistent behavior across modules, and better alignment between the domain model and the platform architecture, while also improving the quality and clarity of the project report.
+This will be confirmed when each bounded context exposes and consumes its own backend APIs correctly (CRUD operations), the front-end modules are integrated with these services, and the fully deployed platform is accessible and working end-to-end.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Velocity</b></td>
+      <td colspan="1">18</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">12</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+Para este Sprint se han establecido los aspectos esenciales relacionados con el desarrollo de la landing page de Utime. Con el propósito de optimizar la organización y la comunicación del equipo, se diseñó la matriz Leadership and Collaboration Matrix (LACX), en la cual se especifica quién desempeña el rol de Líder (L) y quiénes intervienen como Colaboradores (C) en cada uno de estos puntos clave. Esta asignación contribuye a una gestión más clara y a una ejecución más eficiente de las tareas encomendadas.
+
+| **Team Member** | **GitHub Username** | **Landing Page** |
+|---------------------------------------------------|---------------------|---------------|
+| Cristhian Joel Huanca Zevallos | JoelHuancaZevallos | L |
+| Marcelo Alessandro Mazuelos Callirgos | MarceloMazuelos | C |
+| Andre Pillaca Velasquez | Andreeeee1234 | C |
+| Alicia Avril Navarro Chang | Alice-keys | C |
+| Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
+
 ## Conclusiones
 
 El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y
