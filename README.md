@@ -1656,6 +1656,22 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 | Alicia Avril Navarro Chang | Alice-keys | C |
 | Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
 
+##### 5.2.3.6. Aspect Leaders and Collaborators
+
+Durante este sprint se logró documentar un total de 11 endpoints correspondientes a 2 controladores principales de la API. La documentación fue realizada utilizando Swagger,herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (https://backend-i7cb.onrender.com).
+
+A continuación, se detallan los controladores y sus respectivos endpoints documentados:
+
+##### User Profiles Controler 
+Se encarga de la gestión de perfiles de usuario: creación, consulta individual y listados, además de actualización parcial de preferencias.​
+Estos endpoints se alinean con tu backend del learning-center y la estructura solicitada por bounded contexts.
+<img src="assets/assets/chapter-1/users" alt="">
+
+##### Inventory Controler
+Se encarga de la gestión de activos: creación, consulta por distintos criterios y actualizaciones parciales de ubicación y condición.​
+Forma parte del contexto de inventario del backend del learning-center, manteniendo separación clara de responsabilidades.
+<img src="assets/assets/chapter-1/inventory" alt="">
+
 ## Conclusiones
 
 El desarrollo del proyecto LabIoT ha permitido aplicar de manera integral los conceptos de ingeniería de software y
