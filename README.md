@@ -718,8 +718,6 @@ Destaca que sería muy valioso que la plataforma integre funcionalidades de moni
   </tr>
 </table>
 
-##### *Segemento 2: Supervisores de empresas*
-
 #### 2.2.3. Análisis de entrevistas
 
 El análisis de entrevistas para el Segmento 1: Investigadores responsables de laboratorios muestra que comparten patrones claros en cuanto al uso de herramientas actuales, las limitaciones de estas, y las expectativas hacia una solución tecnológica como LabIoT. A continuación, se presentan las características objetivas y subjetivas del segmento, sustentadas en los hallazgos de las entrevistas realizadas.
