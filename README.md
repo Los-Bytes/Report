@@ -16,13 +16,11 @@
   <ul style="list-style: none; padding: 0;">
       <li><h3>Navarro Chang Alicia Avril - u20231d637 </h3></li>
       <li><h3>Alexander Auden Aliaga Ocampo- U202417693</h3></li>
-      <li><h3>Andre Pillaca Velasquez - U202022056</h3></li>
       <li><h3>Mazuelos Callirgos Marcelo Alessandro – u201916143</h3></li>
       <li><h3>Huanca Zevallos, Cristhian Joel - u20201b914</h3></li>
-      <li><h3>Alcantara Baldeonn, Poly Gabriel - u202418250</h3></li>
   </ul>
   <br>
-  <h4>Septiembre del 2025</h4>
+  <h4>Diciembre del 2025</h4>
 <br>
 </div>
 
@@ -31,39 +29,86 @@
 | Versión | Fecha      | Autor                                            | Descripción de modificación |
 |---------|------------|--------------------------------------------------|-----------------------------|
 | 1.0     | 21/09/2025 | Todos los integrantes                            | Primer sprint TB1           |
-| 1.1     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
+| 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
+| 3.0     | 15/11/2025 | Todos los integrantes                            | Tercer sprint TB2           |
+| 4.0     | 03/12/2025 | Todos los integrantes                            | Trabajo Final               |
 
 ## Project Report Collaboration Insights
-| URL de la organización del proyecto |   URL del repositorio del reporte   |            URL del Fronted Web Application            |
-|:-----------------------------------:|:-----------------------------------:|:-----------------------------------------------------:|
-|   https://github.com/Los-Bytes      | https://github.com/Los-Bytes/Report | https://github.com/Los-Bytes/FrontendWebApplications  |
 
-|           URL del Landing Page            |            URL del deployment del Landing Page            |
-|:-----------------------------------------:|:-----------------------------------------------------:|
-| https://github.com/MarceloMazuelos/LabIoT-Landing-Page/  | https://marcelomazuelos.github.io/LabIoT-Landing-Page/  |
+A lo largo del desarrollo del proyecto de Web Application, el equipo ha trabajado de manera colaborativa utilizando herramientas esenciales para organizar las tareas, gestionar el flujo de trabajo y asegurar un avance constante. La colaboración se ha realizado principalmente mediante GitHub, donde se almacenaron los repositorios del proyecto y se registraron las distintas fases de desarrollo del producto LabIoT de ASSIDUOU SOFTWARE. Esta plataforma permitió integrar aportes de todo el equipo de manera estructurada, garantizando control de versiones y seguimiento continuo de los cambios.
+
+Complementariamente, se utilizó Trello como herramienta de gestión ágil para la planificación y asignación de tareas. Gracias a esta herramienta, fue posible mantener una visión clara del progreso, priorizar actividades y coordinar de manera eficiente las responsabilidades entre los integrantes del equipo.
+
+En GitHub se encuentran los repositorios utilizados durante cada entrega del curso, desde la TB1, el trabajo parcial, la TB2, hasta el trabajo final (TF). Cada repositorio contiene los avances correspondientes y los reportes de insights generados durante el ciclo de desarrollo, donde se registran hallazgos, mejoras implementadas y aprendizajes surgidos durante la construcción de la aplicación web.
+
+A continuación, se presentan los enlaces a los repositorios de GitHub utilizados en cada etapa, junto con los informes de insights que evidencian el progreso obtenido en cada fase del proyecto.
+
+
+|                    URL de la organización del proyecto                    |                     URL del repositorio del reporte                      |
+|:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| [Link del Repositorio de la Organizacion](https://github.com/Los-Bytes ) | [Link del Repositorio del reporte](https://github.com/Los-Bytes/Report) |
+
+|                                URL del Landing Page                                |                              URL del Fronted Web Application                             |
+|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
+| [Link del Repositorio del Landing Page](https://github.com/MarceloMazuelos/LabIoT-Landing-Page/) | [Link del Repositorio del Fronted](https://github.com/Los-Bytes/FrontendWebApplications) |
+
+|                         URL del Back End Application                          |                URL del TRELLO del projecto                | 
+|:-----------------------------------------------------------------------------:|:---------------------------------------------------------:|
+| [Link del Repositorio del Backend](https://github.com/Los-Bytes/Backend) | [Link del Trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot) |
+
+
 
 ### Entrega TB1
 
-| Insights Report                                                                      | Insights Landing Page                                                                      |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+En la **primera entrega (TB1)**, el equipo trabajó principalmente en dos elementos clave: el **report** y el **Landing Page**.
+
+
+| Insights Report                                                               | Insights Landing Page                                                                       |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura Landing Page](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
 
 ---
 
 ### Entrega TP
 
-| Insights Report                                                                      | Insights Landing Page                                                                      | Insights FrontEnd                                                                      |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura Landing Page](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura FrontEnd](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
+En esta fase intermedia del proyecto, el equipo hizo mejoras significativas tanto en el **report** como en el desarrollo del **frontend**.
+
+
+| Insights Report                                                               | Insights FrontEnd                                                                 |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura FrontEnd](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
 
 ---
+
+### Entrega TB2
+
+En esta entrega, el enfoque principal fue completar el desarrollo del **backend** y seguir trabajando en la mejora del **report**.
+
+
+| Insights Report                                                               | Insights BackEnd                       |
+|-------------------------------------------------------------------------------|----------------------------------------|
+| ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura FrontEnd](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
+
+---
+
+### Entrega TF
+
+En la entrega final (TF), se entregó el producto completo, integrando todas las partes desarrolladas a lo largo del proyecto.
+
+
+| Insights Report                                                               | Insights FrontEnd                                | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| ![Captura Report](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura FrontEnd](assets/assets/project-colaboration-insights/insightsReportTB1.png) | ![Captura FrontEnd](assets/assets/project-colaboration-insights/insightsReportTB1.png) |
+
+---
+
 
 
 ## Contenido
 
 - [Student Outcome](#student-outcome)
 
-- [Capítulo I: Introducción](#cap1)
+- [Capítulo I: Introducción](#capítulo-1-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
         - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -76,7 +121,7 @@
             - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-- [Capítulo II: Requirements Elicitation & Analysis](#cap2)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
     - [2.1. Competidores](#21-competidores)
         - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
         - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -94,13 +139,13 @@
 
 
 
-- [Capítulo III: Requirements Specification](#cap3)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. User Stories](#31-user-stories)
     - [3.2. Impact Mapping](#32-impact-mapping)
     - [3.3. Product Backlog](#33-product-backlog)
 
 
-- [Capítulo IV: Product Design](#cap4)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
         - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
         - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -130,7 +175,7 @@
         - [4.8.1. Database Diagram](#481-database-diagram)
 
 
-- [Capítulo V: Product Implementation, Validation & Deployment](#cap5)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
         - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
         - [5.1.2. Source Code Management](#512-source-code-management)
@@ -146,7 +191,7 @@
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-          - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2. Sprint 2](#522-sprint-2)
             - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
             - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
             - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
@@ -155,8 +200,33 @@
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+            - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+            - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de entrevistas de validación](#531-diseño-de-entrevistas-de-validación)
+        - [5.3.2. Registro de entrevistas de validación](#532-registro-de-entrevistas-de-validación)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
+- [Recomendaciones](#recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -227,7 +297,7 @@ del ABET – EAC - Student Outcome 5.
 
 ## Capítulo 1: Introducción
 ### 1.1. Startup Profile
-#### 1.1.1. Descripción del Startup
+#### 1.1.1. Descripción de la Startup
 Somos Los Bytes, un grupo de estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) comprometidos con el desarrollo de soluciones tecnológicas innovadoras que aporten valor y eficiencia al sector científico. En el marco de nuestra formación académica, hemos emprendido la creación de una Startup enfocada en transformar la gestión de inventarios en laboratorios a través del uso de tecnologías inteligentes como el Internet de las Cosas (IoT), RFID y sensores inteligentes, combinando innovación, precisión y automatización.
 
 Misión:</br>
@@ -379,7 +449,39 @@ El impacto se refleja en:
 - Mejorará la seguridad y trazabilidad, cumpliendo normativas de laboratorios certificados.
 - Permitirá a las empresas proveedoras de insumos demostrar valor agregado en sus servicios.
 
-##### 1.2.2.3. Lean UX Hyphotesis Statements
+##### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hipótesis de Valor**  
+Creemos que los *docentes responsables de laboratorio* y los *técnicos de laboratorio* necesitan una plataforma que les permita monitorear y gestionar dispositivos IoT en tiempo real.  
+Tendrán éxito utilizando LabIoT porque les permitirá reducir fallas, mejorar la seguridad y optimizar la operación del laboratorio.
+
+**Hipótesis de Funcionalidad**  
+Creemos que proporcionar un dashboard en tiempo real, alertas automáticas, gráficos históricos y control de dispositivos IoT permitirá que los usuarios gestionen sus laboratorios de manera más eficiente.  
+Sabremos que esta funcionalidad es útil cuando observemos un incremento en el uso semanal de la plataforma y una reducción en incidentes no detectados.
+
+**Hipótesis de Usabilidad**  
+Creemos que los usuarios podrán navegar la interfaz de LabIoT de forma intuitiva, ya que estará diseñada con principios de UX claros, flujos simples y visualizaciones entendibles.  
+Validaremos esta hipótesis mediante pruebas de usabilidad donde los usuarios completen tareas sin ayuda adicional.
+
+**Hipótesis de Crecimiento**  
+Creemos que si la plataforma demuestra reducción de fallas y mejor trazabilidad, las instituciones educativas estarán dispuestas a implementarla de forma continua y ampliada.  
+Sabremos que es cierto cuando instituciones soliciten la conexión de más sensores o nuevos módulos funcionales.
+
+
+##### 1.2.2.4. Lean UX Canvas
+
+| **Sección** | **Descripción** |
+|------------|-----------------|
+| **1. Problema / Oportunidad** | Los laboratorios académicos carecen de monitoreo en tiempo real de sus sensores y dispositivos IoT, lo que genera fallas inesperadas, riesgos para estudiantes y baja eficiencia. LabIoT busca digitalizar y optimizar la gestión del laboratorio con monitoreo y control en tiempo real. |
+| **2. Usuarios y Clientes** | **Usuarios:** Docentes responsables, técnicos de laboratorio, estudiantes. <br> **Clientes:** Instituciones educativas, coordinadores académicos, administradores de TI. |
+| **3. Supuestos** | Los usuarios necesitan monitorear dispositivos en tiempo real; las instituciones requieren trazabilidad; la plataforma será adoptada si es simple e intuitiva; los sensores IoT podrán integrarse mediante protocolos estándar. |
+| **4. Necesidades del Usuario** | Visualizar sensores en tiempo real, recibir alertas, consultar históricos, controlar dispositivos, acceder desde cualquier navegador con seguridad. |
+| **5. Solución Propuesta** | Plataforma web en Vue.js con dashboard en tiempo real, alertas automáticas, gráficos históricos, control de dispositivos IoT y conexión con sensores reales mediante APIs y protocolos IoT. |
+| **6. Resultados (Outcomes)** | **Resultados esperados:** Menos fallas, más eficiencia, mayor seguridad. <br> **KPIs:** Reducción de incidentes, tiempo de respuesta ante alertas, cantidad de sensores conectados, usuarios activos por semana. |
+| **7. Experimentos** | Prueba piloto en laboratorio real; simulación de alertas; pruebas de usabilidad; encuestas a docentes y técnicos; integración de un sensor IoT real o simulado para validar MVP técnico. |
+| **8. MVP (Producto Mínimo Viable)** | Dashboard básico, conexión con un sensor real o simulado, alertas visuales, gráficos simples, control mínimo de un dispositivo (on/off). |
+
+
 
 ### 1.3 Segmentos Objetivo
 ### Segmento objetivo #1: Investigadores líderes o responsables de laboratorios de investigación  
@@ -1530,7 +1632,7 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 | Alicia Avril Navarro Chang | Alice-keys | C |
 | Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
 
-##### 5.2.2.3. Sprint Backlog 3
+##### 5.2.2.3. Sprint Backlog 2
 En relación de los TS-01 - EP-10:
 | **Sprint #** | **User Story ID** | **User Story Description** | **Task Assigned** |
 |--------------|-------------------|----------------------------|-------------------|
@@ -1573,6 +1675,7 @@ Code reviews mediante pull requests en GitHub
 
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Sprint Planning 3
+
 En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 3, iniciado el 12/10/2025, tiene como propósito Desarrollar el backend de cada boundend context y hacerle deploy:
 
 <table>
@@ -1645,6 +1748,7 @@ This will be confirmed when each bounded context exposes and consumes its own ba
 
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators
+
 Para este Sprint se han establecido los aspectos esenciales relacionados con el desarrollo de la landing page de Utime. Con el propósito de optimizar la organización y la comunicación del equipo, se diseñó la matriz Leadership and Collaboration Matrix (LACX), en la cual se especifica quién desempeña el rol de Líder (L) y quiénes intervienen como Colaboradores (C) en cada uno de estos puntos clave. Esta asignación contribuye a una gestión más clara y a una ejecución más eficiente de las tareas encomendadas.
 
 | **Team Member** | **GitHub Username** | **Landing Page** |
@@ -1655,13 +1759,16 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 | Alicia Avril Navarro Chang | Alice-keys | C |
 | Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
 
-##### 5.2.3.6. Aspect Leaders and Collaborators
+##### 5.2.3.3. Sprint Backlog 3
+##### 5.2.3.4. Development Evidence for Sprint Review
+##### 5.2.3.5. Execution Evidence for Sprint Review
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint se logró documentar un total de 11 endpoints correspondientes a 2 controladores principales de la API. La documentación fue realizada utilizando Swagger,herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (https://backend-i7cb.onrender.com).
 
 A continuación, se detallan los controladores y sus respectivos endpoints documentados:
 
-##### User Profiles Controler 
+##### User Profiles Controler
 Se encarga de la gestión de perfiles de usuario: creación, consulta individual y listados, además de actualización parcial de preferencias.​
 Estos endpoints se alinean con tu backend del learning-center y la estructura solicitada por bounded contexts.
 <img src="assets/assets/chapter-1/users.png" alt="">
@@ -1670,6 +1777,51 @@ Estos endpoints se alinean con tu backend del learning-center y la estructura so
 Se encarga de la gestión de activos: creación, consulta por distintos criterios y actualizaciones parciales de ubicación y condición.​
 Forma parte del contexto de inventario del backend del learning-center, manteniendo separación clara de responsabilidades.
 <img src="assets/assets/chapter-1/inventory.png" alt="">
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
+##### 5.2.4.2. Aspect Leaders and Collaborators
+##### 5.2.4.3. Sprint Backlog 4
+##### 5.2.4.4. Development Evidence for Sprint Review
+##### 5.2.4.5. Execution Evidence for Sprint Review
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de entrevistas de validación
+#### 5.3.2. Registro de entrevistas de validación
+#### 5.3.3. Evaluaciones según heurísticas
+### 5.4. Video About-the-Product
+
+### Resumen del Video About-The-Product
+
+El video *About-The-Product* presenta de forma clara y concisa la propuesta de valor del producto **LabIoT**. Está dirigido a los usuarios que visitan la *Landing Page* y buscan comprender cómo la plataforma permite monitorear, gestionar y supervisar en tiempo real los sensores y dispositivos IoT de un laboratorio educativo.
+
+En el video se explica el propósito del producto, el problema que resuelve, sus funcionalidades principales y cómo contribuye a mejorar la seguridad, la eficiencia y la trazabilidad dentro de los laboratorios académicos. Además, sirve como complemento visual para mostrar los avances logrados durante el proceso de desarrollo.
+
+<img src="./assets/sprint4/about-the-product.png" alt="Video About The Product" width="600">
+
+#### **URL del Video:**
+- [**Microsoft Stream URL**](Linkyoutube.com)
+- [**YouTube URL**](Linkyoutube.com)
+
+---
+
+### Objetivo del Video
+
+El objetivo principal del video es presentar de manera accesible y atractiva el funcionamiento de **LabIoT**, destacando:
+
+- El problema real que enfrentan los laboratorios sin monitoreo IoT.
+- Las funcionalidades más importantes desarrolladas en la plataforma.
+- El impacto del producto en eficiencia, seguridad y gestión de activos.
+- El valor agregado que ofrece a docentes, técnicos y estudiantes.
+
+El video busca transmitir claridad, profesionalismo y confianza, mostrando cómo LabIoT integra tecnologías modernas para brindar una solución integral dentro de entornos educativos.
+
+---
+
 
 ## Conclusiones
 
@@ -1689,20 +1841,82 @@ En este sentido, el proyecto no solo refuerza las competencias técnicas de cons
 sino que también fomenta la capacidad de planificar, liderar y colaborar en equipo bajo una perspectiva académica
 y profesional.
 
+## Recomendaciones
+
+## 7. Recomendaciones
+
+A partir del desarrollo del proyecto LabIoT y de los resultados obtenidos durante los distintos sprints, se plantean las siguientes recomendaciones para continuar fortaleciendo la solución y asegurar su escalabilidad futura:
+
+1. **Ampliar el ecosistema de dispositivos IoT integrados**  
+   Implementar soporte para más tipos de sensores (movimiento, corriente, vibración, cámaras IP) permitirá que la plataforma cubra un espectro más amplio de necesidades dentro del laboratorio.
+
+2. **Optimizar la arquitectura del backend**  
+   Se recomienda implementar patrones avanzados como CQRS o Event-Driven Architecture, especialmente si el número de dispositivos conectados crece. Esto mejorará la escalabilidad y la capacidad de respuesta ante eventos en tiempo real.
+
+3. **Fortalecer las funciones de seguridad y autenticación**  
+   Incluir autenticación multifactor (MFA), cifrado reforzado y políticas granulares por rol brindará mayor protección ante accesos no autorizados, considerando que la plataforma gestiona información sensible del laboratorio.
+
+4. **Agregar módulos de analítica avanzada**  
+   Incorporar análisis predictivo o machine learning podría permitir identificar fallas de equipos antes de que ocurran, mejorando el mantenimiento preventivo y la disponibilidad de los laboratorios.
+
+5. **Realizar pruebas de carga y estrés en ambientes más amplios**  
+   Esto permitirá evaluar el comportamiento de LabIoT con múltiples sensores conectados simultáneamente, garantizando estabilidad y buena experiencia de usuario en escenarios reales.
+
+6. **Mejorar la experiencia de usuario (UX) en el dashboard**  
+   Incorporar nuevas visualizaciones, indicadores intuitivos y personalización del panel según roles puede mejorar la usabilidad y eficiencia del sistema.
+
+7. **Documentar continuamente los servicios y la arquitectura**  
+   Mantener actualizada la documentación técnica, especialmente la generada con Swagger, facilitará futuras mejoras, mantenimiento y escalabilidad del proyecto.
+
+8. **Explorar la implementación de una aplicación móvil complementaria**  
+   Esto brindaría acceso rápido a alertas, monitoreo en tiempo real y gestiones esenciales desde cualquier dispositivo móvil, aumentando la accesibilidad del sistema.
+
+Estas recomendaciones permitirán seguir evolucionando LabIoT como una plataforma robusta, escalable y alineada a las necesidades reales de los laboratorios educativos modernos.
+
+
+## Video About-the-Team
+
+### Resumen del Video About-The-Team
+
+Su propósito es mostrar quiénes participaron en el proyecto, cuáles fueron sus roles y cómo el trabajo colaborativo permitió cumplir con los objetivos de cada sprint.
+
+En el video se expone la contribución de cada miembro, la distribución de tareas en base a metodologías ágiles y cómo el trabajo conjunto permitió completar actividades de backend, frontend, documentación, pruebas y despliegue de la plataforma.
+
+<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
+
+#### **URL del Video:**
+- [**Microsoft Stream URL**](Linkyoutube.com)
+- [**YouTube URL**](Linkyoutube.com)
+
+---
+
+### Objetivo del Video
+
+El propósito del video es mostrar al equipo de desarrollo detrás de **LabIoT**, resaltando:
+
+- Los roles y funciones de cada integrante.
+- La colaboración realizada durante cada sprint.
+- La aplicación de metodologías ágiles para el desarrollo del producto.
+- El compromiso del equipo con la calidad, la organización y la entrega final.
+
+Este video permite humanizar el proyecto y generar cercanía, mostrando el esfuerzo humano que hizo posible la plataforma. También complementa la evidencia del trabajo colaborativo realizado durante el ciclo de desarrollo del curso.
+
+
 ## Bibliografía
 
 Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner’s Approach (9th ed.). McGraw-Hill Education.
-
 Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vuejs.org
 
 ## Anexos
 
-Link de la organización de GitHub: https://github.com/Los-Bytes
-Link del repositorio del reporte: https://github.com/Los-Bytes/Report
-Link del repositorio de landing page: https://github.com/Los-Bytes/Landing-Page/tree/development
-Link de la landing page desplegada: https://landingpage.onrender.com
-Link del Fronted Web Applications: https://github.com/Los-Bytes/FrontendWebApplications
-Link del Fronted Web Applications desplegado: https://frontendwebapplications.onrender.com
-Link del Backend Web: https://github.com/Los-Bytes/Backend/tree/development
-Link del Backend Web desplegado: https://backend-i7cb.onrender.com
+- [Link de la organización de GitHub](https://github.com/Los-Bytes)
+- [Link del repositorio del reporte](https://github.com/Los-Bytes/Report)
+- [Link del repositorio de landing page](https://github.com/Los-Bytes/Landing-Page)
+- [Link de la landing page desplegada](https://landingpage.onrender.com)
+- [Link del repositorio de Frontend](https://github.com/Los-Bytes/FrontendWebApplications)
+- [Link del Frontend desplegada](https://none.com)
+- [Link del repositorio de BackEnd](https://github.com/Los-Bytes/Backend)
+- [Link del Backend desplegado](https://none.com)
+- [Link del trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot)
+
 
