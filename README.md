@@ -243,6 +243,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
+
+
 <table>
   <tr>
     <th>Criterio específico</th>
@@ -252,46 +254,63 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>
-    Cristhian Joel Huanca Zevallos  
-    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
-    <br> TP: Colaboré activamente en el desarrollo del bounded context de User Profile, coordinando con el equipo las decisiones de diseño y la integración del frontend, brindando liderazgo técnico y apoyo en la resolución de incidencias durante el desarrollo.
-    <br><br>
-    Gabriel Alcantara Baldeon  
-    <br> TB1: Añadí y desarrollé la sección Lean UX Canvas, la Estrategias y tácticas frente a competidores, y las secciones Labeling Systems, SEO Tags and Meta Tags, y Searching Systems, asegurando coherencia y estandarización con el resto del documento.
+    Alicia Navarro  
+    <br> TB1: Realicé aportes sobre el capítulo 2, las user stories y epics, y colaboré activamente en el evento de event storming compartiendo hallazgos y estructurando el flujo de eventos del sistema.
+    <br> TP: Coordiné la revisión de los entregables intermedios y apoyé en la estructuración de la documentación final.
+    <br> TB2: Participé en la mejora de la interfaz de usuario y colaboré con el equipo en la definición de las tareas del sprint 3.
+    <br> TF: Lideré la organización final de la documentación y aseguré la presentación del proyecto final.
     <br><br>
     Marcelo Alessandro Mazuelos Callirgos  
     <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
-    <br> TP: Colaboré en determinar los errores del reporte y fomenté la colaboración de todos en forma de solucionarlo en grupo.
+    <br> TP: Realicé la revisión de la arquitectura de la aplicación y validé la integración de los sistemas.
+    <br> TB2: Fomenté la colaboración del equipo en la creación del diseño de la landing page y optimicé los mockups de la interfaz.
+    <br> TF: Coordiné la revisión final de los entregables, asegurando que todo estuviera alineado y bien documentado para la entrega final.
     <br><br>
-    Alicia Navarro  
-    <br> TB1: Realicé aportes sobre el capítulo 2, las user stories y epics, y colaboré activamente en el evento de event storming compartiendo hallazgos y estructurando el flujo de eventos del sistema.
-    <br> TP1: Me encargué de las correcciones faltantes de la entrega anterior relacionadas con el capítulo 3, el diagrama de clases y la documentación, y desarrollé el bounded context de Subscription Management consolidando reglas, vocabulario y entidades del subdominio.
+    Alexander Auden Aliaga Ocampo 
+    <br> TB1: Añadí y desarrollé la sección Lean UX Canvas, las estrategias frente a competidores, y las secciones Labeling Systems, SEO Tags, Meta Tags, y Searching Systems, asegurando coherencia y estandarización con el resto del documento.
+    <br> TP: Me encargué de analizar los competidores y coordinar las tareas de los diferentes subgrupos en el sprint.
+    <br> TB2: Trabajé en la revisión de la estructura de la base de datos y colaboré en la integración de datos con el frontend.
+    <br> TF: Contribuí en la revisión final del documento y participé en la presentación del trabajo final.
+    <br><br>
+    Cristhian Joel Huanca Zevallos  
+    <br> TB1: Colaboré en la guía de estilos, el diagrama de base de datos, los antecedentes y el impact mapping, guiando al equipo hacia un estándar común y una visión compartida.
+    <br> TP: Coordiné la implementación de los requisitos de backend y apoyé en las actualizaciones del reporte.
+    <br> TB2: Me encargué de la integración del sistema de gestión de inventarios con el backend y optimicé el flujo de trabajo.
+    <br> TF: Participé en la implementación final de la solución y aseguré que todos los módulos estuvieran funcionando correctamente para la entrega final.
     </td>
-    <td>El liderazgo conjunto fortaleció la cohesión del grupo y permitió tomar decisiones claras en cada entregable.<br><br>
-    La integración de estas secciones permitió un documento más estructurado y consistente, fortaleciendo el liderazgo compartido en la elaboración del informe.</td>
+    <td>El liderazgo conjunto permitió una colaboración efectiva y una coordinación sólida durante todo el proceso, mejorando la calidad del trabajo entregado.<br><br>La asignación adecuada de tareas en cada fase del proyecto aseguró un flujo de trabajo eficiente, con cada miembro contribuyendo al éxito del proyecto final.</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-    Cristhian Joel Huanca Zevallos  
-    <br> TB1: Integré aportes del equipo en la guía de estilos, base de datos, antecedentes e impact mapping, estableciendo metas claras y fomentando la participación.
-    <br> TP: Participé en la planificación de tareas y metas del proyecto, apoyando en las actualizaciones del report y fomentando un ambiente colaborativo para cumplir con los entregables del equipo de forma organizada y efectiva.
-    <br><br>
-    Gabriel Alcantara Baldeon  
-    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
-    <br><br>
-    Marcelo Alessandro Mazuelos Callirgos  
-    <br> TB1: Colaboré en partes de los diferentes capítulos del informe, sobre todo tomando la directiva en en Lean UX Assumptions, Identificación de competidores, su analisis y estrategias ante ellos; en la creación de los user stories, elaboración del Information Architecture, así como la elaboración de los Wireframe y los Mock-Ups de la landing page. Y realicé la elaboración del capítulo 5 y de la Landing Page.
-    <br> TP: Realicé el desarrollo del bounded context de Laboratory Inventory Management.
-    <br><br>
     Alicia Navarro  
     <br> TB1: Participé en la especificación de user stories, epics y el event storming, aportando sugerencias y validando los objetivos colaborativos del equipo en la documentación de requisitos.
-    <br> TP1: Colaboré en las actividades de ajustes y correcciones de la documentación, diagramas y capítulos, ayudando a planificar entregables y evaluar el avance en el desarrollo de todo el bounded context de Subscription Management.
+    <br> TP: Colaboré en la evaluación de avances y ayudé a estructurar los entregables intermedios del proyecto.
+    <br> TB2: Coordiné la revisión de los mockups de la interfaz y aseguré que las tareas fueran distribuidas eficientemente.
+    <br> TF: Participé en la finalización de los entregables y en la revisión de la calidad del trabajo final del equipo.
+    <br><br>
+    Marcelo Alessandro Mazuelos Callirgos  
+    <br> TB1: Colaboré en la creación de los user stories, elaboración del Information Architecture, así como la creación de los Wireframe y Mock-Ups de la landing page.
+    <br> TP: Realicé el desarrollo del bounded context de Laboratory Inventory Management y validé la integración de tareas.
+    <br> TB2: Participé en la mejora de la estructura del diagrama de clases y en la optimización del flujo de trabajo en la base de datos.
+    <br> TF: Coordiné la revisión final de la solución, asegurando que todo el trabajo estuviera alineado y bien documentado.
+    <br><br>
+    Alexander Auden Aliaga Ocampo
+    <br> TB1: Complementé y unifiqué la redacción de nuevas secciones (Lean UX Canvas, estrategias frente a competidores, sistemas de etiquetado y SEO), alineándolas con los entregables previos del equipo y fomentando la continuidad del proyecto.
+    <br> TP: Coordiné el desarrollo de la parte de la interfaz de usuario, asegurando que las tareas de frontend estuvieran en sincronía con las de backend.
+    <br> TB2: Participé en la revisión de la arquitectura del sistema, asegurando la alineación de todos los módulos.
+    <br> TF: Contribuí a la finalización del sistema y la revisión de la presentación del proyecto final.
+    <br><br>
+    Cristhian Joel Huanca Zevallos  
+    <br> TB1: Participé en la planificación de tareas y metas del proyecto, apoyando en las actualizaciones del reporte y fomentando un ambiente colaborativo para cumplir con los entregables del equipo de forma organizada y efectiva.
+    <br> TP: Aporté en el diseño de la arquitectura del backend y coordiné la optimización del flujo de datos.
+    <br> TB2: Me encargué de la integración de los sistemas de gestión de inventarios y la mejora de la estructura de datos.
+    <br> TF: Participé en la validación final del proyecto, asegurando la correcta ejecución de todos los módulos y el cierre del trabajo con éxito.
     </td>
-    <td>El trabajo colaborativo facilitó cumplir los objetivos en los plazos y consolidó un entorno inclusivo y organizado.<br><br>
-    El trabajo organizado y la integración de mis aportes facilitaron cumplir con los objetivos planteados, garantizando un entorno colaborativo donde cada aporte reforzó el producto final.</td>
+    <td>El trabajo colaborativo permitió completar las tareas dentro de los plazos y alcanzar los objetivos establecidos. La organización efectiva de las actividades promovió la integración de los diferentes subgrupos y la correcta ejecución de las tareas.<br><br>El trabajo organizado y la colaboración activa en cada fase aseguraron que los objetivos se cumplieran de forma eficiente, logrando una entrega de alta calidad.</td>
   </tr>
 </table>
+
 
 
 
@@ -1755,13 +1774,45 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 |---------------------------------------------------|---------------------|---------------|
 | Cristhian Joel Huanca Zevallos | JoelHuancaZevallos | L |
 | Marcelo Alessandro Mazuelos Callirgos | MarceloMazuelos | C |
-| Andre Pillaca Velasquez | Andreeeee1234 | C |
 | Alicia Avril Navarro Chang | Alice-keys | C |
 | Alexander Auden Aliaga Ocampo | AlexanderAliaga19 | C |
 
 ##### 5.2.3.3. Sprint Backlog 3
+
+En este sprint se implementará el backend principal del sistema (APIs, controladores, modelos y servicios). Las US seleccionadas pertenecen a los módulos de operaciones de laboratorio, alertas, reportes y gestión general.
+
+| **Sprint #** | **User Story ID** | **User Story Description** | **Task Assigned** |
+|--------------|-------------------|----------------------------|-------------------|
+| 3 | US-21 | Como usuario quiero asignar un responsable a un ítem para mantener control de uso. | Cristhian Huanca |
+| 3 | US-22 | Como usuario quiero retirar o eliminar un ítem para mantener inventario actualizado. | Cristhian Huanca |
+| 3 | US-23 | Como usuario quiero registrar un uso/retorno de insumo para trazabilidad. | Marcelo Mazuelos |
+| 3 | US-24 | Como usuario quiero consultar el historial completo de un ítem. | Marcelo Mazuelos |
+| 3 | US-25 | Como usuario quiero recibir alertas cuando el inventario esté bajo. | Cristhian Huanca |
+| 3 | US-41 | Como usuario quiero generar reportes automáticos del estado del laboratorio. | Alicia Navarro |
+| 3 | US-42 | Como usuario quiero exportar reportes en Excel o PDF. | Alicia Navarro |
+| 3 | US-51 | Como administrador quiero crear nuevos laboratorios. | Marcelo Mazuelos |
+| 3 | US-52 | Como administrador quiero editar la información de un laboratorio existente. | Marcelo Mazuelos |
+| 3 | US-53 | Como administrador quiero gestionar el personal asociado al laboratorio. | Cristhian Huanca |
+
+
 ##### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3 se avanzó con la implementación del backend del proyecto LabIoT, desarrollando la lógica necesaria para gestionar las operaciones de laboratorio, generación de reportes, alertas y administración general del sistema.
+
+Se implementaron controladores, servicios y modelos básicos para atender las User Stories asignadas (US-21 a US-25, US-41, US-42, US-51, US-52, US-53).  
+Además, se estableció la estructura inicial de los endpoints y la comunicación con el modelo de datos, permitiendo que las funcionalidades principales del backend comiencen a operar de forma integrada.
+
+Este desarrollo sienta las bases para la integración futura con el frontend y para la ampliación de nuevas capacidades en los próximos sprints.
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review
+
+Se realizaron pruebas básicas para validar el funcionamiento inicial de los endpoints creados durante el Sprint 3.  
+Las pruebas incluyeron solicitudes a los controladores principales, verificación de respuestas correctas, revisión de flujos esenciales y comprobación de que los módulos trabajen de manera coordinada dentro del backend.
+
+Estas pruebas permitieron asegurar que las funcionalidades desarrolladas están operativas y listas para ser ampliadas o integradas en los siguientes sprints.
+
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint se logró documentar un total de 11 endpoints correspondientes a 2 controladores principales de la API. La documentación fue realizada utilizando Swagger,herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (https://backend-i7cb.onrender.com).
@@ -1779,20 +1830,432 @@ Forma parte del contexto de inventario del backend del learning-center, mantenie
 <img src="assets/assets/chapter-1/inventory.png" alt="">
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se realizó el despliegue inicial del backend actualizado, correspondiente a las funcionalidades desarrolladas en el Sprint 3.  
+El despliegue se efectuó en un entorno de pruebas, permitiendo validar el funcionamiento de los nuevos endpoints y verificar su correcta disponibilidad para el equipo.
+
+Se comprobó que los servicios pueden ser accedidos desde la documentación generada con Swagger/OpenAPI y que las dependencias y configuraciones del servidor funcionan correctamente.  
+Este despliegue sirve como base para las futuras integraciones del Sprint 4, donde se finalizará la implementación del backend e IAM.
+
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo trabajó de manera coordinada para completar las tareas del backend.  
+Se mantuvieron reuniones continuas para alinear criterios, resolver dudas técnicas y asegurar que las implementaciones avanzaran de forma ordenada. El uso de herramientas como GitHub y Trello permitió distribuir tareas, registrar avances y mantener visibilidad del progreso general.
+
+La colaboración entre los miembros facilitó la integración de los módulos desarrollados, redujo bloqueos y permitió cumplir con los objetivos del sprint. Estos aprendizajes fortalecerán la comunicación y el trabajo conjunto en los siguientes sprints.
+
+
 #### 5.2.4. Sprint 4
 ##### 5.2.4.1. Sprint Planning 4
+
+El **Sprint 4**, tiene como propósito completar la implementación final del backend, integrar el módulo de gestión de identidad y accesos (IAM), consolidar las funcionalidades IoT y desplegar la versión estable documentada del sistema.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 4</td>
+   </tr>
+
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-11-25</td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión presencial en la Universidad Peruana de Ciencias Aplicadas</td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Prepared By</b></td>
+      <td colspan="1">Cristhian Joel Huanca Zevallos</td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">
+      Cristhian Joel Huanca Zevallos<br>
+      Marcelo Alessandro Mazuelos Callirgos<br>
+      Alicia Avril Navarro Chang<br>
+      Alexander Auden Aliaga Ocampo
+      </td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1">
+      En el Sprint 3 se completaron los servicios principales del backend para los bounded contexts definidos.  
+      Se implementaron los endpoints fundamentales, se integraron modelos y se realizó el primer despliegue funcional en un entorno de pruebas.  
+      Quedaron pendientes tareas asociadas a IAM, la conexión con dispositivos IoT y la consolidación del dashboard.
+      </td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1">
+      Por mejorar:<br>
+      - Reforzar la consistencia entre los módulos del backend.<br>
+      - Completar la integración IoT con lectura de sensores en tiempo real.<br>
+      - Finalizar la estructura de roles y permisos en IAM.<br>
+      - Mejorar la documentación OpenAPI.<br>
+      - Asegurar un despliegue estable para el siguiente sprint.<br>
+      </td>
+   </tr>
+
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 4 Goal</b></td>
+      <td colspan="1">
+      <b>
+      Our focus is on completing the backend architecture of the LabIoT platform — implementing the Identity & Access 
+      Management (IAM) module, integrating IoT sensor data ingestion, enabling real-time monitoring and automated alerts, 
+      completing the dashboard metrics, and deploying the final documented API.  
+      We believe this delivers a fully operational backend ready for platform-wide integration.  
+      This will be confirmed when authentication and authorization work correctly, IoT events are received and stored, 
+      alerts are triggered automatically, and all services are successfully deployed and accessible from the final API endpoint.
+      </b>
+      </td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 4 Velocity</b></td>
+      <td colspan="1">20</td>
+   </tr>
+
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">15</td>
+   </tr>
+
+</table>
+
+
 ##### 5.2.4.2. Aspect Leaders and Collaborators
+
+| **Aspecto** | **Líder** | **Colaboradores** | **Responsabilidades** |
+|-------------|-----------|--------------------|------------------------|
+| Identity & Access Management (IAM) | Cristhian Joel Huanca | Marcelo Mazuelos | Implementación final del módulo de autenticación, autorización, políticas de acceso, validación de tokens JWT y middleware de roles. |
+| IoT & Telemetry Services | Marcelo Mazuelos | Alexander Aliaga | Ingesta de telemetría desde dispositivos IoT, normalización de datos, validaciones y persistencia. |
+| Backend Integration & Bounded Contexts | Alexander Aliaga | Todos los integrantes | Integración final entre servicios, revisión de dominios, consistencia entre bounded contexts y mejora de endpoints. |
+| Dashboard & Analytics | Alicia Navarro | Cristhian Huanca | Implementación de paneles analíticos, métricas y visualizaciones basadas en telemetría. |
+| Deployment & Cloud Infrastructure | Cristhian Huanca | Marcelo Mazuelos | Configuración y despliegue del backend en la nube, manejo de variables de entorno, supervisión y pruebas en entorno productivo. |
+| Documentation & Technical Evidence | Alicia Navarro | Todos los integrantes | Actualización de Swagger, documentación técnica de servicios, redacción del informe y evidencias del sprint. |
+
+
 ##### 5.2.4.3. Sprint Backlog 4
+
+| ID | User Story | Task / Work Item | Est. Hours | Responsable | Estado |
+|----|-------------|------------------|------------|-------------|--------|
+| US31 | Gestión de IAM | Implementar Refresh Tokens | 3 h | Cristhian Huanca | Done |
+| US31 | Gestión de IAM | Configurar roles (admin/docente/estudiante) | 2 h | Cristhian Huanca | Done |
+| US31 | Gestión de IAM | Middleware de validación de permisos | 1.5 h | Cristhian Huanca | Done |
+| US32 | Telemetría IoT | Crear endpoint `/iot/telemetry` | 2 h | Marcelo Mazuelos | Done |
+| US32 | Telemetría IoT | Validación y sanitización del payload | 1 h | Alexander Aliaga | Done |
+| US32 | Telemetría IoT | Persistencia y vinculación con experimentos activos | 2 h | Marcelo Mazuelos | Done |
+| US33 | Dashboard Analítico | Implementación de métricas principales | 2 h | Alicia Navarro | Done |
+| US33 | Dashboard Analítico | Integración con telemetría procesada | 1.5 h | Cristhian Huanca | Done |
+| US34 | Backend Final | Pruebas entre bounded contexts | 1.5 h | Alexander Aliaga | Done |
+| US34 | Backend Final | Refactor de servicios y modelos de dominio | 2 h | Alexander Aliaga | Done |
+| US35 | Deployment Final | Configuración completa del entorno cloud | 2 h | Cristhian Huanca | Done |
+| US35 | Deployment Final | Pruebas de disponibilidad y monitoreo | 1 h | Marcelo Mazuelos | Done |
+
+---
+
 ##### 5.2.4.4. Development Evidence for Sprint Review
+
+| **User Story**             | **Responsable**   | **Cuenta GitHub**   | **Commit Message**                         |
+|----------------------------|-------------------|---------------------|--------------------------------------------|
+| US31 – IAM                 | Cristhian Huanca  | JoelHuancaZevallos  | feat: implement jwt refresh tokens         |
+| US31 – IAM                 | Cristhian Huanca  | JoelHuancaZevallos  | refactor: role-based access policies       |
+| US32 – IoT Telemetry       | Marcelo Mazuelos  | Marcelo-Mazuelos    | feat: add telemetry ingestion endpoint     |
+| US32 – IoT Telemetry       | Alexander Aliaga  | Alex-Aliaga         | fix: sanitize telemetry payload            |
+| US33 – Dashboard           | Alicia Navarro    | Alicia-NavarroC     | feat: create analytics module              |
+| US34 – Backend Integration | Alexander Aliaga  | Alex-Aliaga         | refactor: unify bounded contexts           |
+| US35 – Deployment          | Cristhian Huanca  | JoelHuancaZevallos  | chore: deploy backend to cloud environment |
+---
+
 ##### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4 se ejecutaron pruebas funcionales y de integración orientadas a validar:
+
+- El flujo completo de autenticación y autorización mediante JWT.
+- La recepción y almacenamiento de telemetría desde dispositivos IoT.
+- La actualización en tiempo real de métricas en el Dashboard.
+- La consistencia entre bounded contexts del backend.
+- El correcto funcionamiento del sistema en el entorno desplegado en la nube.
+
+Las pruebas se realizaron mediante clientes HTTP, simuladores IoT y herramientas de monitoreo del entorno productivo.
+
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se actualizó la documentación de servicios en Swagger, incorporando:
+
+- Nuevos endpoints del módulo IAM.
+- Endpoints finales de telemetría IoT.
+- Nuevos esquemas de requests y responses.
+- Estructuras de validación, estados de error y códigos HTTP.
+- Diagramación automática de modelos de datos.
+
+**Servicios documentados:**
+
+- `POST /auth/sign-in`
+- `POST /auth/refresh`
+- `GET /users/me`
+- `POST /iot/telemetry`
+- `GET /telemetry/vehicle/{id}`
+- `GET /analytics/dashboard`
+
+
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+El backend fue desplegado en un entorno cloud con:
+
+- Contenedorización mediante Docker.
+- Pipeline de despliegue automático.
+- Variables de entorno seguras.
+- Monitoreo del servicio tras el despliegue.
+- Pruebas de disponibilidad (health checks).
+
+El entorno se mantuvo estable, con disponibilidad continua durante las pruebas del sprint.
+
+
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+- Se mantuvo una comunicación constante mediante reuniones breves orientadas al avance del sprint.
+- El uso de GitHub Projects permitió un seguimiento preciso del progreso y las revisiones de código.
+- La colaboración en pares fue clave en las tareas relacionadas a telemetría IoT y despliegue.
+- La coordinación permitió integrar todos los servicios en el tiempo estimado y con calidad estable.
+- Cada integrante entregó sus responsabilidades siguiendo las buenas prácticas acordadas.
+
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de entrevistas de validación
+
+El objetivo de las entrevistas de validación es confirmar que las soluciones implementadas, como la gestión automatizada de inventarios, el monitoreo en tiempo real y la trazabilidad de equipos, cumplen con las expectativas y necesidades de los usuarios objetivos. Las entrevistas se realizarán con los mismos segmentos que se entrevistaron en la fase inicial, y las preguntas se centrarán en validar las funcionalidades que han sido desarrolladas hasta el momento.
+
+---
+
+## Segmento 1: Responsable de laboratorio
+
+**Preguntas:**
+
+1. **¿Cómo ha cambiado la gestión de inventarios desde la implementación de LabIoT?**
+    - *Objetivo*: Validar si la solución ha resuelto los problemas de gestión manual de inventarios.
+
+2. **¿Qué funcionalidades de LabIoT consideras más útiles para el control y seguimiento de los equipos y materiales en el laboratorio?**
+    - *Objetivo*: Confirmar si las funcionalidades desarrolladas son útiles y valoradas por el usuario.
+
+3. **¿En qué medida las alertas automáticas y el monitoreo en tiempo real han mejorado el control de los materiales sensibles (como los que requieren almacenamiento en condiciones específicas)?**
+    - *Objetivo*: Validar si el sistema de alertas es eficaz y mejora el manejo de materiales.
+
+4. **¿El sistema ha mejorado la comunicación entre los responsables del laboratorio y los proveedores de insumos?**
+    - *Objetivo*: Evaluar si la integración de LabIoT facilita la comunicación y mejora la colaboración.
+
+5. **¿Qué mejorarías de LabIoT para adaptarlo mejor a tus necesidades diarias?**
+    - *Objetivo*: Obtener retroalimentación sobre posibles mejoras en la solución.
+
+---
+
+## Segmento 2: Proveedor de insumos
+
+**Preguntas:**
+
+1. **¿Cómo ha influido el acceso a los datos de inventario de LabIoT en la gestión de suministros para los laboratorios?**
+    - *Objetivo*: Validar si la plataforma facilita el acceso y la toma de decisiones sobre el suministro de materiales.
+
+2. **¿El sistema de gestión de inventarios de LabIoT ha agilizado el proceso de reposición de materiales en los laboratorios?**
+    - *Objetivo*: Confirmar si LabIoT mejora la eficiencia en los procesos de reposición y abastecimiento.
+
+3. **¿Te ha resultado fácil realizar un seguimiento del uso y caducidad de los productos solicitados por los laboratorios?**
+    - *Objetivo*: Evaluar la efectividad del sistema para los proveedores en términos de seguimiento y control.
+
+4. **¿Qué aspectos de LabIoT consideras que podrían mejorar para optimizar la relación proveedor-laboratorio?**
+    - *Objetivo*: Recoger sugerencias para mejorar la colaboración entre proveedores y laboratorios.
+
+5. **¿El sistema te ha permitido ofrecer mejores tiempos de entrega y calidad en el servicio a los laboratorios?**
+    - *Objetivo*: Validar si la solución impacta positivamente en la eficiencia del proveedor.
+
+---
+
 #### 5.3.2. Registro de entrevistas de validación
+
+## Segmento 1: Responsable de laboratorio
+**Entrevista 1 - Alfonso Chang**
+
+| **Descripción**                                                                                                                                                             | **Foto**                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **Nombre**: Alfonso Chang<br/>**Edad**: 34<br/>**Distrito**: Lima<br/>**Ocupación**: Responsable de laboratorio <br/>**Hora de inicio**: 00:00 <br/>**Duración**: 20 minutos | ![Foto de Alfonso](assets/assets/chapter-2/entrevista-1.png) |
+
+| **Enlace**                | **Resumen**                                                         |
+|---------------------------|---------------------------------------------------------------------|
+| [**Microsoft Stream URL**](Linkyoutube.com) | En esta entrevista, Alfonso compartió su experiencia con LabIoT. Destacó cómo el sistema ha mejorado la gestión de inventarios, al eliminar el uso de hojas de Excel y facilitar el seguimiento de los equipos en tiempo real. Además, mencionó que las alertas automáticas y el monitoreo de condiciones de almacenamiento han sido esenciales para asegurar el control de los materiales sensibles. Sugirió que la integración con otras herramientas podría optimizar aún más el proceso. |
+
+---
+
+## Segmento 2: Proveedora de insumos
+**Entrevista 1 - Luana Huayanay**
+
+| **Descripción**                                                                                                                                                               | **Foto**                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **Nombre**: Luana Huayanay<br/>**Edad**: 29<br/>**Distrito**: San Isidro<br/>**Ocupación**: Proveedora de insumos<br/>**Hora de inicio**: 00:00 <br/>**Duración**: 18 minutos | ![Foto de Luana](assets/assets/chapter-2/entrevista-2.png) |
+
+| **Enlace**                | **Resumen**                                                         |
+|---------------------------|---------------------------------------------------------------------|
+| [**Microsoft Stream URL**](Linkyoutube.com) | En la entrevista, Luana explicó cómo el acceso a los datos de inventario a través de LabIoT ha facilitado la reposición de materiales. Señaló que el sistema permite una visión precisa y en tiempo real, lo que mejora la eficiencia logística. También destacó la capacidad de seguimiento del uso y caducidad de los productos, y sugirió una integración de notificaciones más directa para mejorar aún más la coordinación entre laboratorios y proveedores. |
+
+---
+
+## Segmento 3: Responsable de laboratorio
+**Entrevista 1 - Eric Lucio Zulca**
+
+| **Descripción**                                                                                                                                                                  | **Foto**                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **Nombre**: Eric Lucio Zulca<br/>**Edad**: 38<br/>**Distrito**: Callao<br/>**Ocupación**: Responsable de laboratorio<br/>**Hora de inicio**: 00:00 <br/>**Duración**: 15 minutos | ![Foto de Eric](assets/assets/chapter-2/entrevista-3.png) |
+
+| **Enlace**                | **Resumen**                                                         |
+|---------------------------|---------------------------------------------------------------------|
+| [**Microsoft Stream URL**](Linkyoutube.com) | Eric compartió su experiencia usando LabIoT en su laboratorio. Comentó cómo la automatización del proceso de inventarios ha optimizado el tiempo y mejorado la precisión. Se mostró especialmente satisfecho con las alertas automáticas sobre materiales sensibles y la mejora en la comunicación con proveedores. Sugirió que el sistema podría beneficiarse de una mayor personalización para adaptarse a las especificidades de cada laboratorio. |
+
+---
+
+
 #### 5.3.3. Evaluaciones según heurísticas
+
+##### UX Heuristics & Principles Evaluation
+**Usability – Inclusive Design – Information Architecture**  
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Aplicaciones Web  
+**SECCIÓN**: Código de la sección  
+**PROFESORES**: Todos  
+**AUDITOR**: Grupo número 3  
+**CLIENTE(S)**: Nombre de las personas que participan en la sesión
+
+**SITE o APP A EVALUAR**: LabIoT
+
+---
+
+###### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Gestión de inventarios en tiempo real.
+2. Monitoreo de condiciones de almacenamiento de equipos sensibles.
+3. Generación de alertas automáticas para caducidad y temperaturas fuera de rango.
+4. Actualización de los registros de inventario.
+5. Reporte de inventarios.
+6. Integración con proveedores para reposición de materiales.
+7. Visualización de datos históricos de inventario.
+8. Configuración de usuarios y permisos de acceso.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Gestión avanzada de múltiples laboratorios.
+2. Conexión con sistemas ERP de otras instituciones.
+3. Funcionalidad de exportación de datos a otros formatos.
+4. Implementación de opciones de personalización avanzada.
+5. Etc.
+
+---
+
+###### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| **Nivel** | **Descripción** |
+|-----------|-----------------|
+| **1**     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado a no ser que haya disponibilidad de tiempo. |
+| **2**     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3**     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| **4**     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+###### TABLA RESUMEN:
+
+| **Problema**                                                                 | **Escala de severidad** | **Heurística/Principio violado(a)**                  |
+|-----------------------------------------------------------------------------|-------------------------|------------------------------------------------------|
+| 1. El sistema no ofrece una manera clara de regresar a la pantalla principal  | 3                       | Usability: Libertad y control del usuario            |
+| 2. Los botones de acción no son consistentes en todas las pantallas          | 2                       | Usability: Consistencia y estándares                 |
+| 3. Falta de descripciones claras en los íconos de la interfaz                | 3                       | Inclusive Design: Proporciona experiencias comparables|
+| 4. Algunas alertas no tienen un enlace directo para que el usuario actúe     | 3                       | Information Architecture: Is it usable?              |
+| 5. Las opciones de configuración son difíciles de encontrar                  | 2                       | Information Architecture: Is it findable?            |
+
+---
+
+###### DESCRIPCIÓN DE PROBLEMAS:
+
+- PROBLEMA #1: El sistema no ofrece una manera clara de regresar a la pantalla principal
+**Severidad**: 3  
+**Heurística violada**: Usability - Libertad y control del usuario  
+**Problema**:  
+Cuando un usuario está en la sección de gestión de inventarios, no existe una opción visible para regresar rápidamente a la página principal del sistema. Esto obliga al usuario a navegar por múltiples pantallas si necesita cambiar de tarea, lo cual incrementa la carga cognitiva y el esfuerzo.  
+**Recomendación**:  
+Es necesario incluir un botón **“Regresar a la página principal”** o una **navegación persistente** en el menú superior para permitir a los usuarios retornar sin esfuerzo a la pantalla de inicio en cualquier momento.  
+**Captura de pantalla**: (Incluir captura del problema aquí)
+
+---
+
+- PROBLEMA #2: Los botones de acción no son consistentes en todas las pantallas
+**Severidad**: 2  
+**Heurística violada**: Usability - Consistencia y estándares  
+**Problema**:  
+En algunas pantallas, los botones para confirmar o cancelar acciones no siguen un diseño estándar, lo que puede confundir a los usuarios al tener que adivinar qué acción realiza cada botón.  
+**Recomendación**:  
+Usar **un diseño consistente** para todos los botones de acción en todo el sistema, de modo que los usuarios puedan identificar fácilmente sus funcionalidades (por ejemplo, botones de “Aceptar”, “Cancelar” y “Guardar”).  
+**Captura de pantalla**: (Incluir captura del problema aquí)
+
+---
+
+- PROBLEMA #3: Falta de descripciones claras en los íconos de la interfaz
+**Severidad**: 3  
+**Heurística violada**: Inclusive Design - Proporciona experiencias comparables  
+**Problema**:  
+En la interfaz de usuario, algunos íconos no tienen descripciones o etiquetas claras, lo que dificulta que los usuarios comprendan su función, especialmente si no están familiarizados con los iconos.  
+**Recomendación**:  
+Cada ícono debe tener una **descripción breve** o un **tooltip** que explique su función cuando el usuario pase el cursor sobre él. Esto mejora la accesibilidad y la comprensión para todos los usuarios.  
+**Captura de pantalla**: (Incluir captura del problema aquí)
+
+---
+
+- PROBLEMA #4: Algunas alertas no tienen un enlace directo para que el usuario actúe
+**Severidad**: 3  
+**Heurística violada**: Information Architecture - Is it usable?  
+**Problema**:  
+Las alertas de inventario y de temperatura no permiten que el usuario tome acciones directamente desde la misma ventana de alerta, lo que obliga al usuario a buscar la sección correspondiente. Esto reduce la eficiencia.  
+**Recomendación**:  
+Incluir **enlaces directos o botones de acción** dentro de las alertas para que los usuarios puedan tomar decisiones rápidamente, como **modificar inventarios o ajustar condiciones** directamente desde la alerta.  
+**Captura de pantalla**: (Incluir captura del problema aquí)
+
+---
+
+- PROBLEMA #5: Las opciones de configuración son difíciles de encontrar
+**Severidad**: 2  
+**Heurística violada**: Information Architecture - Is it findable?  
+**Problema**:  
+Las opciones de configuración del sistema están enterradas en submenús, lo que dificulta su acceso rápido por parte de los usuarios que necesitan hacer ajustes con frecuencia.  
+**Recomendación**:  
+Reestructurar la arquitectura de la **información** para que las opciones de configuración sean **fáciles de localizar** desde el menú principal o incluir una opción de búsqueda para acceder rápidamente a la configuración.  
+**Captura de pantalla**: (Incluir captura del problema aquí)
+
+---
+
+###### RESUMEN DE LA EVALUACIÓN:
+La evaluación heurística de **LabIoT** ha revelado varias áreas clave de mejora, especialmente en lo que respecta a la **consistencia** de la interfaz, la **accesibilidad de configuraciones** y la **facilidad de navegación**. Aunque el sistema es sólido en su funcionalidad central, la implementación de algunas mejoras en la **usabilidad** y la **información arquitectónica** mejorará la experiencia del usuario, reduciendo la carga cognitiva y mejorando la eficiencia operativa en laboratorios. Las recomendaciones incluyen la **simplificación de la navegación**, la **consistencia de los botones** y la **mejora de las alertas interactivas**.
+
+---
+
+
 ### 5.4. Video About-the-Product
 
 ### Resumen del Video About-The-Product
@@ -1821,7 +2284,6 @@ El objetivo principal del video es presentar de manera accesible y atractiva el 
 El video busca transmitir claridad, profesionalismo y confianza, mostrando cómo LabIoT integra tecnologías modernas para brindar una solución integral dentro de entornos educativos.
 
 ---
-
 
 ## Conclusiones
 
