@@ -1,16 +1,16 @@
 <div align = "center">
   <img style="height: 150px" src=/assets/assets/chapter-1/UPC_logo_transparente.png alt="">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-  <h2>Carrera: de Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-02</h2>
+  <h2>Carrera de Ingeniería de Software</h2>
+  <h2>Ciclo 2025-20</h2>
   <h2>1ASI0730 - Aplicaciones Web </h2>
-  <h2>NRC: 7454</h2>
+  <h2>NRC- 7454</h2>
   <br>
-  <h2>Profesor: Angel Augusto Velasquez Nuñez </h2>
+  <h2>Profesor - Angel Augusto Velásquez Núñez </h2>
   <h2>Informe de Trabajo Final</h2>
   <br>
-  <h2 >Startup: ASSIDUOU SOFTWARE </h2>
-  <h2 >Producto: LabIoT</h2>
+  <h2 >Startup - Los Bytes </h2>
+  <h2 >Producto - LabIoT</h2>
   <br>
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
@@ -23,7 +23,7 @@
   <h4>Diciembre del 2025</h4>
 <br>
 </div>
-
+<div style="page-break-after: always;"></div>
 ## Registro de Versiones del Informe
 
 | Versión | Fecha      | Autor                                            | Descripción de modificación |
