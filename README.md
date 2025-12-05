@@ -2320,11 +2320,11 @@ El video *About-The-Product* presenta de forma clara y concisa la propuesta de v
 
 En el video se explica el propósito del producto, el problema que resuelve, sus funcionalidades principales y cómo contribuye a mejorar la seguridad, la eficiencia y la trazabilidad dentro de los laboratorios académicos. Además, sirve como complemento visual para mostrar los avances logrados durante el proceso de desarrollo.
 
-<img src="./assets/sprint4/about-the-product.png" alt="Video About The Product" width="600">
+<img src="./assets/assets/chapter-5/videos/about-the-product.png" alt="Video About The Product" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQD-1i6d1xubSL2nTVCmFgYqAbq1XrchBbfRHfovvpAeCl8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CoNShc)
+- [**YouTube URL**](https://youtu.be/bconb3BzXSM)
 
 ---
 
@@ -2400,7 +2400,7 @@ Su propósito es mostrar quiénes participaron en el proyecto, cuáles fueron su
 
 En el video se expone la contribución de cada miembro, la distribución de tareas en base a metodologías ágiles y cómo el trabajo conjunto permitió completar actividades de backend, frontend, documentación, pruebas y despliegue de la plataforma.
 
-<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
+<img src="./assets/assets/chapter-5/videos/about%20the%20team%20lab.png" alt="Video About The Team" width="600">
 
 #### **URL del Video:**
 - [**Microsoft Stream URL**](Linkyoutube.com)
@@ -2432,9 +2432,9 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 - [Link del repositorio de landing page](https://github.com/Los-Bytes/Landing-Page)
 - [Link de la landing page desplegada](https://landingpage.onrender.com)
 - [Link del repositorio de Frontend](https://github.com/Los-Bytes/FrontendWebApplications)
-- [Link del Frontend desplegada](https://none.com)
+- [Link del Frontend desplegada](https://frontendwebapplications-7x8z.onrender.com/home)
 - [Link del repositorio de BackEnd](https://github.com/Los-Bytes/Backend)
-- [Link del Backend desplegado](https://none.com)
+- [Link del Backend desplegado](https://backend-6-9vow.onrender.com/swagger/index.html)
 - [Link del trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot)
 
 
