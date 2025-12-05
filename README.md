@@ -1919,12 +1919,14 @@ El **Sprint 4**, tiene como propósito completar la implementación final del ba
       <td colspan="1" align="center"><b>Sprint 4 Goal</b></td>
       <td colspan="1">
       <b>
-      Our focus is on completing the backend architecture of the LabIoT platform — implementing the Identity & Access 
-      Management (IAM) module, integrating IoT sensor data ingestion, enabling real-time monitoring and automated alerts, 
-      completing the dashboard metrics, and deploying the final documented API.  
-      We believe this delivers a fully operational backend ready for platform-wide integration.  
-      This will be confirmed when authentication and authorization work correctly, IoT events are received and stored, 
-      alerts are triggered automatically, and all services are successfully deployed and accessible from the final API endpoint.
+      El objetivo de este sprint es finalizar la arquitectura backend de la plataforma LabIoT.
+Esto incluye implementar el módulo de gestión de identidad y acceso (IAM), integrar la ingesta 
+de datos de sensores IoT, habilitar el monitoreo en tiempo real y las alertas automáticas, 
+completar las métricas del panel y entregar la API documentada final. El backend deberá 
+estar completamente operativo, listo para integrarse en la plataforma, lo cual se verificará 
+al asegurar el correcto funcionamiento de la autenticación, la recepción y almacenamiento de 
+eventos de IoT, la activación de alertas automáticas y la correcta implementación y 
+accesibilidad de los servicios desde la API.
       </b>
       </td>
    </tr>
@@ -2096,6 +2098,9 @@ Consola de logs del backend desplegado:
 - La colaboración en pares fue clave en las tareas relacionadas a telemetría IoT y despliegue.
 - La coordinación permitió integrar todos los servicios en el tiempo estimado y con calidad estable.
 - Cada integrante entregó sus responsabilidades siguiendo las buenas prácticas acordadas.
+
+Evidencia del tablero de Trello con las tareas del sprint completadas:
+![Dedploy del backend 2](/assets/assets/chapter-5/sprint4/trellofinal.png)
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de entrevistas de validación
@@ -2320,11 +2325,11 @@ El video *About-The-Product* presenta de forma clara y concisa la propuesta de v
 
 En el video se explica el propósito del producto, el problema que resuelve, sus funcionalidades principales y cómo contribuye a mejorar la seguridad, la eficiencia y la trazabilidad dentro de los laboratorios académicos. Además, sirve como complemento visual para mostrar los avances logrados durante el proceso de desarrollo.
 
-<img src="./assets/sprint4/about-the-product.png" alt="Video About The Product" width="600">
+<img src="./assets/assets/chapter-5/videos/about-the-product.png" alt="Video About The Product" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQD-1i6d1xubSL2nTVCmFgYqAbq1XrchBbfRHfovvpAeCl8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CoNShc)
+- [**YouTube URL**](https://youtu.be/bconb3BzXSM)
 
 ---
 
@@ -2400,11 +2405,11 @@ Su propósito es mostrar quiénes participaron en el proyecto, cuáles fueron su
 
 En el video se expone la contribución de cada miembro, la distribución de tareas en base a metodologías ágiles y cómo el trabajo conjunto permitió completar actividades de backend, frontend, documentación, pruebas y despliegue de la plataforma.
 
-<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
+<img src="./assets/assets/chapter-5/videos/about%20the%20team%20lab.png" alt="Video About The Team" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQBda5r08LIPTbwMqDfqZ3kSARfdFSi8wesYZZyizYOfRi8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KIrMmM)
+- [**YouTube URL**](https://youtu.be/qcBa17T2pYk)
 
 ---
 
@@ -2432,9 +2437,9 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 - [Link del repositorio de landing page](https://github.com/Los-Bytes/Landing-Page)
 - [Link de la landing page desplegada](https://landingpage.onrender.com)
 - [Link del repositorio de Frontend](https://github.com/Los-Bytes/FrontendWebApplications)
-- [Link del Frontend desplegada](https://none.com)
+- [Link del Frontend desplegada](https://frontendwebapplications-7x8z.onrender.com/home)
 - [Link del repositorio de BackEnd](https://github.com/Los-Bytes/Backend)
-- [Link del Backend desplegado](https://none.com)
+- [Link del Backend desplegado](https://backend-6-9vow.onrender.com/swagger/index.html)
 - [Link del trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot)
 
 
