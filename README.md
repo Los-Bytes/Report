@@ -1919,12 +1919,14 @@ El **Sprint 4**, tiene como propósito completar la implementación final del ba
       <td colspan="1" align="center"><b>Sprint 4 Goal</b></td>
       <td colspan="1">
       <b>
-      Our focus is on completing the backend architecture of the LabIoT platform — implementing the Identity & Access 
-      Management (IAM) module, integrating IoT sensor data ingestion, enabling real-time monitoring and automated alerts, 
-      completing the dashboard metrics, and deploying the final documented API.  
-      We believe this delivers a fully operational backend ready for platform-wide integration.  
-      This will be confirmed when authentication and authorization work correctly, IoT events are received and stored, 
-      alerts are triggered automatically, and all services are successfully deployed and accessible from the final API endpoint.
+      El objetivo de este sprint es finalizar la arquitectura backend de la plataforma LabIoT.
+Esto incluye implementar el módulo de gestión de identidad y acceso (IAM), integrar la ingesta 
+de datos de sensores IoT, habilitar el monitoreo en tiempo real y las alertas automáticas, 
+completar las métricas del panel y entregar la API documentada final. El backend deberá 
+estar completamente operativo, listo para integrarse en la plataforma, lo cual se verificará 
+al asegurar el correcto funcionamiento de la autenticación, la recepción y almacenamiento de 
+eventos de IoT, la activación de alertas automáticas y la correcta implementación y 
+accesibilidad de los servicios desde la API.
       </b>
       </td>
    </tr>
@@ -2096,6 +2098,9 @@ Consola de logs del backend desplegado:
 - La colaboración en pares fue clave en las tareas relacionadas a telemetría IoT y despliegue.
 - La coordinación permitió integrar todos los servicios en el tiempo estimado y con calidad estable.
 - Cada integrante entregó sus responsabilidades siguiendo las buenas prácticas acordadas.
+
+Evidencia del tablero de Trello con las tareas del sprint completadas:
+![Dedploy del backend 2](/assets/assets/chapter-5/sprint4/trellofinal.png)
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de entrevistas de validación
@@ -2403,8 +2408,8 @@ En el video se expone la contribución de cada miembro, la distribución de tare
 <img src="./assets/assets/chapter-5/videos/about%20the%20team%20lab.png" alt="Video About The Team" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQBda5r08LIPTbwMqDfqZ3kSARfdFSi8wesYZZyizYOfRi8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KIrMmM)
+- [**YouTube URL**](https://youtu.be/qcBa17T2pYk)
 
 ---
 
