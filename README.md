@@ -1956,34 +1956,34 @@ El **Sprint 4**, tiene como propósito completar la implementación final del ba
 
 ##### 5.2.4.3. Sprint Backlog 4
 
-| ID | User Story | Task / Work Item | Est. Hours | Responsable | Estado |
-|----|-------------|------------------|------------|-------------|--------|
-| US31 | Gestión de IAM | Implementar Refresh Tokens | 3 h | Cristhian Huanca | Done |
-| US31 | Gestión de IAM | Configurar roles (admin/docente/estudiante) | 2 h | Cristhian Huanca | Done |
-| US31 | Gestión de IAM | Middleware de validación de permisos | 1.5 h | Cristhian Huanca | Done |
-| US32 | Telemetría IoT | Crear endpoint `/iot/telemetry` | 2 h | Marcelo Mazuelos | Done |
-| US32 | Telemetría IoT | Validación y sanitización del payload | 1 h | Alexander Aliaga | Done |
-| US32 | Telemetría IoT | Persistencia y vinculación con experimentos activos | 2 h | Marcelo Mazuelos | Done |
-| US33 | Dashboard Analítico | Implementación de métricas principales | 2 h | Alicia Navarro | Done |
-| US33 | Dashboard Analítico | Integración con telemetría procesada | 1.5 h | Cristhian Huanca | Done |
-| US34 | Backend Final | Pruebas entre bounded contexts | 1.5 h | Alexander Aliaga | Done |
-| US34 | Backend Final | Refactor de servicios y modelos de dominio | 2 h | Alexander Aliaga | Done |
-| US35 | Deployment Final | Configuración completa del entorno cloud | 2 h | Cristhian Huanca | Done |
-| US35 | Deployment Final | Pruebas de disponibilidad y monitoreo | 1 h | Marcelo Mazuelos | Done |
+| ID   | User Story                | Task / Work Item | Est. Hours | Responsable | Estado |
+|------|---------------------------|------------------|------------|-------------|--------|
+| TS31 | Gestión de IAM            | Implementar Refresh Tokens | 3 h | Cristhian Huanca | Done |
+| TS31 | Gestión de IAM            | Configurar roles (admin/docente/estudiante) | 2 h | Cristhian Huanca | Done |
+| TS31 | Gestión de IAM            | Middleware de validación de permisos | 1.5 h | Cristhian Huanca | Done |
+| TS32 | Historial del laboratorio | Crear endpoint `/iot/telemetry` | 2 h | Marcelo Mazuelos | Done |
+| TS32 | Historial del laboratorio            | Validación y sanitización del payload | 1 h | Alexander Aliaga | Done |
+| TS32 | Historial del laboratorio            | Persistencia y vinculación con experimentos activos | 2 h | Marcelo Mazuelos | Done |
+| TS33 | Dashboard Analítico       | Implementación de métricas principales | 2 h | Alicia Navarro | Done |
+| TS33 | Dashboard Analítico       | Integración con telemetría procesada | 1.5 h | Cristhian Huanca | Done |
+| TS34 | Backend Final             | Pruebas entre bounded contexts | 1.5 h | Alexander Aliaga | Done |
+| TS34 | Backend Final             | Refactor de servicios y modelos de dominio | 2 h | Alexander Aliaga | Done |
+| TS35 | Deployment Final          | Configuración completa del entorno cloud | 2 h | Cristhian Huanca | Done |
+| TS35 | Deployment Final          | Pruebas de disponibilidad y monitoreo | 1 h | Marcelo Mazuelos | Done |
 
 ---
 
 ##### 5.2.4.4. Development Evidence for Sprint Review
 
-| **User Story**             | **Responsable**   | **Cuenta GitHub**   | **Commit Message**                         |
-|----------------------------|-------------------|---------------------|--------------------------------------------|
-| US31 – IAM                 | Cristhian Huanca  | JoelHuancaZevallos  | feat: implement jwt refresh tokens         |
-| US31 – IAM                 | Cristhian Huanca  | JoelHuancaZevallos  | refactor: role-based access policies       |
-| US32 – IoT Telemetry       | Marcelo Mazuelos  | Marcelo-Mazuelos    | feat: add telemetry ingestion endpoint     |
-| US32 – IoT Telemetry       | Alexander Aliaga  | Alex-Aliaga         | fix: sanitize telemetry payload            |
-| US33 – Dashboard           | Alicia Navarro    | Alicia-NavarroC     | feat: create analytics module              |
-| US34 – Backend Integration | Alexander Aliaga  | Alex-Aliaga         | refactor: unify bounded contexts           |
-| US35 – Deployment          | Cristhian Huanca  | JoelHuancaZevallos  | chore: deploy backend to cloud environment |
+| **User Story**                       | **Responsable**   | **Cuenta GitHub**   | **Commit Message**                         |
+|--------------------------------------|-------------------|---------------------|--------------------------------------------|
+| TS31 – IAM                           | Cristhian Huanca  | JoelHuancaZevallos  | feat: implement jwt refresh tokens         |
+| TS31 – IAM                           | Cristhian Huanca  | JoelHuancaZevallos  | refactor: role-based access policies       |
+| TS32 – Historial del laboratorio     | Marcelo Mazuelos  | Marcelo-Mazuelos    | feat: add telemetry ingestion endpoint     |
+| TS32 – Historial del laboratorio     | Alexander Aliaga  | Alex-Aliaga         | fix: sanitize telemetry payload            |
+| TS33 – Dashboard                     | Alicia Navarro    | Alicia-NavarroC     | feat: create analytics module              |
+| TS34 – Backend Integration           | Alexander Aliaga  | Alex-Aliaga         | refactor: unify bounded contexts           |
+| TS35 – Deployment                    | Cristhian Huanca  | JoelHuancaZevallos  | chore: deploy backend to cloud environment |
 ---
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
@@ -1998,26 +1998,77 @@ Durante el Sprint 4 se ejecutaron pruebas funcionales y de integración orientad
 
 Las pruebas se realizaron mediante clientes HTTP, simuladores IoT y herramientas de monitoreo del entorno productivo.
 
+Evidencia de pruebas de ejecucion del frontend y backend conectados:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/front-versionfinal.jpeg)
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final3.jpeg)
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Se actualizó la documentación de servicios en Swagger, incorporando:
 
 - Nuevos endpoints del módulo IAM.
-- Endpoints finales de telemetría IoT.
+- Endpoints finales.
 - Nuevos esquemas de requests y responses.
 - Estructuras de validación, estados de error y códigos HTTP.
 - Diagramación automática de modelos de datos.
 
 **Servicios documentados:**
+1. Subscriptions:
+   - `GET /API/v1/subcriptions/{id}`
+   - `PUT /API/v1/subcriptions/{id}`
+   - `GET /API/v1/subcriptions/user{userId}`
+   - `GET /API/v1/subcriptions/user/{UserId}/all`
+   - `POST /API/v1/subcriptions`
 
-- `POST /auth/sign-in`
-- `POST /auth/refresh`
-- `GET /users/me`
-- `POST /iot/telemetry`
-- `GET /telemetry/vehicle/{id}`
-- `GET /analytics/dashboard`
+2. UserProfiles:
+    - `GET /API/v1/user-profiles/{userId}`
+    - `POST /API/v1/user-profiles`
+    - `GET /API/v1/user-profiles`
+    - `PATCH /API/v1/user-profiles/{userId}/preferences`
+   
+3. Laboratories:
+    - `GET /API/v1/laboratories/{id}`
+    - `PUT /API/v1/laboratories/{id}`
+    - `DELETE /API/v1/laboratories/{id}`
+    - `GET /API/v1/laboratories`
+    - `POST /API/v1/laboratories`
+    - `POST /API/v1/laboratories/{id}`
+    - `DELETE /API/v1/laboratories/{id}`
 
+4. Laboratories:
+    - `GET /API/v1/inventory/{assetId}`
+    - `GET /API/v1/inventory/by-rfid/{rfidTagId}`
+    - `GET /API/v1/inventory/bu-user/{responsibleUserId}`
+    - `POST /API/v1/inventory`
+    - `GET /API/v1/inventory`
+    - `PATCH /API/v1/inventory/{assetId}/location`
+    - `PATCH /API/v1/inventory/{assetId}/condition`
+
+5. Authentication:
+    - `POST /API/v1/authentication/sign-in`
+    - `POST /API/v1/authentication/sign-up`
+    - 
+6. Users:
+    - `GET /API/v1/users{id}`
+    - `GET /API/v1/users`
+
+7. Backend.API:
+    - `GET /`
+    - 
+8. HistoryEntries
+    - `GET /history`
+    - `POST /historyy`
+    - `GET /history/{historyEntryId}`
+    - `DELETE /history/{historyEntryId}`
+<br><br>
+Evidencia del Swagger:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final3.jpeg)
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final2.jpeg)
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final1.jpeg)
+
+Evidencia de tokens en todos los endpoints:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/tokens-service.jpeg)
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -2029,8 +2080,14 @@ El backend fue desplegado en un entorno cloud con:
 - Monitoreo del servicio tras el despliegue.
 - Pruebas de disponibilidad (health checks).
 
-El entorno se mantuvo estable, con disponibilidad continua durante las pruebas del sprint.
-
+El entorno se mantuvo estable, con disponibilidad continua durante las pruebas del sprint. A continuacion se
+se muestra la evidencia del deploy y correcto funcionamiento.
+<br><br>
+Dashboard de monitoreo del backend desplegado:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/deploy-back1.jpeg)
+<br><br>
+Consola de logs del backend desplegado:
+![Dedploy del backend 2](/assets/assets/chapter-5/sprint4/deploy-back2.jpeg)
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
