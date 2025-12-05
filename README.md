@@ -1919,12 +1919,14 @@ El **Sprint 4**, tiene como propósito completar la implementación final del ba
       <td colspan="1" align="center"><b>Sprint 4 Goal</b></td>
       <td colspan="1">
       <b>
-      Our focus is on completing the backend architecture of the LabIoT platform — implementing the Identity & Access 
-      Management (IAM) module, integrating IoT sensor data ingestion, enabling real-time monitoring and automated alerts, 
-      completing the dashboard metrics, and deploying the final documented API.  
-      We believe this delivers a fully operational backend ready for platform-wide integration.  
-      This will be confirmed when authentication and authorization work correctly, IoT events are received and stored, 
-      alerts are triggered automatically, and all services are successfully deployed and accessible from the final API endpoint.
+      El objetivo de este sprint es finalizar la arquitectura backend de la plataforma LabIoT.
+Esto incluye implementar el módulo de gestión de identidad y acceso (IAM), integrar la ingesta 
+de datos de sensores IoT, habilitar el monitoreo en tiempo real y las alertas automáticas, 
+completar las métricas del panel y entregar la API documentada final. El backend deberá 
+estar completamente operativo, listo para integrarse en la plataforma, lo cual se verificará 
+al asegurar el correcto funcionamiento de la autenticación, la recepción y almacenamiento de 
+eventos de IoT, la activación de alertas automáticas y la correcta implementación y 
+accesibilidad de los servicios desde la API.
       </b>
       </td>
    </tr>
@@ -1956,34 +1958,34 @@ El **Sprint 4**, tiene como propósito completar la implementación final del ba
 
 ##### 5.2.4.3. Sprint Backlog 4
 
-| ID | User Story | Task / Work Item | Est. Hours | Responsable | Estado |
-|----|-------------|------------------|------------|-------------|--------|
-| US31 | Gestión de IAM | Implementar Refresh Tokens | 3 h | Cristhian Huanca | Done |
-| US31 | Gestión de IAM | Configurar roles (admin/docente/estudiante) | 2 h | Cristhian Huanca | Done |
-| US31 | Gestión de IAM | Middleware de validación de permisos | 1.5 h | Cristhian Huanca | Done |
-| US32 | Telemetría IoT | Crear endpoint `/iot/telemetry` | 2 h | Marcelo Mazuelos | Done |
-| US32 | Telemetría IoT | Validación y sanitización del payload | 1 h | Alexander Aliaga | Done |
-| US32 | Telemetría IoT | Persistencia y vinculación con experimentos activos | 2 h | Marcelo Mazuelos | Done |
-| US33 | Dashboard Analítico | Implementación de métricas principales | 2 h | Alicia Navarro | Done |
-| US33 | Dashboard Analítico | Integración con telemetría procesada | 1.5 h | Cristhian Huanca | Done |
-| US34 | Backend Final | Pruebas entre bounded contexts | 1.5 h | Alexander Aliaga | Done |
-| US34 | Backend Final | Refactor de servicios y modelos de dominio | 2 h | Alexander Aliaga | Done |
-| US35 | Deployment Final | Configuración completa del entorno cloud | 2 h | Cristhian Huanca | Done |
-| US35 | Deployment Final | Pruebas de disponibilidad y monitoreo | 1 h | Marcelo Mazuelos | Done |
+| ID   | User Story                | Task / Work Item | Est. Hours | Responsable | Estado |
+|------|---------------------------|------------------|------------|-------------|--------|
+| TS31 | Gestión de IAM            | Implementar Refresh Tokens | 3 h | Cristhian Huanca | Done |
+| TS31 | Gestión de IAM            | Configurar roles (admin/docente/estudiante) | 2 h | Cristhian Huanca | Done |
+| TS31 | Gestión de IAM            | Middleware de validación de permisos | 1.5 h | Cristhian Huanca | Done |
+| TS32 | Historial del laboratorio | Crear endpoint `/iot/telemetry` | 2 h | Marcelo Mazuelos | Done |
+| TS32 | Historial del laboratorio            | Validación y sanitización del payload | 1 h | Alexander Aliaga | Done |
+| TS32 | Historial del laboratorio            | Persistencia y vinculación con experimentos activos | 2 h | Marcelo Mazuelos | Done |
+| TS33 | Dashboard Analítico       | Implementación de métricas principales | 2 h | Alicia Navarro | Done |
+| TS33 | Dashboard Analítico       | Integración con telemetría procesada | 1.5 h | Cristhian Huanca | Done |
+| TS34 | Backend Final             | Pruebas entre bounded contexts | 1.5 h | Alexander Aliaga | Done |
+| TS34 | Backend Final             | Refactor de servicios y modelos de dominio | 2 h | Alexander Aliaga | Done |
+| TS35 | Deployment Final          | Configuración completa del entorno cloud | 2 h | Cristhian Huanca | Done |
+| TS35 | Deployment Final          | Pruebas de disponibilidad y monitoreo | 1 h | Marcelo Mazuelos | Done |
 
 ---
 
 ##### 5.2.4.4. Development Evidence for Sprint Review
 
-| **User Story**             | **Responsable**   | **Cuenta GitHub**   | **Commit Message**                         |
-|----------------------------|-------------------|---------------------|--------------------------------------------|
-| US31 – IAM                 | Cristhian Huanca  | JoelHuancaZevallos  | feat: implement jwt refresh tokens         |
-| US31 – IAM                 | Cristhian Huanca  | JoelHuancaZevallos  | refactor: role-based access policies       |
-| US32 – IoT Telemetry       | Marcelo Mazuelos  | Marcelo-Mazuelos    | feat: add telemetry ingestion endpoint     |
-| US32 – IoT Telemetry       | Alexander Aliaga  | Alex-Aliaga         | fix: sanitize telemetry payload            |
-| US33 – Dashboard           | Alicia Navarro    | Alicia-NavarroC     | feat: create analytics module              |
-| US34 – Backend Integration | Alexander Aliaga  | Alex-Aliaga         | refactor: unify bounded contexts           |
-| US35 – Deployment          | Cristhian Huanca  | JoelHuancaZevallos  | chore: deploy backend to cloud environment |
+| **User Story**                       | **Responsable**   | **Cuenta GitHub**   | **Commit Message**                         |
+|--------------------------------------|-------------------|---------------------|--------------------------------------------|
+| TS31 – IAM                           | Cristhian Huanca  | JoelHuancaZevallos  | feat: implement jwt refresh tokens         |
+| TS31 – IAM                           | Cristhian Huanca  | JoelHuancaZevallos  | refactor: role-based access policies       |
+| TS32 – Historial del laboratorio     | Marcelo Mazuelos  | Marcelo-Mazuelos    | feat: add telemetry ingestion endpoint     |
+| TS32 – Historial del laboratorio     | Alexander Aliaga  | Alex-Aliaga         | fix: sanitize telemetry payload            |
+| TS33 – Dashboard                     | Alicia Navarro    | Alicia-NavarroC     | feat: create analytics module              |
+| TS34 – Backend Integration           | Alexander Aliaga  | Alex-Aliaga         | refactor: unify bounded contexts           |
+| TS35 – Deployment                    | Cristhian Huanca  | JoelHuancaZevallos  | chore: deploy backend to cloud environment |
 ---
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
@@ -1998,26 +2000,77 @@ Durante el Sprint 4 se ejecutaron pruebas funcionales y de integración orientad
 
 Las pruebas se realizaron mediante clientes HTTP, simuladores IoT y herramientas de monitoreo del entorno productivo.
 
+Evidencia de pruebas de ejecucion del frontend y backend conectados:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/front-versionfinal.jpeg)
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final3.jpeg)
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Se actualizó la documentación de servicios en Swagger, incorporando:
 
 - Nuevos endpoints del módulo IAM.
-- Endpoints finales de telemetría IoT.
+- Endpoints finales.
 - Nuevos esquemas de requests y responses.
 - Estructuras de validación, estados de error y códigos HTTP.
 - Diagramación automática de modelos de datos.
 
 **Servicios documentados:**
+1. Subscriptions:
+   - `GET /API/v1/subcriptions/{id}`
+   - `PUT /API/v1/subcriptions/{id}`
+   - `GET /API/v1/subcriptions/user{userId}`
+   - `GET /API/v1/subcriptions/user/{UserId}/all`
+   - `POST /API/v1/subcriptions`
 
-- `POST /auth/sign-in`
-- `POST /auth/refresh`
-- `GET /users/me`
-- `POST /iot/telemetry`
-- `GET /telemetry/vehicle/{id}`
-- `GET /analytics/dashboard`
+2. UserProfiles:
+    - `GET /API/v1/user-profiles/{userId}`
+    - `POST /API/v1/user-profiles`
+    - `GET /API/v1/user-profiles`
+    - `PATCH /API/v1/user-profiles/{userId}/preferences`
+   
+3. Laboratories:
+    - `GET /API/v1/laboratories/{id}`
+    - `PUT /API/v1/laboratories/{id}`
+    - `DELETE /API/v1/laboratories/{id}`
+    - `GET /API/v1/laboratories`
+    - `POST /API/v1/laboratories`
+    - `POST /API/v1/laboratories/{id}`
+    - `DELETE /API/v1/laboratories/{id}`
 
+4. Laboratories:
+    - `GET /API/v1/inventory/{assetId}`
+    - `GET /API/v1/inventory/by-rfid/{rfidTagId}`
+    - `GET /API/v1/inventory/bu-user/{responsibleUserId}`
+    - `POST /API/v1/inventory`
+    - `GET /API/v1/inventory`
+    - `PATCH /API/v1/inventory/{assetId}/location`
+    - `PATCH /API/v1/inventory/{assetId}/condition`
+
+5. Authentication:
+    - `POST /API/v1/authentication/sign-in`
+    - `POST /API/v1/authentication/sign-up`
+    - 
+6. Users:
+    - `GET /API/v1/users{id}`
+    - `GET /API/v1/users`
+
+7. Backend.API:
+    - `GET /`
+    - 
+8. HistoryEntries
+    - `GET /history`
+    - `POST /historyy`
+    - `GET /history/{historyEntryId}`
+    - `DELETE /history/{historyEntryId}`
+<br><br>
+Evidencia del Swagger:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final3.jpeg)
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final2.jpeg)
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/back-final1.jpeg)
+
+Evidencia de tokens en todos los endpoints:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/tokens-service.jpeg)
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -2029,8 +2082,14 @@ El backend fue desplegado en un entorno cloud con:
 - Monitoreo del servicio tras el despliegue.
 - Pruebas de disponibilidad (health checks).
 
-El entorno se mantuvo estable, con disponibilidad continua durante las pruebas del sprint.
-
+El entorno se mantuvo estable, con disponibilidad continua durante las pruebas del sprint. A continuacion se
+se muestra la evidencia del deploy y correcto funcionamiento.
+<br><br>
+Dashboard de monitoreo del backend desplegado:
+![Dedploy del backend 1](/assets/assets/chapter-5/sprint4/deploy-back1.jpeg)
+<br><br>
+Consola de logs del backend desplegado:
+![Dedploy del backend 2](/assets/assets/chapter-5/sprint4/deploy-back2.jpeg)
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -2039,6 +2098,9 @@ El entorno se mantuvo estable, con disponibilidad continua durante las pruebas d
 - La colaboración en pares fue clave en las tareas relacionadas a telemetría IoT y despliegue.
 - La coordinación permitió integrar todos los servicios en el tiempo estimado y con calidad estable.
 - Cada integrante entregó sus responsabilidades siguiendo las buenas prácticas acordadas.
+
+Evidencia del tablero de Trello con las tareas del sprint completadas:
+![Dedploy del backend 2](/assets/assets/chapter-5/sprint4/trellofinal.png)
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de entrevistas de validación
@@ -2263,11 +2325,11 @@ El video *About-The-Product* presenta de forma clara y concisa la propuesta de v
 
 En el video se explica el propósito del producto, el problema que resuelve, sus funcionalidades principales y cómo contribuye a mejorar la seguridad, la eficiencia y la trazabilidad dentro de los laboratorios académicos. Además, sirve como complemento visual para mostrar los avances logrados durante el proceso de desarrollo.
 
-<img src="./assets/sprint4/about-the-product.png" alt="Video About The Product" width="600">
+<img src="./assets/assets/chapter-5/videos/about-the-product.png" alt="Video About The Product" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQD-1i6d1xubSL2nTVCmFgYqAbq1XrchBbfRHfovvpAeCl8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CoNShc)
+- [**YouTube URL**](https://youtu.be/bconb3BzXSM)
 
 ---
 
@@ -2343,11 +2405,11 @@ Su propósito es mostrar quiénes participaron en el proyecto, cuáles fueron su
 
 En el video se expone la contribución de cada miembro, la distribución de tareas en base a metodologías ágiles y cómo el trabajo conjunto permitió completar actividades de backend, frontend, documentación, pruebas y despliegue de la plataforma.
 
-<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
+<img src="./assets/assets/chapter-5/videos/about%20the%20team%20lab.png" alt="Video About The Team" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQBda5r08LIPTbwMqDfqZ3kSARfdFSi8wesYZZyizYOfRi8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KIrMmM)
+- [**YouTube URL**](https://youtu.be/qcBa17T2pYk)
 
 ---
 
@@ -2375,9 +2437,9 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 - [Link del repositorio de landing page](https://github.com/Los-Bytes/Landing-Page)
 - [Link de la landing page desplegada](https://landingpage.onrender.com)
 - [Link del repositorio de Frontend](https://github.com/Los-Bytes/FrontendWebApplications)
-- [Link del Frontend desplegada](https://none.com)
+- [Link del Frontend desplegada](https://frontendwebapplications-7x8z.onrender.com/home)
 - [Link del repositorio de BackEnd](https://github.com/Los-Bytes/Backend)
-- [Link del Backend desplegado](https://none.com)
+- [Link del Backend desplegado](https://backend-6-9vow.onrender.com/swagger/index.html)
 - [Link del trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot)
 
 
