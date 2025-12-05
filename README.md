@@ -2434,7 +2434,7 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 
 - [Link de la organización de GitHub](https://github.com/Los-Bytes)
 - [Link del repositorio del reporte](https://github.com/Los-Bytes/Report)
-- [Link del repositorio de landing page](https://github.com/Los-Bytes/Landing-Page)
+- [Link del repositorio de landing page](https://landing-page-604e.onrender.com/))
 - [Link de la landing page desplegada](https://landingpage.onrender.com)
 - [Link del repositorio de Frontend](https://github.com/Los-Bytes/FrontendWebApplications)
 - [Link del Frontend desplegada](https://frontendwebapplications-7x8z.onrender.com/home)
