@@ -47,15 +47,15 @@ A continuación, se presentan los enlaces a los repositorios de GitHub utilizado
 
 |                    URL de la organización del proyecto                    |                     URL del repositorio del reporte                      |
 |:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
-| [Link del Repositorio de la Organizacion](https://github.com/Los-Bytes ) | [Link del Repositorio del reporte](https://github.com/Los-Bytes/Report) |
+| [Link del Repositorio de la Organizacion]: https://github.com/Los-Bytes | [Link del Repositorio del reporte]: https://github.com/Los-Bytes/Report |
 
 |                                URL del Landing Page                                |                              URL del Fronted Web Application                             |
 |:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
-| [Link del Repositorio del Landing Page](https://github.com/MarceloMazuelos/LabIoT-Landing-Page/) | [Link del Repositorio del Fronted](https://github.com/Los-Bytes/FrontendWebApplications) |
+| [Link del Repositorio del Landing Page]: https://github.com/MarceloMazuelos/LabIoT-Landing-Page | [Link del Repositorio del Fronted]: https://github.com/Los-Bytes/FrontendWebApplications |
 
 |                         URL del Back End Application                          |                URL del TRELLO del projecto                | 
 |:-----------------------------------------------------------------------------:|:---------------------------------------------------------:|
-| [Link del Repositorio del Backend](https://github.com/Los-Bytes/Backend) | [Link del Trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot) |
+| [Link del Repositorio del Backend]: https://github.com/Los-Bytes/Backend | [Link del Trello]: https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot |
 
 
 
@@ -1357,40 +1357,40 @@ documento [docs/database-diagram.puml](docs/database-diagram.puml).
 #### 5.1.1. Software Development Environment Configuration
 **Project Management**
 **Discord** funciona como la herramienta principal de comunicación en tiempo real entre los integrantes del equipo. Gracias a sus canales estructurados por temas y roles, permite llevar a cabo reuniones, coordinar las actividades diarias y brindar soporte inmediato a lo largo de todo el proceso de desarrollo. <br>
-Ruta de referencia: [Discord](https://discord.com)
+Ruta de referencia: [Discord]: https://discord.com
 **Diseño UX/UI de Producto**
 
 **Figma** se emplea como la herramienta principal para crear interfaces gráficas (UI) y definir la experiencia de usuario (UX). Facilita la colaboración en tiempo real entre varios miembros del equipo para elaborar prototipos interactivos, maquetas visuales y pruebas de diseño. <br>
-Ruta de referencia: [Figma](https://www.figma.com)
+Ruta de referencia: [Figma: https://www.figma.com
 
 **UXPressia** refuerza el proceso de UX al ofrecer recursos para generar y documentar User Personas, Customer Journey Maps y Empathy Maps. Esto permite comprender mejor a los usuarios finales y orientar las decisiones de diseño en función de sus necesidades. <br>
-Ruta de referencia: [UXpressia](https://uxpressia.com)
+Ruta de referencia: [UXpressia]: https://uxpressia.com
 
 **Trello** contribuye a la organización del trabajo de UX mediante tableros, listas y tarjetas, lo que facilita la gestión visual de tareas, ideas y flujos. Ayuda a que los equipos de diseño y desarrollo colaboren de manera ágil, prioricen funcionalidades centradas en el usuario y hagan seguimiento al avance de los proyectos. <br>
-Ruta de referencia: [Trello](https://trello.com)
+Ruta de referencia: [Trello]: https://trello.com
 
 **Software Development**
 
 **Visual Studio Code (VS Code)** es el editor de código principal utilizado en el desarrollo. Ofrece un entorno ligero y altamente personalizable que integra soporte para múltiples lenguajes de programación, extensiones y herramientas de depuración. Gracias a sus funciones de control de versiones y compatibilidad con Git, facilita el trabajo colaborativo y eficiente en los proyectos de software. <br>
-Referencia: [Visual Studio Code](https://code.visualstudio.com/)
+Referencia: [Visual Studio Code]: https://code.visualstudio.com/
 
 **Software Deployment**
 
 **Git** se emplea como sistema de control de versiones para administrar el historial de cambios en el código fuente. Permite la colaboración simultánea de varios desarrolladores con control sobre ramas, fusiones y diferentes versiones del proyecto. <br>
-Referencia: [Git](https://git-scm.com/)
+Referencia: [Git]: https://git-scm.com
 
 **GitHub** es la plataforma en línea donde se alojan y gestionan los repositorios del proyecto. Ofrece herramientas para la colaboración, control de versiones, gestión de issues y pull requests, lo que asegura una integración ordenada y segura de los cambios en el software. <br>
-Referencia: [GitHub](https://github.com/)
+Referencia: [GitHub]: https://github.com/
 
 **GitHub Pages** se emplea como plataforma de alojamiento para desplegar la interfaz frontend de la aplicación. Al estar integrada con los repositorios de GitHub, posibilita la publicación de sitios web estáticos de manera rápida, automatizada y gratuita. <br>
-Referencia: [GitHub Pages](https://docs.github.com/es/pages)
+Referencia: [GitHub Pages]: https://docs.github.com/es/pages
 #### 5.1.2. Source Code Management
 El proyecto adoptará las convenciones del modelo GitFlow como esquema principal de control de versiones, empleando GitHub como plataforma de gestión. A continuación, se describe la aplicación de GitFlow como flujo de trabajo de versionado y se incluyen los enlaces a los repositorios correspondientes al producto Landing Page:
 
 **Repositorios de GitHub:**
-- Organización en GitHub: [Los-Bytes](https://github.com/Los-Bytes)
+- Organización en GitHub: [Los-Bytes]: https://github.com/Los-Bytes
 
-- Repositorio de la Landing Page: [Landing Page LabIoT](https://github.com/MarceloMazuelos/LabIoT-Landing-Page/)
+- Repositorio de la Landing Page: [Landing Page LabIoT]: https://github.com/MarceloMazuelos/LabIoT-Landing-Page
 
 **Flujo de trabajo GitFlow:**
 Para el desarrollo del proyecto se seguirá el modelo de ramas propuesto por Vincent Driessen en “A successful Git branching model”.
@@ -2328,8 +2328,8 @@ En el video se explica el propósito del producto, el problema que resuelve, sus
 <img src="./assets/assets/chapter-5/videos/about-the-product.png" alt="Video About The Product" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQD-1i6d1xubSL2nTVCmFgYqAbq1XrchBbfRHfovvpAeCl8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CoNShc)
-- [**YouTube URL**](https://youtu.be/bconb3BzXSM)
+- **Microsoft Stream URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQD-1i6d1xubSL2nTVCmFgYqAbq1XrchBbfRHfovvpAeCl8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CoNShc)
+- **YouTube URL**: https://youtu.be/bconb3BzXSM)
 
 ---
 
@@ -2408,8 +2408,8 @@ En el video se expone la contribución de cada miembro, la distribución de tare
 <img src="./assets/assets/chapter-5/videos/about%20the%20team%20lab.png" alt="Video About The Team" width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQBda5r08LIPTbwMqDfqZ3kSARfdFSi8wesYZZyizYOfRi8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KIrMmM)
-- [**YouTube URL**](https://youtu.be/qcBa17T2pYk)
+- **Microsoft Stream URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/IQBda5r08LIPTbwMqDfqZ3kSARfdFSi8wesYZZyizYOfRi8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KIrMmM)
+- **YouTube URL**: https://youtu.be/qcBa17T2pYk)
 
 ---
 
@@ -2432,14 +2432,14 @@ Vue.js. (2023). The Progressive JavaScript Framework. Retrieved from https://vue
 
 ## Anexos
 
-- [Link de la organización de GitHub](https://github.com/Los-Bytes)
-- [Link del repositorio del reporte](https://github.com/Los-Bytes/Report)
-- [Link del repositorio de landing page](https://github.com/Los-Bytes/Landing-Page)))
-- [Link de la landing page desplegada](https://landing-page-604e.onrender.com/))
-- [Link del repositorio de Frontend](https://github.com/Los-Bytes/FrontendWebApplications)
-- [Link del Frontend desplegada](https://frontendwebapplications.onrender.com))
-- [Link del repositorio de BackEnd](https://github.com/Los-Bytes/Backend)
-- [Link del Backend desplegado](https://backend-6-9vow.onrender.com/swagger/index.html)
-- [Link del trello](https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot)
+- Link de la organización de GitHub: https://github.com/Los-Bytes
+- Link del repositorio del reporte: https://github.com/Los-Bytes/Report
+- Link del repositorio de landing page: https://github.com/Los-Bytes/Landing-Page
+- Link de la landing page desplegada: https://landing-page-604e.onrender.com
+- Link del repositorio de Frontend]: https://github.com/Los-Bytes/FrontendWebApplications
+- Link del Frontend desplegada: https://frontendwebapplications.onrender.com
+- Link del repositorio de BackEnd: https://github.com/Los-Bytes/Backend
+- Link del Backend desplegado: https://backend-6-9vow.onrender.com/swagger/index.html
+- Link del trello: https://trello.com/invite/b/68e7d0a2e319d274437a350d/ATTIa4dd1d58f90cd64864dde72f78a4d49291E718DC/labiot
 
 
